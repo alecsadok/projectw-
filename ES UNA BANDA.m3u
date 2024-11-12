@@ -1,7 +1,19 @@
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD H265¹" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND FHD H265¹
+http://brqnt.pro:80/123456789/987654321/43137
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD H265²" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND FHD H265²
+http://brqnt.pro:80/123456789/987654321/34441
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ FHD" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND RJ FHD
+http://brqnt.pro:80/123456789/987654321/213997
+#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ HD" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND RJ HD
+http://brqnt.pro:80/123456789/987654321/197037
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD¹" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND HD¹
+http://brqnt.pro:80/123456789/987654321/43136
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD²" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND HD²
+http://brqnt.pro:80/123456789/987654321/167781
+1#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SP 4K " tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K 
+http://ssuny1.com:80/222227297/N754B5795V/284590
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SP 4K " tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K 
 http://trutrend.net:80/908438190/1184599/284590
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SP 4K " tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K 
-http://ssuny1.com:80/222227297/N754B5795V/284590
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SP 4K " tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K 
 http://smtr.mov:80/58426304/4254208/284590
 #EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ HD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ HD
