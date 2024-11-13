@@ -18,6 +18,37 @@ http://trutrend.net:80/908438190/1184599/284590
 http://smtr.mov:80/58426304/4254208/284590
 #EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ HD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ HD
 http://trutrend.net:80/734141768/3687dl/255475
+#EXTM3U
+#EXTINF:-1 tvg-id="Bandba.br" tvg-name="BAND BAHIA HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND BAHIA HD
+http://bptxc.com:80/1757308866pw/5863127278pw/449
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND CAMPINAS FHD
+http://bptxc.com:80/1757308866pw/5863127278pw/388
+#EXTINF:-1 tvg-id="Tvthathiltoral.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND CAMPINAS HD
+http://bptxc.com:80/1757308866pw/5863127278pw/320
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND CURITIBA FHD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND CURITIBA FHD
+http://bptxc.com:80/1757308866pw/5863127278pw/408
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND CURITIBA HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND CURITIBA HD
+http://bptxc.com:80/1757308866pw/5863127278pw/358
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND MINAS FHD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND MINAS FHD
+http://bptxc.com:80/1757308866pw/5863127278pw/311
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND MINAS HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND MINAS HD
+http://bptxc.com:80/1757308866pw/5863127278pw/310
+#EXTINF:-1 tvg-id="Bandrj.br" tvg-name="BAND RJ FHD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND RJ FHD
+http://bptxc.com:80/1757308866pw/5863127278pw/307
+#EXTINF:-1 tvg-id="Bandrj.br" tvg-name="BAND RJ HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND RJ HD
+http://bptxc.com:80/1757308866pw/5863127278pw/321
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND RS HD
+http://bptxc.com:80/1757308866pw/5863127278pw/322
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SERGIPE HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SERGIPE HD
+http://bptxc.com:80/1757308866pw/5863127278pw/323
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND SP FHD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP FHD
+http://bptxc.com:80/1757308866pw/5863127278pw/868
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD H265" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP FHD H265
+http://bptxc.com:80/1757308866pw/5863127278pw/76679
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND SP HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP HD
+http://bptxc.com:80/1757308866pw/5863127278pw/324
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND SP SD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP SD
+http://bptxc.com:80/1757308866pw/5863127278pw/450
 #EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ HD²" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ HD²
 http://trutrend.net:80/734141768/3687dl/255476
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP HD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP HD
@@ -34,3 +65,19 @@ http://trutrend.net:80/734141768/3687dl/368450
 http://trutrend.net:80/734141768/3687dl/255480
 #EXTINF:-1 tvg-id="bandrs.br" tvg-name="Band RS HD²" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band RS HD²
 http://trutrend.net:80/734141768/3687dl/368452
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
+http://bptxc.com:80/1757308866pw/5863127278pw/715
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265
+http://bptxc.com:80/1757308866pw/5863127278pw/714
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP HD
+http://bptxc.com:80/1757308866pw/5863127278pw/741
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD " tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP SD 
+http://bptxc.com:80/1757308866pw/5863127278pw/492
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
+http://bptxc.com:80/1757308866pw/5863127278pw/362
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ H265
+http://bptxc.com:80/1757308866pw/5863127278pw/76673
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
+http://bptxc.com:80/1757308866pw/5863127278pw/335
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
+http://bptxc.com:80/1757308866pw/5863127278pw/491
