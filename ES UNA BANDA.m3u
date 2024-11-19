@@ -1,3 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ FHD" tvg-logo="http://212.102.60.73/logos/Band-Nacional.png" group-title="Brazil",BAND RJ FHD
+http://tvusa.ddns.net:25461/jgguerrar@gmail.com/0a5408062ef26fb1063e5b9beaa5b811dadaa88f0d84a11604c78adf8e7da9bf02f538b7c3ea3e3f27a429a543d0df032dd825f64806b3f9e646135d74934f87/9245
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND FHD" tvg-logo="http://212.102.60.73/logos/Band-Nacional.png" group-title="Brazil",BAND FHD
+http://tvusa.ddns.net:25461/jgguerrar@gmail.com/0a5408062ef26fb1063e5b9beaa5b811dadaa88f0d84a11604c78adf8e7da9bf02f538b7c3ea3e3f27a429a543d0df032dd825f64806b3f9e646135d74934f87/2842
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND HD" tvg-logo="http://212.102.60.73/logos/Band-Nacional.png" group-title="Brazil",BAND HD
+http://tvusa.ddns.net:25461/jgguerrar@gmail.com/0a5408062ef26fb1063e5b9beaa5b811dadaa88f0d84a11604c78adf8e7da9bf02f538b7c3ea3e3f27a429a543d0df032dd825f64806b3f9e646135d74934f87/2841
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND" tvg-logo="http://212.102.60.73/logos/Band-Nacional.png" group-title="Brazil",BAND
+http://tvusa.ddns.net:25461/jgguerrar@gmail.com/0a5408062ef26fb1063e5b9beaa5b811dadaa88f0d84a11604c78adf8e7da9bf02f538b7c3ea3e3f27a429a543d0df032dd825f64806b3f9e646135d74934f87/2857
+#EXTINF:-1 tvg-id="BR - SBT Rio HD" tvg-name="SBT RJ FHD" tvg-logo="http://212.102.60.73/logos/SBT-Nacional.png" group-title="Brazil",SBT RJ FHD
+http://tvusa.ddns.net:25461/jgguerrar@gmail.com/0a5408062ef26fb1063e5b9beaa5b811dadaa88f0d84a11604c78adf8e7da9bf02f538b7c3ea3e3f27a429a543d0df032dd825f64806b3f9e646135d74934f87/4789
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD H265¹" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND FHD H265¹
 http://brqnt.pro:80/123456789/987654321/43137
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD H265²" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | SBT - BAND",BAND FHD H265²
