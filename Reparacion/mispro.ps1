@@ -35,9 +35,3 @@ foreach ($app in $apps) {
     Write-Host "Instalando $app ..." -ForegroundColor Cyan
     winget install --id=$app -e --accept-source-agreements --accept-package-agreements
 }
-
-# Restaurar la política de ejecución predeterminada
-Set-ExecutionPolicy Restricted -Scope Process -Force
-
-# Mostrar mensaje de finalización
-Write-Host "Instalación completada. La política de ejecución ha sido restaurada." -ForegroundColor Green
