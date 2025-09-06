@@ -4,11 +4,19 @@ http://vocotv.pro:80/36463646/36463646/460
 #EXTINF:-1,USA E! East
 http://vocotv.pro:80/36463646/36463646/461
 #EXTINF:-1,US E! Entertainment Television (East)
+http://hdhd.tk:80/Caitlin1/Caitlin1/74
+#EXTINF:-1,US E! Entertainment Television (East)
 http://hdhd.tk:80/mickey123/mickey123/74
 #EXTINF:-1,US E! Entertainment Television (East)
 http://hdhd.tk:80/10011/10011/74
-#EXTINF:-1 tvg-id="" tvg-name="US: E! HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d53336c85cead8784b05a5f0ceb581ff.png" group-title="USA ➾ LIFESTYLE",US: E! HD
-http://ip96.uk:8080//live/@singh_tesla_7207492/puWnhEGsXpK3/291679.ts
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV FHD" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" group-title="US CHANNELS FHD",MTV FHD
+http://thevdm.xyz:25461/jhill/jumpman23/31443
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" group-title="US CHANNELS HD",MTV
+http://thevdm.xyz:25461/jhill/jumpman23/39801
+#EXTINF:-1,US MTV
+http://hdhd.tk:80/Susan123/Susan123/299
+#EXTINF:-1,US MTV
+http://hdhd.tk:80/giants56/giants56/299
 #EXTINF:-1,NV | Las Vegas | CBS KLAS
 http://vocotv.pro:80/36463646/36463646/253539
 #EXTINF:-1,USA: CBS 2 Los Angeles (KCBS)
@@ -19,6 +27,10 @@ http://hdhd.tk:80/mickey123/mickey123/21954
 http://hdhd.tk:80/mickey123/mickey123/21955
 #EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US CBS 2 (WCBS) NEW YORK " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 2 (WCBS) NEW YORK 
 http://cord-cutter.net:8080/Brandon123/Brandon123/120749
+#EXTINF:-1,US MTV
+http://hdhd.tk:80/mickey123/mickey123/299
+#EXTINF:-1,US MTV (West)
+http://hdhd.tk:80/mickey123/mickey123/28222
 #EXTINF:-1,USA: CBS 3 OMAHA (KMTV)
 http://hdhd.tk:80/Caitlin1/Caitlin1/21925
 #EXTINF:-1,USA: CBS 11 Colorado Springs (KKTV)
