@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1,USA E! West
-http://vocotv.pro:80/36463646/36463646/460
-#EXTINF:-1,USA E! East
-http://vocotv.pro:80/36463646/36463646/461
-#EXTINF:-1,US E! Entertainment Television (East)
-http://hdhd.tk:80/Caitlin1/Caitlin1/74
-#EXTINF:-1,US E! Entertainment Television (East)
-http://hdhd.tk:80/mickey123/mickey123/74
-#EXTINF:-1,US E! Entertainment Television (East)
-http://hdhd.tk:80/10011/10011/74
+#EXTINF:-1,US MTV
+http://visitmy.collegefan.org:80/Jtaylor/7063421895/814349
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV FHD" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" group-title="US CHANNELS FHD",MTV FHD
+http://thevdm.xyz:25461/jhill/jumpman23/31443
 #EXTINF:-1,US MTV
 http://kopirnica.streamtv.to:8080/fyXPZl2zn3/6wulp7hUfn/78212
 #EXTINF:-1,US MTV
@@ -17,16 +11,10 @@ https://tvpass.org/live/MTVEast/hd
 http://kopirnica.streamtv.to:8080/fyXPZl2zn3/6wulp7hUfn/78213
 #EXTINF:-1,US MTV
 https://tvpass.org/live/MTVEast/hd
-#EXTINF:-1,US MTV
-http://visitmy.collegefan.org:80/Jtaylor/7063421895/814349
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtv.us" tvg-name="USA MTV" tvg-logo="https://www.in.gr/wp-content/uploads/2022/08/mtv.jpeg" group-title="USA | MUSIC",USA MTV
 http://vocotv.pro:80/rivera/rivera/1148
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV FHD" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" group-title="US CHANNELS FHD",MTV FHD
-http://thevdm.xyz:25461/jhill/jumpman23/31443
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" group-title="US CHANNELS HD",MTV
 http://thevdm.xyz:25461/jhill/jumpman23/39801
-#EXTINF:-1,US MTV
-http://hdhd.tk:80/Susan123/Susan123/299
 #EXTINF:-1,US MTV
 http://hdhd.tk:80/giants56/giants56/299
 #EXTINF:-1,NV | Las Vegas | CBS KLAS
@@ -9443,4 +9431,14 @@ http://hdhd.tk:80/Caitlin1/Caitlin1/383458
 http://hdhd.tk:80/Caitlin1/Caitlin1/383459
 #EXTINF:-1,24/7 CHAPPELLE'S SHOW
 http://hdhd.tk:80/Caitlin1/Caitlin1/383689
+#EXTINF:-1,USA E! West
+http://vocotv.pro:80/36463646/36463646/460
+#EXTINF:-1,USA E! East
+http://vocotv.pro:80/36463646/36463646/461
+#EXTINF:-1,US E! Entertainment Television (East)
+http://hdhd.tk:80/Caitlin1/Caitlin1/74
+#EXTINF:-1,US E! Entertainment Television (East)
+http://hdhd.tk:80/mickey123/mickey123/74
+#EXTINF:-1,US E! Entertainment Television (East)
+http://hdhd.tk:80/10011/10011/74
 
