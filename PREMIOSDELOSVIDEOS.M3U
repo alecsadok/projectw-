@@ -11,16 +11,22 @@ https://tvpass.org/live/MTVEast/hd
 http://vocotv.pro:80/rivera/rivera/1148
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" group-title="US CHANNELS HD",MTV
 http://thevdm.xyz:25461/jhill/jumpman23/39801
-#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="US CBS (WBBM) Chicago " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WBBM) Chicago 
-http://tvmax.icu:8080/104000284/104000284/120688
-#EXTINF:-1,US CBS (WBBM) Washington
-http://6digital9.chocoplus.xyz:8080/N7sQktaQMT2t/bEN8JXjhmAhp/23543
 #EXTINF:-1,US MTV
 http://hdhd.tk:80/giants56/giants56/299
 #EXTINF:-1,US MTV
 http://hdhd.tk:80/mickey123/mickey123/299
 #EXTINF:-1,US MTV (West)
 http://hdhd.tk:80/mickey123/mickey123/28222
+#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="US CBS (WBBM) Chicago " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WBBM) Chicago 
+http://tvmax.icu:8080/104000284/104000284/120688
+#EXTINF:-1,US CBS (WBBM) Washington
+http://6digital9.chocoplus.xyz:8080/N7sQktaQMT2t/bEN8JXjhmAhp/23543
+#EXTINF:-1,US CBS (WBBM) Chicago 
+http://xxip9.top:8080/M0JPjK/877435/120688
+#EXTINF:-1,US CBS 2 (WCBS) NEW YORK 
+http://xxip9.top:8080/M0JPjK/877435/120749
+#EXTINF:-1 tvg-id="cbs9wusa.us" tvg-name="US CBS (WUSA) Washington (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WUSA) Washington (F)
+http://cord-cutter.net:8080/Brandon123/Brandon123/120830
 #EXTINF:-1,US CBS (WBBM) Chicago 
 http://tv14s.xyz:8080/Guest01/Guest01234/120688
 #EXTINF:-1,US CBS 2 (WCBS) NEW YORK 
@@ -31,9 +37,14 @@ http://hdhd.tk:80/Caitlin1/Caitlin1/39349
 http://tv14s.xyz:8080/Guest01/Guest01234/120667
 #EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US CBS 2 (WCBS) NEW YORK " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 2 (WCBS) NEW YORK 
 http://tvmax.icu:8080/13259341/13259341/120749
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs2kcbslosangeleskcbs.us" tvg-name="CA | Los Angeles | CBS KCBS" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/8647cb8a-7032-435c-a7f9-a00b3eb1c29b/thumbnail/1200x630/1a70218bd337830ec5ce34ab29abaf20/logo-cbsnla-1920x1080-new.jpg" group-title="USA | LOCAL - CBS",CA | Los Angeles | CBS KCBS
+http://vocotv.pro:80/rivera/rivera/1404
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs9wusawashington.us" tvg-name="VA | Luray | CBS 9 WUSA" tvg-logo="https://eagleforcewarrior.ejoinme.org/Portals/13189/Users/173/17/44717/WUSA%209%20CBS%20Horizontal%20(Neutral%20Blue).png" group-title="USA | LOCAL - CBS",VA | Luray | CBS 9 WUSA
+http://vocotv.pro:80/rivera/rivera/1349
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS Washington" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/05/WUSA9-
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS Tampa" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs-wtsp.png" group-title="→ USA ←",US: CBS Tampa
 http://6digital9.chocoplus.xyz:8080/N7sQktaQMT2t/bEN8JXjhmAhp/23544
+
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS St Louis" tvg-logo="https://livetv.wtvpc.com/wp-content/uploads/2017/09/kmov_live_online-300x291.png" group-title="→ USA ←",US: CBS St Louis
 http://6digital9.chocoplus.xyz:8080/N7sQktaQMT2t/bEN8JXjhmAhp/23545
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS Seattle" tvg-logo="https://www.crispcreperie.com/wp-content/uploads/2019/06/CBS-Seattle.png" group-title="→ USA ←",US: CBS Seattle
