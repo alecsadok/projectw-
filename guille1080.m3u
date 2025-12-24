@@ -1,0 +1,844 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⏺️ 4K UHD | QHD",MULTISHOW 4K
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/97615.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⛰️ VARIEDADES",MULTISHOW FHD
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/96571.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⛰️ VARIEDADES",MULTISHOW HD
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/96570.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⛰️ VARIEDADES",MULTISHOW SD
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/96569.ts
+#EXTINF:-1 xui-id="99" tvg-id="98" tvg-name="MULTISHOW FHD" tvg-logo="" group-title="Canais | Variedades",MULTISHOW FHD
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLctm7_D5l8--qOwYhvxaFdEH8/ts
+#EXTINF:-1 xui-id="100" tvg-id="98" tvg-name="MULTISHOW HD" tvg-logo="" group-title="Canais | Variedades",MULTISHOW HD
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLcttIhSwAYshX0KUS6p6o0qIE/ts
+#EXTINF:-1 xui-id="659" tvg-id="98" tvg-name="MULTISHOW SD" tvg-logo="http://iksds.site:80/images/f8c95cd3023fc70af1362f052c0562bc.png" group-title="Canais | Variedades",MULTISHOW SD
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLctliUeQRtfiuGx-rc_dwPEH8/ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BRA: MULTISHOW ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://logo.iptveditor.com/multishow.png" group-title="Brazil",BRA: MULTISHOW ʙʀᴀsɪʟ ᴴᴰ
+http://vocotv.pro:80/keisha/keisha/722596
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO 4K" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png" group-title="⏺️ 4K UHD | QHD",GLOBO 4K
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/97363.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="globo.br" tvg-name="BRA: GLOBO 4K" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="Brazil",BRA: GLOBO 4K
+http://vocotv.pro:80/keisha/keisha/722686
+#EXTINF:-1 tvg-id="rbs.br" tvg-name="Globo RBS TV FHD²" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png" group-title="⏺️ GLOBO ",Globo RBS TV FHD²
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/97403.ts
+#EXTINF:-1 tvg-id="rbs.br" tvg-name="GLOBO RBS TV UHD" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png" group-title="⏺️ 4K UHD | QHD",GLOBO RBS TV UHD
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/630327.ts
+#EXTINF:-1 xui-id="468" tvg-id="124" tvg-name="GLOBO RJ FHD" tvg-logo="http://iksds.site:80/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="Canais | Globos",GLOBO RJ FHD
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLctikB9T9PLDlAGVSSa7qq0Ts/ts
+#EXTINF:-1 xui-id="703" tvg-id="GloboBrasil.br" tvg-name="GLOBO RJ FHD H264" tvg-logo="http://iksds.site:80/images/6ea4e343de18aaed7b0057e4b69766a4.png" group-title="Canais | H264",GLOBO RJ FHD H264
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLctvZq1F1G97nXekTVur46oIM/ts
+#EXTINF:-1 xui-id="469" tvg-id="124" tvg-name="GLOBO RJ HD" tvg-logo="http://iksds.site:80/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="Canais | Globos",GLOBO RJ HD
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLcticSTS6Oy_g6zzL_E13rRP0/ts
+#EXTINF:-1 xui-id="587" tvg-id="124" tvg-name="GLOBO RJ SD" tvg-logo="http://iksds.site:80/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="Canais | Globos",GLOBO RJ SD
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLctjjBThxr9E8xjjAfUXTZXkc/ts
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png" group-title="⏺️ GLOBO (SUDESTE)",GLOBO SÃO PAULO FHD
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/113824.ts
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png" group-title="⏺️ GLOBO (SUDESTE)",GLOBO SÃO PAULO HD
+http://coneasy.lat:80/live/bxoyjifq/63MirpZd91/113820.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo SP HD" tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" group-title="BRAZIL ",BR Globo SP HD
+http://cord-cutter.net:8080/davis1/1davis/21020
+#EXTINF:-1 xui-id="315" tvg-id="GloboBrasil.br" tvg-name="GLOBO SP FHD H264" tvg-logo="http://iksds.site:80/images/6ea4e343de18aaed7b0057e4b69766a4.png" group-title="Canais | H264",GLOBO SP FHD H264
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLcthNVuyYpdIN16-LZHC5tCIE/ts
+#EXTINF:-1 xui-id="477" tvg-id="124" tvg-name="GLOBO SP HD" tvg-logo="http://iksds.site:80/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="Canais | Globos",GLOBO SP HD
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLctvHH2kzsOgQwOrdSIG1bfBs/ts
+#EXTINF:-1 xui-id="595" tvg-id="124" tvg-name="GLOBO SP SD" tvg-logo="http://iksds.site:80/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="Canais | Globos",GLOBO SP SD
+http://iksds.site:80/play/Y0xEDVP7xWiKKhIEAgLctlbgQ1OUp0U3-UBdCM9EPxI/ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="globorio.br" tvg-name="BRA: GLOBO RIO ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://logo.iptveditor.com/globorio.png" group-title="Brazil",BRA: GLOBO RIO ʙʀᴀsɪʟ ᴴᴰ
+http://vocotv.pro:80/keisha/keisha/722691
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="globosp.br" tvg-name="BRA: GLOBO SP ʙʀᴀsɪʟ ᴴᴰ" tvg-logo="https://logo.iptveditor.com/globosp.png" group-title="Brazil",BRA: GLOBO SP ʙʀᴀsɪʟ ᴴᴰ
+http://vocotv.pro:80/keisha/keisha/722690
+#EXTM3U
+#EXTINF:-1,AK | Fairbanks | NBC KTVF
+http://xxip9.top:8080/M0JPjK/877435/120635
+#EXTINF:-1,AK | Juneau-douglas | NBC KATH
+http://xxip9.top:8080/M0JPjK/877435/120636
+#EXTINF:-1,FOX: BIRMINGHAM AL WBRC
+http://xxip9.top:8080/M0JPjK/877435/120638
+#EXTINF:-1,NBC: AL MOBILE WPMI
+http://xxip9.top:8080/M0JPjK/877435/120643
+#EXTINF:-1,NBC: AR LITTLE ROCK KARK
+http://xxip9.top:8080/M0JPjK/877435/120646
+#EXTINF:-1,CBS: CA SAN FRANCISCO KPIX
+http://xxip9.top:8080/M0JPjK/877435/120657
+#EXTINF:-1,US NBC (WTLV) Jacksonville 
+http://xxip9.top:8080/M0JPjK/877435/120672
+#EXTINF:-1,CBS: ID BOISE KBOI
+http://xxip9.top:8080/M0JPjK/877435/120684
+#EXTINF:-1,NBC: ID BOISE KTVB
+http://xxip9.top:8080/M0JPjK/877435/120685
+#EXTINF:-1,US CBS (WBBM) Chicago 
+http://xxip9.top:8080/M0JPjK/877435/120688
+#EXTINF:-1,MI | Grand Rapids | NBC WOOD
+http://xxip9.top:8080/M0JPjK/877435/120719
+#EXTINF:-1,NBC: MT MISSOULA KECI
+http://xxip9.top:8080/M0JPjK/877435/120733
+#EXTINF:-1,US NBC 7 (KRNV) Reno
+http://xxip9.top:8080/M0JPjK/877435/120744
+#EXTINF:-1,US NBC (WGRZ) HD 
+http://xxip9.top:8080/M0JPjK/877435/120748
+#EXTINF:-1,NBC: CINCINNATI WLWT
+http://xxip9.top:8080/M0JPjK/877435/120755
+#EXTINF:-1,RI | Providence | | WJAR
+http://xxip9.top:8080/M0JPjK/877435/120781
+#EXTINF:-1,NBC: EL PASO KTSM
+http://xxip9.top:8080/M0JPjK/877435/120808
+#EXTINF:-1,TX | Fort Worth | NBC KXAS
+http://xxip9.top:8080/M0JPjK/877435/120811
+#EXTINF:-1,WA | Tacoma | CW KSTW
+http://xxip9.top:8080/M0JPjK/877435/120828
+#EXTINF:-1,US News 12 Connecticut 
+http://xxip9.top:8080/M0JPjK/877435/120854
+#EXTINF:-1,US CBS (KYW) Philadelphia (F)
+http://xxip9.top:8080/M0JPjK/877435/121150
+#EXTINF:-1,US CBS (WTVH) Syracuse (F)
+http://xxip9.top:8080/M0JPjK/877435/122004
+#EXTINF:-1,US NBC (WAGT) Augusta 
+http://xxip9.top:8080/M0JPjK/877435/122271
+#EXTINF:-1,CBS: ME PORTLAND WGME
+http://xxip9.top:8080/M0JPjK/877435/122277
+#EXTINF:-1,US The Cowboy Channel 
+http://xxip9.top:8080/M0JPjK/877435/122527
+#EXTINF:-1,US TeenNick
+http://xxip9.top:8080/M0JPjK/877435/140004
+#EXTINF:-1,US World Poker Tour 
+http://xxip9.top:8080/M0JPjK/877435/140815
+#EXTINF:-1,CBS: MI DETROIT WWJ
+http://xxip9.top:8080/M0JPjK/877435/147201
+#EXTINF:-1,US PBS (WNET) NY | New York (D)
+http://xxip9.top:8080/M0JPjK/877435/149622
+#EXTINF:-1,US NBC 9 (WTVA) Tupelo (D)
+http://xxip9.top:8080/M0JPjK/877435/213646
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WV | Wheeling | FOX WTOV-D2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/LOGO_WTOV_solid_FOX9_legal_blk.png/800px-LOGO_WTOV_solid_FOX9_legal_blk.png" group-title="USA | LOCAL - FOX",WV | Wheeling | FOX WTOV-D2
+http://vocotv.pro:80/rivera/rivera/642312
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wtrf.us" tvg-name="WV | Wheeling | CBS WTRF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/7_WTRF_CBS.png/800px-7_WTRF_CBS.png" group-title="USA | LOCAL - CBS",WV | Wheeling | CBS WTRF
+http://vocotv.pro:80/rivera/rivera/642311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbswiyewiyeparkersburgwv.us" tvg-name="WV | Parkersburg | CBS WIYE-LD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/799px-CBS_logo_%282020%29.svg.png" group-title="USA | LOCAL - CBS",WV | Parkersburg | CBS WIYE-LD
+http://vocotv.pro:80/rivera/rivera/642308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wvns.us" tvg-name="WV | Bluefield | CBS WVNS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/WVNS-TV_CBS_Fox_59_logo.png/220px-WVNS-TV_CBS_Fox_59_logo.png" group-title="USA | LOCAL - CBS",WV | Bluefield | CBS WVNS
+http://vocotv.pro:80/rivera/rivera/642304
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbskbjrkbjrdt2superiorwi.us" tvg-name="WI | Superior | CBS KBJR-D2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/KBJR_2023.svg/revision/latest/scale-to-width-down/32?cb=20240621014440" group-title="USA | LOCAL - CBS",WI | Superior | CBS KBJR-D2
+http://vocotv.pro:80/rivera/rivera/642291
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbskylxkylxlaredotx.us" tvg-name="TX | Laredo | CBS KYLX-LD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/KYLX13.png/200px-KYLX13.png" group-title="USA | LOCAL - CBS",TX | Laredo | CBS KYLX-LD
+http://vocotv.pro:80/rivera/rivera/642258
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abckgnskgnskgnsdt2laredotx.us" tvg-name="TX | Laredo | ABC KGNS-D2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/KGNS_News_2023.svg/revision/latest/scale-to-width-down/78?cb=20231204173315" group-title="USA | LOCAL - ABC",TX | Laredo | ABC KGNS-D2
+http://vocotv.pro:80/rivera/rivera/642257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kclo.us" tvg-name="SD | Rapid City | CBS KCLO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/KELO-sitelogo.png/revision/latest/scale-to-width-down/78?cb=20200320143915" group-title="USA | LOCAL - CBS",SD | Rapid City | CBS KCLO
+http://vocotv.pro:80/rivera/rivera/642218
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbswtajwtajaltoonajohnstown.us" tvg-name="PA | Johnstown | CBS WTAJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Wtaj_logo-removebg-preview.png/revision/latest/scale-to-width-down/78?cb=20230413043031" group-title="USA | LOCAL - CBS",PA | Johnstown | CBS WTAJ
+http://vocotv.pro:80/rivera/rivera/642145
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kxii.us" tvg-name="OK | Ada | CBS KXII" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/KXII12.png" group-title="USA | LOCAL - CBS",OK | Ada | CBS KXII
+http://vocotv.pro:80/rivera/rivera/642140
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wbng.us" tvg-name="NY | Binghamton | CBS WBNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/12WBNG_logocolor.jpg/135px-12WBNG_logocolor.jpg" group-title="USA | LOCAL - CBS",NY | Binghamton | CBS WBNG
+http://vocotv.pro:80/rivera/rivera/642120
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbskolnkolnlincolnsuperiorne.us" tvg-name="NE | Superior | CBS KOLN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/KOLN-KGIN_10-11.jpg" group-title="USA | LOCAL - CBS",NE | Superior | CBS KOLN
+http://vocotv.pro:80/rivera/rivera/642115
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcklknklknlincolnsuperiorne.us" tvg-name="NE | Superior | ABC KLKN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/KLKN_%282021%29.svg/revision/latest?cb=20220205083504" group-title="USA | LOCAL - ABC",NE | Superior | ABC KLKN
+http://vocotv.pro:80/rivera/rivera/642109
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wnct.us" tvg-name="NC | Washington | CBS WNCT" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/09/logo_WNCT_2022.jpg" group-title="USA | LOCAL - CBS",NC | Washington | CBS WNCT
+http://vocotv.pro:80/rivera/rivera/641067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbskpaxkpaxmissoula.us" tvg-name="MT | Missoula | CBS KPAX-D2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/KPAX_8_2019.png" group-title="USA | LOCAL - CBS",MT | Missoula | CBS KPAX-D2
+http://vocotv.pro:80/rivera/rivera/641064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbskpaxkpaxmissoula.us" tvg-name="MT | Missoula | CBS KPAX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/KPAX_8_2019.png" group-title="USA | LOCAL - CBS",MT | Missoula | CBS KPAX
+http://vocotv.pro:80/rivera/rivera/641062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="whlt.us" tvg-name="MS | Laurel | CBS WHLT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Whlt.png/revision/latest/scale-to-width-down/54?cb=20200229012053" group-title="USA | LOCAL - CBS",MS | Laurel | CBS WHLT
+http://vocotv.pro:80/rivera/rivera/641049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcwdamwdamdt2wdamlaurelms.us" tvg-name="MS | Laurel | ABC WDAM-D2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/855E6EA6-4B39-4638-854B-85896668B1B8.png" group-title="USA | LOCAL - ABC",MS | Laurel | ABC WDAM-D2
+http://vocotv.pro:80/rivera/rivera/641048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kcjold.us" tvg-name="MO | St. Joseph | CBS KCJO-LD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Cbs_30_kcjo.png" group-title="USA | LOCAL - CBS",MO | St. Joseph | CBS KCJO-LD
+http://vocotv.pro:80/rivera/rivera/641044
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcwatewmtwportlandagustawatervillebangorme.us" tvg-name="ME | Portland | ABC WMTW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WMTW_logo_2022.svg/1024px-WMTW_logo_2022.svg.png" group-title="USA | LOCAL - ABC",ME | Portland | ABC WMTW
+http://vocotv.pro:80/rivera/rivera/641031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbskswlkswllakecharlesla.us" tvg-name="LA | Lake Charles | CBS KSWL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/CBS_Lake_Charles_KSWL_17.jpg" group-title="USA | LOCAL - CBS",LA | Lake Charles | CBS KSWL
+http://vocotv.pro:80/rivera/rivera/640682
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs12kwchhutchinson.us" tvg-name="KS | WICHITA | CBS KWCH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/KWCH12-0.png" group-title="USA | LOCAL - CBS",KS | WICHITA | CBS KWCH
+http://vocotv.pro:80/rivera/rivera/640677
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs44wevv.us" tvg-name="IN | Evansville | FOX WEVV-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Fox_44_WEVV_logo_2015.svg" group-title="USA | LOCAL - FOX",IN | Evansville | FOX WEVV-DT
+http://vocotv.pro:80/rivera/rivera/640672
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbskforwifrrockford.us" tvg-name="IL | Rockford | CBS WIFR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/WIFR_logo_2024.svg/1920px-WIFR_logo_2024.svg.png" group-title="USA | LOCAL - CBS",IL | Rockford | CBS WIFR
+http://vocotv.pro:80/rivera/rivera/640667
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kmvt.us" tvg-name="ID | Twin Falls | CBS KMVT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/KMVT_logo.svg/1920px-KMVT_logo.svg.png" group-title="USA | LOCAL - CBS",ID | Twin Falls | CBS KMVT
+http://vocotv.pro:80/rivera/rivera/640656
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs3krtvgreatfalls.us" tvg-name="MT | Great Falls | KRTV-D2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/KRTV_3_logo.png" group-title="USA | LOCAL - CBS",MT | Great Falls | KRTV-D2
+http://vocotv.pro:80/rivera/rivera/640577
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs13kxdffairbanks.us" tvg-name="AK | Fairbanks | CBS KXDF-CD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/KXDF-CD_logo.png" group-title="USA | LOCAL - CBS",AK | Fairbanks | CBS KXDF-CD
+http://vocotv.pro:80/rivera/rivera/640567
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs8knoemonroeeldorado.us" tvg-name="AR | Monroe-El Dorado | CBS KNOE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBS_logo.svg" group-title="USA | LOCAL - CBS",AR | Monroe-El Dorado | CBS KNOE
+http://vocotv.pro:80/rivera/rivera/640556
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kion.us" tvg-name="CA | Salinas | CBS KION" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2016/10/new-kion-logo.png" group-title="USA | LOCAL - CBS",CA | Salinas | CBS KION
+http://vocotv.pro:80/rivera/rivera/640381
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcksbwksbwdt2salinas.us" tvg-name="CA | Salinas | ABC KSBW-D2" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6d/KSBW_ABC_Logo.png" group-title="USA | LOCAL - ABC",CA | Salinas | ABC KSBW-D2
+http://vocotv.pro:80/rivera/rivera/640380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbskviqkviqeureka.us" tvg-name="CA | Eureka | CBS KVIQ" tvg-logo="https://static.wikia.nocookie.net/news-stations/images/8/83/KVIQ-LP_logo.png" group-title="USA | LOCAL - CBS",CA | Eureka | CBS KVIQ
+http://vocotv.pro:80/rivera/rivera/640371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs3kimtrochesteria.us" tvg-name="MN | Austin | CBS KIMT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Kimt_2014.png/275px-Kimt_2014.png" group-title="USA | LOCAL - CBS",MN | Austin | CBS KIMT
+http://vocotv.pro:80/rivera/rivera/640365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs8wakamontgomery.us" tvg-name="AL | Montgomery | CBS WAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/WAKA_logo_2023.png/140px-WAKA_logo_2023.png" group-title="USA | LOCAL - CBS",AL | Montgomery | CBS WAKA
+http://vocotv.pro:80/rivera/rivera/640360
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[US] NEW KMOVIES HD [sᴛᴠ+]" tvg-logo="https://s12.gifyu.com/images/Sai9s.png" group-title="USA | SAMSUNG TV+",[US] NEW KMOVIES HD [sᴛᴠ+]
+http://vocotv.pro:80/rivera/rivera/623443
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[US] THIS OLD HOUSE MAKERS FHD [sᴛᴠ+]" tvg-logo="https://s9.gifyu.com/images/Sai82.png" group-title="USA | SAMSUNG TV+",[US] THIS OLD HOUSE MAKERS FHD [sᴛᴠ+]
+http://vocotv.pro:80/rivera/rivera/623345
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="USA Estrella News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/estrella-news-vod.png" group-title="USA | LATIN",USA Estrella News
+http://vocotv.pro:80/rivera/rivera/623307
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[US] THE LEGO CHANNEL FHD [sᴛᴠ+]" tvg-logo="https://s12.gifyu.com/images/Sa0BE.png" group-title="USA | SAMSUNG TV+",[US] THE LEGO CHANNEL FHD [sᴛᴠ+]
+http://vocotv.pro:80/rivera/rivera/623243
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="US| Game Show Central FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gsn_gameshowchannnel_1.png" group-title="USA | PLEX",US| Game Show Central FHD ▪ᴘʟᴇx▪
+http://vocotv.pro:80/rivera/rivera/622295
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="US| The Grio FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e2b22c28c76774811fcd7847400aeda6.png" group-title="USA | PLEX",US| The Grio FHD ▪ᴘʟᴇx▪
+http://vocotv.pro:80/rivera/rivera/622054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs13wibwtopeka.us" tvg-name="KS | Topeka | CBS WIBW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/WIBW-TV_logo.svg/1200px-WIBW-TV_logo.svg.png" group-title="USA | LOCAL - CBS",KS | Topeka | CBS WIBW
+http://vocotv.pro:80/rivera/rivera/325124
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ksl.us" tvg-name="UT | Salt Lake City | NBC KSL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/KSL-TV_logo.svg/revision/latest/scale-to-width-down/68?cb=20220128070539" group-title="USA | LOCAL - NBC",UT | Salt Lake City | NBC KSL
+http://vocotv.pro:80/rivera/rivera/316742
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs10kfdaamarillo.us" tvg-name="TX | Amarillo | CBS 10 KFDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KFDA-TV_logo.svg/626px-KFDA-TV_logo.svg.png" group-title="USA | LOCAL - CBS",TX | Amarillo | CBS 10 KFDA
+http://vocotv.pro:80/rivera/rivera/306465
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wsbt.us" tvg-name="FOX 23 South Bend Indiana WSBT" tvg-logo="https://i.ytimg.com/vi/2iJNlq22aa0/hqdefault.jpg" group-title="USA | LOCAL - FOX",FOX 23 South Bend Indiana WSBT
+http://vocotv.pro:80/rivera/rivera/270611
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs19whnthuntsville.us" tvg-name="AL | Huntsville | CBS WHNT" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2020/12/WHNT_2020-e1606969336365.jpg" group-title="USA | LOCAL - CBS",AL | Huntsville | CBS WHNT
+http://vocotv.pro:80/rivera/rivera/299804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | COLORADO AVALANCHE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Colorado_Avalanche_logo.svg" group-title="USA | NHL Teams",NHL | COLORADO AVALANCHE
+http://vocotv.pro:80/rivera/rivera/298732
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | COLUMBUS BLUE JACKETS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Columbus_Blue_Jackets_logo.svg/220px-Columbus_Blue_Jackets_logo.svg.png" group-title="USA | NHL Teams",NHL | COLUMBUS BLUE JACKETS
+http://vocotv.pro:80/rivera/rivera/298731
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | DALLAS STARS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dallas_Stars_logo_%282013%29.svg/220px-Dallas_Stars_logo_%282013%29.svg.png" group-title="USA | NHL Teams",NHL | DALLAS STARS
+http://vocotv.pro:80/rivera/rivera/298730
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | EDMONTON OILERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Logo_Edmonton_Oilers.svg/220px-Logo_Edmonton_Oilers.svg.png" group-title="USA | NHL Teams",NHL | EDMONTON OILERS
+http://vocotv.pro:80/rivera/rivera/298728
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | FLORIDA PANTHERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Florida_Panthers_2016_logo.svg/220px-Florida_Panthers_2016_logo.svg.png" group-title="USA | NHL Teams",NHL | FLORIDA PANTHERS
+http://vocotv.pro:80/rivera/rivera/298727
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | LOS ANGELES KINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Los_Angeles_Kings_2024_Logo.svg/220px-Los_Angeles_Kings_2024_Logo.svg.png" group-title="USA | NHL Teams",NHL | LOS ANGELES KINGS
+http://vocotv.pro:80/rivera/rivera/298726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | NEW YORK ISLANDERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Logo_New_York_Islanders.svg/220px-Logo_New_York_Islanders.svg.png" group-title="USA | NHL Teams",NHL | NEW YORK ISLANDERS
+http://vocotv.pro:80/rivera/rivera/298721
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | PHILADELPHIA FLYERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Philadelphia_Flyers.svg/220px-Philadelphia_Flyers.svg.png" group-title="USA | NHL Teams",NHL | PHILADELPHIA FLYERS
+http://vocotv.pro:80/rivera/rivera/298718
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | SAN JOSE SHARKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/220px-SanJoseSharksLogo.svg.png" group-title="USA | NHL Teams",NHL | SAN JOSE SHARKS
+http://vocotv.pro:80/rivera/rivera/298716
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | SEATTLE KRAKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Seattle_Kraken_official_logo.svg/220px-Seattle_Kraken_official_logo.svg.png" group-title="USA | NHL Teams",NHL | SEATTLE KRAKEN
+http://vocotv.pro:80/rivera/rivera/298715
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NHL | VANCOUVER CANUCKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/220px-Vancouver_Canucks_logo.svg.png" group-title="USA | NHL Teams",NHL | VANCOUVER CANUCKS
+http://vocotv.pro:80/rivera/rivera/298711
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs6wtvrrichmond.us" tvg-name="VA | Richmond | CBS 6 WTVR" tvg-logo="https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/f8/1f86857a-8164-5afc-8517-60d5debdc322/5c923abab5651.image.png" group-title="USA | LOCAL - CBS",VA | Richmond | CBS 6 WTVR
+http://vocotv.pro:80/rivera/rivera/295600
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kcet.us" tvg-name="CA | Bakersfield | PBS KCET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1920px-PBS_logo_2019.svg.png" group-title="USA | LOCAL PBS",CA | Bakersfield | PBS KCET
+http://vocotv.pro:80/rivera/rivera/2260
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc25wpbfwestpalmbeach.us" tvg-name="FL | West Palm Beach | ABC WPBF" tvg-logo="https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/htv_default_image/wpbf/top_image.png" group-title="USA | LOCAL - ABC",FL | West Palm Beach | ABC WPBF
+http://vocotv.pro:80/rivera/rivera/291419
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wbbh.us" tvg-name="FL | Fort Myers | NBC WBBH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/WBBH2025.svg/revision/latest/scale-to-width-down/78?cb=20250206004103" group-title="USA | LOCAL - NBC",FL | Fort Myers | NBC WBBH
+http://vocotv.pro:80/rivera/rivera/287130
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs5kfsmfortsmith.us" tvg-name="AR | Fort Smith | CBS KFSM" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/7/7e/F8956018-1815-4755-8352-F7C2A4D4EC82.jpeg" group-title="USA | LOCAL - CBS",AR | Fort Smith | CBS KFSM
+http://vocotv.pro:80/rivera/rivera/287129
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs10ktvlmedford.us" tvg-name="OR | Fort Klamath | CBS KTVL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/KTVL_10_Logo_2023.png/800px-KTVL_10_Logo_2023.png" group-title="USA | LOCAL - CBS",OR | Fort Klamath | CBS KTVL
+http://vocotv.pro:80/rivera/rivera/287125
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wxvtld.us" tvg-name="MS | Greenwood | CBS WXVT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Wxvt_2017.png/revision/latest/scale-to-width-down/250?cb=20250519224632" group-title="USA | LOCAL - CBS",MS | Greenwood | CBS WXVT
+http://vocotv.pro:80/rivera/rivera/286270
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAR: CVM JAMAICA" tvg-logo="https://asiagrandiptv.us/logo//CVMJAMAICA.jpg" group-title="CARIBBEAN",CAR: CVM JAMAICA
+http://vocotv.pro:80/rivera/rivera/280199
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAR: TELE CONTACTO 57" tvg-logo="https://asiagrandiptv.us/logo/telecontacto57.png" group-title="CARIBBEAN",CAR: TELE CONTACTO 57
+http://vocotv.pro:80/rivera/rivera/280170
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs19wltxcolumbia.us" tvg-name="SC | Columbia | CBS 19 WLTX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/WLTX16.svg/revision/latest/scale-to-width-down/53?cb=20250627182414" group-title="USA | LOCAL - CBS",SC | Columbia | CBS 19 WLTX
+http://vocotv.pro:80/rivera/rivera/275873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kiro.us" tvg-name="WA | Seattle | CBS KIRO" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/08/KIRO-7-Seattle-WA.jpg" group-title="USA | LOCAL - CBS",WA | Seattle | CBS KIRO
+http://vocotv.pro:80/rivera/rivera/274520
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs4wtvydothan.us" tvg-name="AL | Dothan | CBS WTVY" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/02/WTVY-Dothan-AL-300x169.jpg" group-title="USA | LOCAL - CBS",AL | Dothan | CBS WTVY
+http://vocotv.pro:80/rivera/rivera/270610
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wgba.us" tvg-name="WI | Green Bay | NBC 26 WGBA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/WGBA_NBC26_2020.svg/revision/latest/scale-to-width-down/78?cb=20220512065851" group-title="USA | LOCAL - NBC",WI | Green Bay | NBC 26 WGBA
+http://vocotv.pro:80/rivera/rivera/271005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Bengals (WKRC) Cincinnati OH" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/cincinnatibengals.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Bengals (WKRC) Cincinnati OH
+http://vocotv.pro:80/rivera/rivera/268377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Browns (WOIO) Clevland OH" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/clevelandbrowns.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Browns (WOIO) Clevland OH
+http://vocotv.pro:80/rivera/rivera/268374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Buccaneers (WTSP) St. Petersburg FL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/tampabaybuccaneers.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Buccaneers (WTSP) St. Petersburg FL
+http://vocotv.pro:80/rivera/rivera/268373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Cardinals (KPHO) Phoenix AZ" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/arizonacardinals.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Cardinals (KPHO) Phoenix AZ
+http://vocotv.pro:80/rivera/rivera/268372
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Chargers (KFMB) San Diego CA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/sandiegochargers.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Chargers (KFMB) San Diego CA
+http://vocotv.pro:80/rivera/rivera/268371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Chiefs (KCTV) Kansas City MO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/kansascitychiefs.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Chiefs (KCTV) Kansas City MO
+http://vocotv.pro:80/rivera/rivera/268370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Chiefs Bears (KMOV) St. Louis MO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/kansascitychiefs.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Chiefs Bears (KMOV) St. Louis MO
+http://vocotv.pro:80/rivera/rivera/268369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Dolphins (WFOR) Miami FL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/miamidolphins.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Dolphins (WFOR) Miami FL
+http://vocotv.pro:80/rivera/rivera/268366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Patriots (WBZ) Boston MA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/newenglandpatriots.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Patriots (WBZ) Boston MA
+http://vocotv.pro:80/rivera/rivera/268362
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wjzy.us" tvg-name="NFL Teams: CBS Ravens (WJZ) Baltimore MD" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/baltimoreravens.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Ravens (WJZ) Baltimore MD
+http://vocotv.pro:80/rivera/rivera/268360
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: CBS Steelers (KDKA-DT) Pittsburgh PA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/pittsburghsteelers.jpg" group-title="USA | NFL Teams",NFL Teams: CBS Steelers (KDKA-DT) Pittsburgh PA
+http://vocotv.pro:80/rivera/rivera/268359
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: FOX Dolphins (WSVN) Miami FL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/miamidolphins.jpg" group-title="USA | NFL Teams",NFL Teams: FOX Dolphins (WSVN) Miami FL
+http://vocotv.pro:80/rivera/rivera/268351
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NFL Teams: FOX Packers (KTVI) St. Louis MO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/greenbaypackers.jpg" group-title="USA | NFL Teams",NFL Teams: FOX Packers (KTVI) St. Louis MO
+http://vocotv.pro:80/rivera/rivera/268347
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wtsp.us" tvg-name="FL | Tampa | CBS 10 WTSP" tvg-logo="https://media.wtsp.com/assets/WTSP/images/4d7de983-28c0-4a17-8504-51278595abd9/4d7de983-28c0-4a17-8504-51278595abd9_360x203.png" group-title="USA | LOCAL - CBS",FL | Tampa | CBS 10 WTSP
+http://vocotv.pro:80/rivera/rivera/268338
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="investigationdiscovery.us" tvg-name="USA Investigation Discovery HD" tvg-logo="http://xplatinmedia.com:8080/images/c252334e2e045ea52295de41cbefa2b7.png" group-title="USA | Documentaries",USA Investigation Discovery HD
+http://vocotv.pro:80/rivera/rivera/259288
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsklasklaslasvegasnv.us" tvg-name="NV | Las Vegas | CBS KLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KLAS_1.svg/revision/latest/scale-to-width-down/54?cb=20210212094438" group-title="USA | LOCAL - CBS",NV | Las Vegas | CBS KLAS
+http://vocotv.pro:80/rivera/rivera/253539
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbs.us" tvg-name="USA CBS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="USA | ENTERTAINMENT",USA CBS
+http://vocotv.pro:80/rivera/rivera/253197
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcwktvwktvuticany.us" tvg-name="USA NBC" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/12/nbc-new-logo-2022.jpg" group-title="USA | ENTERTAINMENT",USA NBC
+http://vocotv.pro:80/rivera/rivera/253198
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="absoluterealitybywetv.us" tvg-name="USA All Reality WE tv" tvg-logo="https://www.pcwebopaedia.com/wp-content/uploads/2022/09/we_tv_logo-1.webp" group-title="USA | ENTERTAINMENT",USA All Reality WE tv
+http://vocotv.pro:80/rivera/rivera/516
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="adultswimwest.us" tvg-name="USA Adult Swim West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Adult_Swim.svg/revision/latest?cb=20201128112724" group-title="USA | ENTERTAINMENT",USA Adult Swim West
+http://vocotv.pro:80/rivera/rivera/514
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bravo.us" tvg-name="USA Bravo East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Bravo_2024.svg/revision/latest/scale-to-width-down/63?cb=20240508041547" group-title="USA | ENTERTAINMENT",USA Bravo East
+http://vocotv.pro:80/rivera/rivera/494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="charge!.us" tvg-name="USA Charge!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Charge%21_2020.svg/revision/latest?cb=20200412195114" group-title="USA | ENTERTAINMENT",USA Charge!
+http://vocotv.pro:80/rivera/rivera/490
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comet.us" tvg-name="USA Comet" tvg-logo="https://theahl.com/wp-content/uploads/sites/3/2021/05/utica21_64.png" group-title="USA | ENTERTAINMENT",USA Comet
+http://vocotv.pro:80/rivera/rivera/483
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cozitvny.us" tvg-name="USA Cozi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Cozi_TV_2018.svg/revision/latest?cb=20190815160615" group-title="USA | ENTERTAINMENT",USA Cozi TV
+http://vocotv.pro:80/rivera/rivera/480
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.us" tvg-name="USA Comedy Central" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Comedy_Central_2018.svg/revision/latest?cb=20191223064712" group-title="USA | ENTERTAINMENT",USA Comedy Central
+http://vocotv.pro:80/rivera/rivera/295936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="magnolianetwork.us" tvg-name="USA Magnolia Network" tvg-logo="http://xplatinmedia.com:8080/images/8bdc0a760490ca729fa9d4711ca70893.png" group-title="USA | ENTERTAINMENT",USA Magnolia Network
+http://vocotv.pro:80/rivera/rivera/465
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dogtv.us" tvg-name="USA Dog TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/DOGTV_2021.svg/revision/latest?cb=20220503163054" group-title="USA | ENTERTAINMENT",USA Dog TV
+http://vocotv.pro:80/rivera/rivera/463
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eentertainment.us" tvg-name="USA E! East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/E%21_%282012%29.svg/revision/latest?cb=20210104232934" group-title="USA | ENTERTAINMENT",USA E! East
+http://vocotv.pro:80/rivera/rivera/461
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="e!entertainmenttelevision()west.us" tvg-name="USA E! West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/E%21_%282012%29.svg/revision/latest?cb=20210104232934" group-title="USA | ENTERTAINMENT",USA E! West
+http://vocotv.pro:80/rivera/rivera/460
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.us" tvg-name="USA Food Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/1019px-Food_Network.svg.png" group-title="USA | ENTERTAINMENT",USA Food Network East
+http://vocotv.pro:80/rivera/rivera/458
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gettv.us" tvg-name="USA GET TV" tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="USA | ENTERTAINMENT",USA GET TV
+http://vocotv.pro:80/rivera/rivera/447
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gusto.us" tvg-name="USA Gusto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/1200px-Gusto_logo.svg.png" group-title="USA | ENTERTAINMENT",USA Gusto
+http://vocotv.pro:80/rivera/rivera/442
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="lawandcrimerewind.us" tvg-name="USA Law And Crime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/551px-CIopening.jpg/revision/latest?cb=20120305024538" group-title="USA | ENTERTAINMENT",USA Law And Crime
+http://vocotv.pro:80/rivera/rivera/420
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="lifetimemovienetworkwest.us" tvg-name="USA Lifetime Movie East LMN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" group-title="USA | ENTERTAINMENT",USA Lifetime Movie East LMN
+http://vocotv.pro:80/rivera/rivera/418
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mavtv.us" tvg-name="USA MAVTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Racer_Network_2025.png/revision/latest?cb=20250415083445" group-title="USA | ENTERTAINMENT",USA MAVTV
+http://vocotv.pro:80/rivera/rivera/415
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motortrend.us" tvg-name="USA MotorTrend" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/motortrend.png" group-title="USA | ENTERTAINMENT",USA MotorTrend
+http://vocotv.pro:80/rivera/rivera/410
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="outsidetvplus.us" tvg-name="USA Outside TV +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Outsidetv_logo_2016.png/revision/latest?cb=20210315043708" group-title="USA | ENTERTAINMENT",USA Outside TV +
+http://vocotv.pro:80/rivera/rivera/402
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="oxygen.us" tvg-name="USA Oxygen East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg/revision/latest?cb=20170801131103" group-title="USA | ENTERTAINMENT",USA Oxygen East
+http://vocotv.pro:80/rivera/rivera/399
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pop.us" tvg-name="USA POP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Pop.svg/revision/latest/scale-to-width-down/78?cb=20210208153330" group-title="USA | ENTERTAINMENT",USA POP
+http://vocotv.pro:80/rivera/rivera/491
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiitalia.us" tvg-name="USA RAI Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="USA | ENTERTAINMENT",USA RAI Italia
+http://vocotv.pro:80/rivera/rivera/390
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="retroplex.us" tvg-name="USA RetroPlex East" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/retroplex.png" group-title="USA | ENTERTAINMENT",USA RetroPlex East
+http://vocotv.pro:80/rivera/rivera/388
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="retroplexwest.us" tvg-name="USA RetroPlex West" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/retroplex.png" group-title="USA | ENTERTAINMENT",USA RetroPlex West
+http://vocotv.pro:80/rivera/rivera/387
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ridetv.us" tvg-name="USA Ride TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Ride_-_%28TV_series%29_logo.png/revision/latest?cb=20161224002232" group-title="USA | ENTERTAINMENT",USA Ride TV
+http://vocotv.pro:80/rivera/rivera/384
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syfy.us" tvg-name="USA Syfy East" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21Z0Lk1PsKL.png" group-title="USA | ENTERTAINMENT",USA Syfy East
+http://vocotv.pro:80/rivera/rivera/379
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tbd.us" tvg-name="USA TBD" tvg-logo="https://thecwtc.com/resources/media/ba7cba73-6daf-416c-ab9d-622cc4ab616e-jumbo1x1_TBDTV.jpg?1485961678682" group-title="USA | ENTERTAINMENT",USA TBD
+http://vocotv.pro:80/rivera/rivera/376
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tbs.us" tvg-name="USA TBS East" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="USA | ENTERTAINMENT",USA TBS East
+http://vocotv.pro:80/rivera/rivera/374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="turnerclassicmovies.us" tvg-name="USA TCM" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="USA | ENTERTAINMENT",USA TCM
+http://vocotv.pro:80/rivera/rivera/372
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ownwest.us" tvg-name="USA OWN West" tvg-logo="https://epmgaa.media.clients.ellingtoncms.com/img/photos/2013/07/25/OWN_t580.jpg" group-title="USA | ENTERTAINMENT",USA OWN West
+http://vocotv.pro:80/rivera/rivera/295794
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thecowboychannel.us" tvg-name="USA The Cowboy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/The_Cowboy_Channel.png" group-title="USA | ENTERTAINMENT",USA The Cowboy Channel
+http://vocotv.pro:80/rivera/rivera/371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thefilmdetective.us" tvg-name="USA The Film Detective" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/The_Film_Detective_logo.png" group-title="USA | ENTERTAINMENT",USA The Film Detective
+http://vocotv.pro:80/rivera/rivera/370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="theweatherchannel.us" tvg-name="USA The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA | ENTERTAINMENT",USA The Weather Channel
+http://vocotv.pro:80/rivera/rivera/369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wkmg.us" tvg-name="US CBS (WKMG) Orlando" tvg-logo="https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png" group-title="USA | ENTERTAINMENT",US CBS (WKMG) Orlando
+http://vocotv.pro:80/rivera/rivera/366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tnt.us" tvg-name="USA TNT" tvg-logo="https://i.pinimg.com/originals/4e/d6/a1/4ed6a1e8d124b87726c4b7ce1f57c6ad.png" group-title="USA | ENTERTAINMENT",USA TNT
+http://vocotv.pro:80/rivera/rivera/365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntwest.us" tvg-name="USA TNT West" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/TNT_logo.png" group-title="USA | ENTERTAINMENT",USA TNT West
+http://vocotv.pro:80/rivera/rivera/364
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trutv.us" tvg-name="USA truTV East" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41nIBBJlSlL.png" group-title="USA | ENTERTAINMENT",USA truTV East
+http://vocotv.pro:80/rivera/rivera/361
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vicelandstatic.us" tvg-name="USA Vice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1920px-Vice_TV_logo.svg.png" group-title="USA | ENTERTAINMENT",USA Vice
+http://vocotv.pro:80/rivera/rivera/352
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5starmax.us" tvg-name="USA Cinemax 5 StarMax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/5StarMax_2016.svg/revision/latest?cb=20221123203128" group-title="USA | Movies",USA Cinemax 5 StarMax
+http://vocotv.pro:80/rivera/rivera/813
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinemax.us" tvg-name="USA Cinemax East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest?cb=20171203110447" group-title="USA | Movies",USA Cinemax East
+http://vocotv.pro:80/rivera/rivera/810
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviemax.us" tvg-name="USA Cinemax MovieMAX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest?cb=20171203110447" group-title="USA | Movies",USA Cinemax MovieMAX
+http://vocotv.pro:80/rivera/rivera/807
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thrillermax.us" tvg-name="USA Cinemax ThrillerMax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/ThrillerMax_%282016%29.svg/revision/latest/scale-to-width-down/1000?cb=20221206191406" group-title="USA | Movies",USA Cinemax ThrillerMax
+http://vocotv.pro:80/rivera/rivera/804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thrillermaxwest.us" tvg-name="USA Cinemax ThrillerMax West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/ThrillerMax_%282016%29.svg/revision/latest/scale-to-width-down/1000?cb=20221206191406" group-title="USA | Movies",USA Cinemax ThrillerMax West
+http://vocotv.pro:80/rivera/rivera/285760
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbo.us" tvg-name="USA HBO East" tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/524.png" group-title="USA | Movies",USA HBO East
+http://vocotv.pro:80/rivera/rivera/792
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbocomedy.us" tvg-name="USA HBO Comedy" tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/290.png" group-title="USA | Movies",USA HBO Comedy
+http://vocotv.pro:80/rivera/rivera/791
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbofamily.us" tvg-name="USA HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="USA | Movies",USA HBO Family
+http://vocotv.pro:80/rivera/rivera/789
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbofamilywest.us" tvg-name="USA HBO Family West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/HBO_Family_2014_%28Stacked%29.svg" group-title="USA | Movies",USA HBO Family West
+http://vocotv.pro:80/rivera/rivera/742
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbosignature.us" tvg-name="USA HBO Signature" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59363_h15_aa.png" group-title="USA | Movies",USA HBO Signature
+http://vocotv.pro:80/rivera/rivera/788
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbolatino.us" tvg-name="USA HBO Latino" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="USA | Movies",USA HBO Latino
+http://vocotv.pro:80/rivera/rivera/741
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mgm+drive.us" tvg-name="USA MGM+ Drive-In UHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68409_h15_ad.png" group-title="USA | Movies",USA MGM+ Drive-In UHD
+http://vocotv.pro:80/rivera/rivera/801
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mgm+hits.us" tvg-name="USA MGM+ HITS" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5e3bec3e8edb1.png" group-title="USA | Movies",USA MGM+ HITS
+http://vocotv.pro:80/rivera/rivera/800
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mgm+marquee.us" tvg-name="USA MGM+ MARQUEE" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5e3bec3e8edb1.png" group-title="USA | Movies",USA MGM+ MARQUEE
+http://vocotv.pro:80/rivera/rivera/802
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mgm+.us" tvg-name="USA MGM+ East UHD" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5e3bec3e8edb1.png" group-title="USA | Movies",USA MGM+ East UHD
+http://vocotv.pro:80/rivera/rivera/799
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="screenpixwesterns.us" tvg-name="USA ScreenPix Westerns" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/ScreenPix_Westerns_2019.png" group-title="USA | Movies",USA ScreenPix Westerns
+http://vocotv.pro:80/rivera/rivera/750
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtime2west.us" tvg-name="USA Showtime 2 West" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58533_h15_ac.png" group-title="USA | Movies",USA Showtime 2 West
+http://vocotv.pro:80/rivera/rivera/727
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeextreme.us" tvg-name="USA Showtime Extreme" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" group-title="USA | Movies",USA Showtime Extreme
+http://vocotv.pro:80/rivera/rivera/778
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeextremewest.us" tvg-name="USA Showtime Extreme West" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" group-title="USA | Movies",USA Showtime Extreme West
+http://vocotv.pro:80/rivera/rivera/774
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimefamilyzone.us" tvg-name="USA Showtime Family Zone" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25274_h15_ac.png" group-title="USA | Movies",USA Showtime Family Zone
+http://vocotv.pro:80/rivera/rivera/777
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimefamilyzonewest.us" tvg-name="USA Showtime Family Zone West" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25274_h15_ac.png" group-title="USA | Movies",USA Showtime Family Zone West
+http://vocotv.pro:80/rivera/rivera/726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimenext.us" tvg-name="USA SHOWTIME NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1200px-Showtime_Next.svg.png" group-title="USA | Movies",USA SHOWTIME NEXT
+http://vocotv.pro:80/rivera/rivera/776
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeshowcase.us" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" group-title="USA | Movies",USA Showtime Showcase UHD
+http://vocotv.pro:80/rivera/rivera/775
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeshowcase.us" tvg-name="USA | Showtime Showcase East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Showtime_Showcase_%282022-%29.svg/revision/latest/scale-to-width-down/1000?cb=20230126015301" group-title="USA | Movies",USA | Showtime Showcase East
+http://vocotv.pro:80/rivera/rivera/636599
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeshowcasewest.us" tvg-name="USA Showtime Showcase West" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" group-title="USA | Movies",USA Showtime Showcase West
+http://vocotv.pro:80/rivera/rivera/728
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimewomen.us" tvg-name="USA Showtime Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1200px-Showtime_Women.svg.png" group-title="USA | Movies",USA Showtime Women
+http://vocotv.pro:80/rivera/rivera/773
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimewomenwest.us" tvg-name="USA Showtime Women West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/2560px-Showtime_Women.svg.png" group-title="USA | Movies",USA Showtime Women West
+http://vocotv.pro:80/rivera/rivera/731
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shoxbet.us" tvg-name="USA SHOxBET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest?cb=20230125211658" group-title="USA | Movies",USA SHOxBET
+http://vocotv.pro:80/rivera/rivera/772
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shoxbetwest.us" tvg-name="USA SHOxBET West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest?cb=20230125211658" group-title="USA | Movies",USA SHOxBET West
+http://vocotv.pro:80/rivera/rivera/730
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcinema.us" tvg-name="USA Starz Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Cinema
+http://vocotv.pro:80/rivera/rivera/770
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcinemawest.us" tvg-name="USA Starz Cinema West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Cinema West
+http://vocotv.pro:80/rivera/rivera/737
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcomedy.us" tvg-name="USA Starz Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/2560px-Starz_Comedy_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Comedy
+http://vocotv.pro:80/rivera/rivera/769
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcomedywest.us" tvg-name="USA Starz Comedy West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/2560px-Starz_Comedy_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Comedy West
+http://vocotv.pro:80/rivera/rivera/733
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzedge.us" tvg-name="USA Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Edge East
+http://vocotv.pro:80/rivera/rivera/763
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzedgewest.us" tvg-name="USA Starz Edge West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/2560px-Starz_Edge_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Edge West
+http://vocotv.pro:80/rivera/rivera/734
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreaction.us" tvg-name="USA Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore Action
+http://vocotv.pro:80/rivera/rivera/767
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreblack.us" tvg-name="USA Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/2560px-Starz_Encore_Black_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore Black
+http://vocotv.pro:80/rivera/rivera/766
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreclassic.us" tvg-name="USA Starz Encore Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore Classic
+http://vocotv.pro:80/rivera/rivera/765
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreclassicwest.us" tvg-name="USA Starz Encore Classic West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore Classic West
+http://vocotv.pro:80/rivera/rivera/295812
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencore.us" tvg-name="USA Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore East
+http://vocotv.pro:80/rivera/rivera/764
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreespañol.us" tvg-name="USA Starz Encore Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Espa%C3%B1ol_Logo_2022.svg/2560px-Starz_Encore_Espa%C3%B1ol_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore Español
+http://vocotv.pro:80/rivera/rivera/762
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorefamily.us" tvg-name="USA Starz Encore Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/1200px-Starz_Encore_Family_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore Family
+http://vocotv.pro:80/rivera/rivera/761
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoresuspense.us" tvg-name="USA Starz Encore Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/2560px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore Suspense
+http://vocotv.pro:80/rivera/rivera/760
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorewest.us" tvg-name="USA Starz Encore West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore West
+http://vocotv.pro:80/rivera/rivera/759
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorewesterns.us" tvg-name="USA Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Encore Westerns
+http://vocotv.pro:80/rivera/rivera/758
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzblack.us" tvg-name="USA Starz in Black East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="USA | Movies",USA Starz in Black East
+http://vocotv.pro:80/rivera/rivera/757
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzkidsfamily.us" tvg-name="USA Starz Kids & Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/2560px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Kids & Family
+http://vocotv.pro:80/rivera/rivera/756
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzblackwest.us" tvg-name="USA Starz in Black West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="USA | Movies",USA Starz in Black West
+http://vocotv.pro:80/rivera/rivera/736
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzkids&familywest.us" tvg-name="USA Starz Kids & Family West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/2560px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="USA | Movies",USA Starz Kids & Family West
+http://vocotv.pro:80/rivera/rivera/735
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzwest.us" tvg-name="USA Starz East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/2560px-Starz_2022.svg.png" group-title="USA | Movies",USA Starz East
+http://vocotv.pro:80/rivera/rivera/755
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amcthrillers.us" tvg-name="USA AMC Thrillers" tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg" group-title="USA | Movies",USA AMC Thrillers
+http://vocotv.pro:80/rivera/rivera/743
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="themoviechannelextrawest.us" tvg-name="USA The Movie Channel Extra West" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TMCXE-logo.png" group-title="USA | Movies",USA The Movie Channel Extra West
+http://vocotv.pro:80/rivera/rivera/744
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="themoviechannel.us" tvg-name="USA The Movie Channel" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TMCXE-logo.png" group-title="USA | Movies",USA The Movie Channel
+http://vocotv.pro:80/rivera/rivera/751
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="themoviechannelwest.us" tvg-name="USA The Movie Channel West" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TMCXE-logo.png" group-title="USA | Movies",USA The Movie Channel West
+http://vocotv.pro:80/rivera/rivera/745
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nflnetwork.us" tvg-name="USA NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="USA | SPORTS",USA NFL Network
+http://vocotv.pro:80/rivera/rivera/868
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wwe.us" tvg-name="USA WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/657px-WWE_Logo.svg.png" group-title="USA | SPORTS",USA WWE
+http://vocotv.pro:80/rivera/rivera/828
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="altitudesports.us" tvg-name="USA Altitude Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Altitude_Sports_logo.svg/revision/latest?cb=20181207042536" group-title="USA | SPORTS",USA Altitude Sports
+http://vocotv.pro:80/rivera/rivera/974
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA FITE by Triller 24/7" tvg-logo="https://media.distractify.com/brand-img/WenvtmOPc/0x0/triller-1613155829506.png" group-title="USA | SPORTS",USA FITE by Triller 24/7
+http://vocotv.pro:80/rivera/rivera/294382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="billiardtv.us" tvg-name="USA Billiard TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Ch92vo2rzk96-HmmWzCICvVg3BDTJZXg5OQl2F-UvHZCByxR5Gi9WjC6yj8buaaHKho&usqp=CAU" group-title="USA | SPORTS",USA Billiard TV
+http://vocotv.pro:80/rivera/rivera/818
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fubosportsnetwork.us" tvg-name="USA Fubo Sports Network" tvg-logo="https://imgx.fubo.tv/station_logos/fubo_sports_network_color.png" group-title="USA | SPORTS",USA Fubo Sports Network
+http://vocotv.pro:80/rivera/rivera/900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="huntchannel.us" tvg-name="USA Hunt Channel" tvg-logo="https://w7.pngwing.com/pngs/941/737/png-transparent-united-states-winchester-repeating-arms-company-sportsman-channel-hunting-passion-passion-television-emblem-wish.png" group-title="USA | SPORTS",USA Hunt Channel
+http://vocotv.pro:80/rivera/rivera/896
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcsportsnetwork.us" tvg-name="USA NBC Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/220px-NBC_Sports_2023.svg.png" group-title="USA | SPORTS",USA NBC Sports Network
+http://vocotv.pro:80/rivera/rivera/876
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcsportsphiladelphia.us" tvg-name="USA NBC Sports Philadelphia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/220px-NBC_Sports_2023.svg.png" group-title="USA | SPORTS",USA NBC Sports Philadelphia
+http://vocotv.pro:80/rivera/rivera/874
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcsportsphiladelphiaplus.us" tvg-name="USA NBC Sports Philadelphia Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/220px-NBC_Sports_2023.svg.png" group-title="USA | SPORTS",USA NBC Sports Philadelphia Plus
+http://vocotv.pro:80/rivera/rivera/873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nflchannel.us" tvg-name="USA NFL Channel" tvg-logo="https://w7.pngwing.com/pngs/307/244/png-transparent-nfl-preseason-nfl-network-logo-television-nfl-blue-flag-text.png" group-title="USA | SPORTS",USA NFL Channel
+http://vocotv.pro:80/rivera/rivera/825
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pacarizona.us.minus12" tvg-name="USA Pac-12 Insider" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" group-title="USA | SPORTS",USA Pac-12 Insider
+http://vocotv.pro:80/rivera/rivera/864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pacnetwork.us.minus12" tvg-name="USA PAC-12 Insider" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXbV6MClIV2LrPq-S1Y7rY9P_dK36SnR94w&s" group-title="USA | SPORTS",USA PAC-12 Insider
+http://vocotv.pro:80/rivera/rivera/865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pxsports.us" tvg-name="USA PX Sports" tvg-logo="https://pbs.twimg.com/profile_images/1120358282022084609/-SIEjTgc_400x400.png" group-title="USA | SPORTS",USA PX Sports
+http://vocotv.pro:80/rivera/rivera/856
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vegasstats&informationnetworkvsin.us" tvg-name="USA VSIN" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/18/07/e5180716-64cf-765f-54bc-0d82a9d59eef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="USA | SPORTS",USA VSIN
+http://vocotv.pro:80/rivera/rivera/832
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnn.us" tvg-name="USA CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA | NEWS",USA CNN
+http://vocotv.pro:80/rivera/rivera/1041
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnbc.us" tvg-name="USA CNBC" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/85/06/3785062d-1e97-bfd4-ae3e-25950228ef30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" group-title="USA | NEWS",USA CNBC
+http://vocotv.pro:80/rivera/rivera/1043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcnewsnow.us" tvg-name="USA NBC News NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/NBC_News_Now_2023.svg/revision/latest?cb=20250124160436" group-title="USA | NEWS",USA NBC News NOW
+http://vocotv.pro:80/rivera/rivera/992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Newsmax 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="USA | NEWS",USA Newsmax 2
+http://vocotv.pro:80/rivera/rivera/634585
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="newsnation.us" tvg-name="USA NewsNation" tvg-logo="https://cdn.mos.cms.futurecdn.net/7RkNcznqnBuUAmkomRXkV4-320-75.png" group-title="USA | NEWS",USA NewsNation
+http://vocotv.pro:80/rivera/rivera/995
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thegrio.us" tvg-name="USA The Grio" tvg-logo="https://deadline.com/wp-content/uploads/2019/11/black-news-channel-bnc-logo.jpg" group-title="USA | NEWS",USA The Grio
+http://vocotv.pro:80/rivera/rivera/1063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewsbayarea.us" tvg-name="USA CBS News Bay Area" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News Bay Area
+http://vocotv.pro:80/rivera/rivera/1056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewsboston.us" tvg-name="USA CBS News Boston" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News Boston
+http://vocotv.pro:80/rivera/rivera/1055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewschicago.us" tvg-name="USA CBS News Chicago" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News Chicago
+http://vocotv.pro:80/rivera/rivera/1054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewscolorado.us" tvg-name="USA CBS News Detroit" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News Detroit
+http://vocotv.pro:80/rivera/rivera/1052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewslosangeles.us" tvg-name="USA CBS News Los Angeles" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News Los Angeles
+http://vocotv.pro:80/rivera/rivera/1051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewsminnesota.us" tvg-name="USA CBSN Minnesota" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBSN Minnesota
+http://vocotv.pro:80/rivera/rivera/1050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewsnewyork.us" tvg-name="USA CBS News New York" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News New York
+http://vocotv.pro:80/rivera/rivera/1049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewsphiladelphia.us" tvg-name="USA CBS News Philly" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News Philly
+http://vocotv.pro:80/rivera/rivera/1048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewspittsburgh.us" tvg-name="USA CBS News Pittsburgh" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News Pittsburgh
+http://vocotv.pro:80/rivera/rivera/1047
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnninternational.us" tvg-name="USA CNN INTERNATIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20250315005934" group-title="USA | NEWS",USA CNN INTERNATIONAL
+http://vocotv.pro:80/rivera/rivera/1040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cgtn.us" tvg-name="USA CGTN (English)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="USA | NEWS",USA CGTN (English)
+http://vocotv.pro:80/rivera/rivera/1046
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewslosangeles.us" tvg-name="USA CBS News 24/7" tvg-logo="https://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png" group-title="USA | NEWS",USA CBS News 24/7
+http://vocotv.pro:80/rivera/rivera/1057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="france24english.us" tvg-name="USA France 24 (English)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="USA | NEWS",USA France 24 (English)
+http://vocotv.pro:80/rivera/rivera/1037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="livenowfromfox.us" tvg-name="USA LiveNOW from FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fox_TV_Stations_logo.svg/1200px-Fox_TV_Stations_logo.svg.png" group-title="USA | NEWS",USA LiveNOW from FOX
+http://vocotv.pro:80/rivera/rivera/993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news12brooklyn.us" tvg-name="USA News 12 Brooklyn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="USA | NEWS",USA News 12 Brooklyn
+http://vocotv.pro:80/rivera/rivera/1032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news12hudsonvalley.us" tvg-name="USA News 12 Hudson Valley" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="USA | NEWS",USA News 12 Hudson Valley
+http://vocotv.pro:80/rivera/rivera/1030
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news12newjersey.us" tvg-name="USA News 12 New Jersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="USA | NEWS",USA News 12 New Jersey
+http://vocotv.pro:80/rivera/rivera/1028
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news12bronx.us" tvg-name="USA News 12 The Bronx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="USA | NEWS",USA News 12 The Bronx
+http://vocotv.pro:80/rivera/rivera/1026
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news12westchester.us" tvg-name="USA News 12 Westchester" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="USA | NEWS",USA News 12 Westchester
+http://vocotv.pro:80/rivera/rivera/1025
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="weathernation.us" tvg-name="USA Weather Nation" tvg-logo="https://channels.roku.com/images/db4868e80c37465e994e308c59ee479c-hd.jpg" group-title="USA | NEWS",USA Weather Nation
+http://vocotv.pro:80/rivera/rivera/1020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ktuu.us" tvg-name="USA Alaska's News Source KTUU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alaska%27s_News_Source_logo.svg/512px-Alaska%27s_News_Source_logo.svg.png" group-title="USA | NEWS",USA Alaska's News Source KTUU
+http://vocotv.pro:80/rivera/rivera/997
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewstexas.us" tvg-name="USA CBS News Colorado" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/09/cbsn-logo.jpeg" group-title="USA | NEWS",USA CBS News Colorado
+http://vocotv.pro:80/rivera/rivera/1053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.us" tvg-name="USA Nick Jr" tvg-logo="https://3.bp.blogspot.com/-KIGFtVubti8/XGsm8cPv2-I/AAAAAAABD3k/RrcxdWlv0ToWL27dqOIcCHgPOfky2NEVwCLcBGAs/s1600/nick-jr-logo-2018-rebrand-brand-refresh-nickelodeon-preschool-usa.png" group-title="USA | FAMILY & KIDS",USA Nick Jr
+http://vocotv.pro:80/rivera/rivera/1166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.us" tvg-name="USA Nickelodeon" tvg-logo="https://mms.businesswire.com/media/20190403005799/en/77281/23/parentsconnect_logo.jpg" group-title="USA | FAMILY & KIDS",USA Nickelodeon
+http://vocotv.pro:80/rivera/rivera/1162
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pbskids.us" tvg-name="USA PBS Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/PBS_Kids_%282022%29.svg/revision/latest?cb=20220719135346" group-title="USA | FAMILY & KIDS",USA PBS Kids
+http://vocotv.pro:80/rivera/rivera/1160
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="universalkids.us" tvg-name="USA Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="USA | FAMILY & KIDS",USA Universal Kids
+http://vocotv.pro:80/rivera/rivera/1157
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="investigationdiscovery.us" tvg-name="USA ID East" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/id-hd.png" group-title="USA | Documentaries",USA ID East
+http://vocotv.pro:80/rivera/rivera/430
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="travelchannel.us" tvg-name="USA Travel Channel" tvg-logo="https://biz.prlog.org/usa-travel/logo.jpg" group-title="USA | Documentaries",USA Travel Channel
+http://vocotv.pro:80/rivera/rivera/363
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc8kjctgrandjunctionmontrose.us" tvg-name="CO | Grand Junction | ABC 8 KJCT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/KJCT_ABC_8_Grand_Junction.png/revision/latest?cb=20230720130820" group-title="USA | LOCAL - ABC",CO | Grand Junction | ABC 8 KJCT
+http://vocotv.pro:80/rivera/rivera/1213
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc6wjbfaugusta.us" tvg-name="GA | Augusta | ABC 6 WJBF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/WJBF_1.svg/revision/latest/scale-to-width-down/78?cb=20210511055457" group-title="USA | LOCAL - ABC",GA | Augusta | ABC 6 WJBF
+http://vocotv.pro:80/rivera/rivera/1317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc5wcvbbostonmanchester.us" tvg-name="MA | Boston | ABC  5 WCVB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/WCVB_2021.svg/revision/latest/scale-to-width-down/48?cb=20250703231929" group-title="USA | LOCAL - ABC",MA | Boston | ABC  5 WCVB
+http://vocotv.pro:80/rivera/rivera/1251
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abckmbckmbckansascitymo.us" tvg-name="MO | Kansas City | ABC KMBC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/KMBC_2.svg/revision/latest/scale-to-width-down/54?cb=20230117053649" group-title="USA | LOCAL - ABC",MO | Kansas City | ABC KMBC
+http://vocotv.pro:80/rivera/rivera/1240
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcksprksprspringfieldosagebeachmo.us" tvg-name="MO | SPRINGFIELD | ABC 33 KSPR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/KSPR33_2022.svg/revision/latest/scale-to-width-down/78?cb=20230720153100" group-title="USA | LOCAL - ABC",MO | SPRINGFIELD | ABC 33 KSPR
+http://vocotv.pro:80/rivera/rivera/1288
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcwaptwaptjacksonms.us" tvg-name="MS | Jackson | ABC 16 WAPT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/WAPT2022logo.png/revision/latest/scale-to-width-down/70?cb=20240917181716" group-title="USA | LOCAL - ABC",MS | Jackson | ABC 16 WAPT
+http://vocotv.pro:80/rivera/rivera/1291
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcklknklknlincolnsuperiorne.us" tvg-name="NE | Lincoln | ABC KLKN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/KLKN_%282021%29.svg/revision/latest/scale-to-width-down/66?cb=20220205083504" group-title="USA | LOCAL - ABC",NE | Lincoln | ABC KLKN
+http://vocotv.pro:80/rivera/rivera/1201
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc7ketvomaha.us" tvg-name="NE | OMAHA | USA ABC 13 KETV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/KETV_7_%282000-%29.svg/revision/latest/scale-to-width-down/48?cb=20220213074904" group-title="USA | LOCAL - ABC",NE | OMAHA | USA ABC 13 KETV
+http://vocotv.pro:80/rivera/rivera/1284
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcwmurmanchester.us" tvg-name="NH | Manchester | ABC 9 WMUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WMUR_1.svg/revision/latest/scale-to-width-down/78?cb=20210610102947" group-title="USA | LOCAL - ABC",NH | Manchester | ABC 9 WMUR
+http://vocotv.pro:80/rivera/rivera/1279
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc7koatalbuquerque.us" tvg-name="NM | Albuquerque | ABC 7 KOAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/KOAT_NM-1999.svg/revision/latest/scale-to-width-down/78?cb=20230120062915" group-title="USA | LOCAL - ABC",NM | Albuquerque | ABC 7 KOAT
+http://vocotv.pro:80/rivera/rivera/1278
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcwalbalbany.us" tvg-name="GA | ALBANY | USA ABC 10  WALB D2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/WALB10.svg/revision/latest/scale-to-width-down/66?cb=20220127080537" group-title="USA | LOCAL - ABC",GA | ALBANY | USA ABC 10  WALB D2
+http://vocotv.pro:80/rivera/rivera/1276
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc5kocooklahomacity.us" tvg-name="OK | Oklahoma City | ABC 5 KOCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/KOCO_logo_%282013%29.svg/revision/latest/scale-to-width-down/78?cb=20240710031252" group-title="USA | LOCAL - ABC",OK | Oklahoma City | ABC 5 KOCO
+http://vocotv.pro:80/rivera/rivera/1268
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abckohdkohdbendor.us" tvg-name="OR | Bend | ABC KOHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/KOHD_2024.png/revision/latest/scale-to-width-down/78?cb=20240611184225" group-title="USA | LOCAL - ABC",OR | Bend | ABC KOHD
+http://vocotv.pro:80/rivera/rivera/1196
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc12wisnmilwaukee.us" tvg-name="WI | Milwaukee | ABC WISN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/WISN_2012_Logo.png/revision/latest/scale-to-width-down/78?cb=20130421041823" group-title="USA | LOCAL - ABC",WI | Milwaukee | ABC WISN
+http://vocotv.pro:80/rivera/rivera/1237
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abc4wtaepittsburgh.us" tvg-name="PA | Pittsburgh | ABC WTAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/WTAE_4_1995.svg/revision/latest/scale-to-width-down/78?cb=20160512235500" group-title="USA | LOCAL - ABC",PA | Pittsburgh | ABC WTAE
+http://vocotv.pro:80/rivera/rivera/1233
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RICK AND MORTY" tvg-logo="" group-title="24/7 CHANNELS ",24/7 RICK AND MORTY
+http://cord-cutter.net:8080/Brandon123/Brandon123/66302
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US AMC " tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="USA ",US AMC 
+http://cord-cutter.net:8080/Brandon123/Brandon123/18925
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US Bravo (East)   " tvg-logo="https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png" group-title="USA ",US Bravo (East)   
+http://cord-cutter.net:8080/Brandon123/Brandon123/20859
+#EXTINF:-1 tvg-id="" tvg-name="US CBS News " tvg-logo="" group-title="USA ",US CBS News 
+http://cord-cutter.net:8080/Brandon123/Brandon123/21259
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE NETWORKS",US Cinemax (East) 
+http://cord-cutter.net:8080/Brandon123/Brandon123/13380
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT" tvg-logo="" group-title="USA ",USA: CMT
+http://cord-cutter.net:8080/Brandon123/Brandon123/46706
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA ",US CNBC 
+http://cord-cutter.net:8080/Brandon123/Brandon123/9815
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="USA ",US CNN 
+http://cord-cutter.net:8080/Brandon123/Brandon123/1817
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="" group-title="USA ",US CNN 
+http://cord-cutter.net:8080/Brandon123/Brandon123/104884
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet (S)" tvg-logo="" group-title="USA ",US Comet (S)
+http://cord-cutter.net:8080/Brandon123/Brandon123/66244
+#EXTINF:-1 tvg-id="dogtv.us" tvg-name="USA: DOGTV" tvg-logo="" group-title="USA ",USA: DOGTV
+http://cord-cutter.net:8080/Brandon123/Brandon123/53539
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="MOVIE NETWORKS",US Epix Drive IN (S)
+http://cord-cutter.net:8080/Brandon123/Brandon123/14193
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIE NETWORKS",USA: Epix Hits
+http://cord-cutter.net:8080/Brandon123/Brandon123/12744
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX2 (East)
+http://cord-cutter.net:8080/Brandon123/Brandon123/12730
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA: Food Network HD" tvg-logo="https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png" group-title="USA ",USA: Food Network HD
+http://cord-cutter.net:8080/Brandon123/Brandon123/7323
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US Hallmark Channel" tvg-logo="" group-title="USA ",US Hallmark Channel
+http://cord-cutter.net:8080/Brandon123/Brandon123/46719
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Hallmark Drama " tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" group-title="USA ",US Hallmark Drama 
+http://cord-cutter.net:8080/Brandon123/Brandon123/9307
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE NETWORKS",US HBO Family (East) 
+http://cord-cutter.net:8080/Brandon123/Brandon123/17772
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIE NETWORKS",US HBO SIGNATURE (East) 
+http://cord-cutter.net:8080/Brandon123/Brandon123/9266
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US HGTV (East) " tvg-logo="" group-title="USA ",US HGTV (East) 
+http://cord-cutter.net:8080/Brandon123/Brandon123/46717
+#EXTINF:-1 tvg-id="lafftv.us" tvg-name="US Laff (KNVA)" tvg-logo="https://sky21.com/wp-content/uploads/2019/02/LAFF.png" group-title="USA ",US Laff (KNVA)
+http://cord-cutter.net:8080/Brandon123/Brandon123/17777
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIE NETWORKS",US More Max 
+http://cord-cutter.net:8080/Brandon123/Brandon123/17776
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US MSNBC" tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="USA ",US MSNBC
+http://cord-cutter.net:8080/Brandon123/Brandon123/21376
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="US One America News" tvg-logo="" group-title="USA ",US One America News
+http://cord-cutter.net:8080/Brandon123/Brandon123/21752
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA: OUTSIDE TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71iXofscZDL.png" group-title="USA ",USA: OUTSIDE TV
+http://cord-cutter.net:8080/Brandon123/Brandon123/20865
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network " tvg-logo="" group-title="USA ",US Paramount Network 
+http://cord-cutter.net:8080/Brandon123/Brandon123/46694
+#EXTINF:-1 tvg-id="gacliving.us" tvg-name="US GAC Living (S)" tvg-logo="" group-title="USA ",US GAC Living (S)
+http://cord-cutter.net:8080/Brandon123/Brandon123/75654
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA: AMC Thrillers" tvg-logo="" group-title="USA ",USA: AMC Thrillers
+http://cord-cutter.net:8080/Brandon123/Brandon123/66243
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East " tvg-logo="" group-title="MOVIE NETWORKS",US Showtime East 
+http://cord-cutter.net:8080/Brandon123/Brandon123/46214
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIE NETWORKS",US Showtime 2 (East) (H)
+http://cord-cutter.net:8080/Brandon123/Brandon123/13219
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="MOVIE NETWORKS",US Showtime Family Zone (East) 
+http://cord-cutter.net:8080/Brandon123/Brandon123/13481
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) " tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US Showtime Women (East) 
+http://cord-cutter.net:8080/Brandon123/Brandon123/17778
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US SUNDANCE " tvg-logo="" group-title="USA ",US SUNDANCE 
+http://cord-cutter.net:8080/Brandon123/Brandon123/46712
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US TBS " tvg-logo="https://image.flaticon.com/icons/png/128/826/826355.png" group-title="USA ",US TBS 
+http://cord-cutter.net:8080/Brandon123/Brandon123/20867
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US The Weather Channel " tvg-logo="" group-title="USA ",US The Weather Channel 
+http://cord-cutter.net:8080/Brandon123/Brandon123/18926
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (East)  " tvg-logo="" group-title="USA ",US TLC (East)  
+http://cord-cutter.net:8080/Brandon123/Brandon123/46691
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC East " tvg-logo="https://logos.xmltv.se/en.tlc.discovery.dk.png" group-title="USA ",US TLC East 
+http://cord-cutter.net:8080/Brandon123/Brandon123/12734
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (east) " tvg-logo="" group-title="USA ",US TLC (east) 
+http://cord-cutter.net:8080/Brandon123/Brandon123/47703
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA ",US TNT East 
+http://cord-cutter.net:8080/Brandon123/Brandon123/10455
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="Sports Fanatic's ",US Latin TUDN
+http://cord-cutter.net:8080/Brandon123/Brandon123/11885
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US TV Land " tvg-logo="" group-title="USA ",US TV Land 
+http://cord-cutter.net:8080/Brandon123/Brandon123/46696
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 (East) " tvg-logo="" group-title="USA ",US VH1 (East) 
+http://cord-cutter.net:8080/Brandon123/Brandon123/46705
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1413371145/ziqmu9l76bjxx9rz9qat.png" group-title="USA ",US VH1 
+http://cord-cutter.net:8080/Brandon123/Brandon123/7404
+#EXTINF:-1 tvg-id="vice.us" tvg-name="US VICELAND " tvg-logo="" group-title="USA ",US VICELAND 
+http://cord-cutter.net:8080/Brandon123/Brandon123/46697
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="US World Fishing Network (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA ",US World Fishing Network (F)
+http://cord-cutter.net:8080/Brandon123/Brandon123/10477
+#EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN " tvg-logo="" group-title="USA ",US TUDN 
+http://cord-cutter.net:8080/Brandon123/Brandon123/82241
+#EXTINF:-1 tvg-id="" tvg-name="Carib RUSH+ Sports (D)" tvg-logo="" group-title="Caribbean",Carib RUSH+ Sports (D)
+http://cord-cutter.net:8080/Brandon123/Brandon123/99568
+#EXTINF:-1 tvg-id="" tvg-name="Carib Aruba.TV (D)" tvg-logo="" group-title="Caribbean",Carib Aruba.TV (D)
+http://cord-cutter.net:8080/Brandon123/Brandon123/99574
+#EXTINF:-1 tvg-id="" tvg-name="Carib ESPN" tvg-logo="" group-title="Caribbean",Carib ESPN
+http://cord-cutter.net:8080/Brandon123/Brandon123/99624
+#EXTINF:-1 tvg-id="" tvg-name="Carib RUSH Sports (D)" tvg-logo="" group-title="Caribbean",Carib RUSH Sports (D)
+http://cord-cutter.net:8080/Brandon123/Brandon123/100043
+#EXTINF:-1 tvg-id="" tvg-name="CA (Carib) FEVA (E)" tvg-logo="" group-title="Caribbean",CA (Carib) FEVA (E)
+http://cord-cutter.net:8080/Brandon123/Brandon123/100457
+#EXTINF:-1 tvg-id="" tvg-name="Carib Justice_Central" tvg-logo="" group-title="Caribbean",Carib Justice_Central
+http://cord-cutter.net:8080/Brandon123/Brandon123/108547
+#EXTINF:-1 tvg-id="" tvg-name="PE: LATINA HD" tvg-logo="" group-title="PERU",PE: LATINA HD
+http://cord-cutter.net:8080/Brandon123/Brandon123/110640
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ANIMATION" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: ANIMATION
+http://cord-cutter.net:8080/Brandon123/Brandon123/119420
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: BLOCKBUSTERS" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: BLOCKBUSTERS
+http://cord-cutter.net:8080/Brandon123/Brandon123/119421
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: CLASSIC" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: CLASSIC
+http://cord-cutter.net:8080/Brandon123/Brandon123/119422
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: COMEDY" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: COMEDY
+http://cord-cutter.net:8080/Brandon123/Brandon123/119423
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: CULT" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: CULT
+http://cord-cutter.net:8080/Brandon123/Brandon123/119424
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: FAMILY" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: FAMILY
+http://cord-cutter.net:8080/Brandon123/Brandon123/119425
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: GREATS" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: GREATS
+http://cord-cutter.net:8080/Brandon123/Brandon123/119426
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: GREATS TWO" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: GREATS TWO
+http://cord-cutter.net:8080/Brandon123/Brandon123/119427
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: HISTORICAL" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: HISTORICAL
+http://cord-cutter.net:8080/Brandon123/Brandon123/119428
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: MYSTERY" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: MYSTERY
+http://cord-cutter.net:8080/Brandon123/Brandon123/119431
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: PREMIERE" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: PREMIERE
+http://cord-cutter.net:8080/Brandon123/Brandon123/119432
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ROMANCE" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: ROMANCE
+http://cord-cutter.net:8080/Brandon123/Brandon123/119433
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: SCI-FI" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: SCI-FI
+http://cord-cutter.net:8080/Brandon123/Brandon123/119434
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: WESTERN" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: WESTERN
+http://cord-cutter.net:8080/Brandon123/Brandon123/119435
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: HITS" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: HITS
+http://cord-cutter.net:8080/Brandon123/Brandon123/119436
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: THRILLER" tvg-logo="" group-title="24/7 CHANNELS ",CINEBOX: THRILLER
+http://cord-cutter.net:8080/Brandon123/Brandon123/119437
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX: 7NEWS SPOTLIGHT" tvg-logo="" group-title="24/7 CHANNELS ",DOCUBOX: 7NEWS SPOTLIGHT
+http://cord-cutter.net:8080/Brandon123/Brandon123/119438
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX: NAT GEO WILD" tvg-logo="" group-title="24/7 CHANNELS ",DOCUBOX: NAT GEO WILD
+http://cord-cutter.net:8080/Brandon123/Brandon123/119447
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX: REAL CRIME" tvg-logo="" group-title="24/7 CHANNELS ",DOCUBOX: REAL CRIME
+http://cord-cutter.net:8080/Brandon123/Brandon123/119449
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX: REAL WILD" tvg-logo="" group-title="24/7 CHANNELS ",DOCUBOX: REAL WILD
+http://cord-cutter.net:8080/Brandon123/Brandon123/119451
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="Star TV Sports" tvg-logo="" group-title="Caribbean",Star TV Sports
+http://cord-cutter.net:8080/Brandon123/Brandon123/53708
+#EXTINF:-1 tvg-id="nbc11ktvf.us" tvg-name="AK | Fairbanks | NBC KTVF" tvg-logo="" group-title="USA | NEWS | REGIONALS ",AK | Fairbanks | NBC KTVF
+http://cord-cutter.net:8080/Brandon123/Brandon123/120635
+#EXTINF:-1 tvg-id="nbc5kath.us" tvg-name="AK | Juneau-douglas | NBC KATH" tvg-logo="" group-title="USA | NEWS | REGIONALS ",AK | Juneau-douglas | NBC KATH
+http://cord-cutter.net:8080/Brandon123/Brandon123/120636
+#EXTINF:-1 tvg-id="fox6wbrc.us" tvg-name="FOX: BIRMINGHAM AL WBRC" tvg-logo="" group-title="USA | NEWS | REGIONALS ",FOX: BIRMINGHAM AL WBRC
+http://cord-cutter.net:8080/Brandon123/Brandon123/120638
+#EXTINF:-1 tvg-id="nbc13wnyt.us" tvg-name="NBC: AL MOBILE WPMI" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: AL MOBILE WPMI
+http://cord-cutter.net:8080/Brandon123/Brandon123/120643
+#EXTINF:-1 tvg-id="nbc4kvoa.us" tvg-name="US NBC 4 (KVOA) Tucson " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 4 (KVOA) Tucson 
+http://cord-cutter.net:8080/Brandon123/Brandon123/120652
+#EXTINF:-1 tvg-id="cbs5kpix.us" tvg-name="CBS: CA SAN FRANCISCO KPIX" tvg-logo="" group-title="USA | NEWS | REGIONALS ",CBS: CA SAN FRANCISCO KPIX
+http://cord-cutter.net:8080/Brandon123/Brandon123/120657
+#EXTINF:-1 tvg-id="nbc5koaa.us" tvg-name="NBC: CO PUEBLO KOAA" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: CO PUEBLO KOAA
+http://cord-cutter.net:8080/Brandon123/Brandon123/120666
+#EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="US NBC (WTLV) Jacksonville " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WTLV) Jacksonville 
+http://cord-cutter.net:8080/Brandon123/Brandon123/120672
+#EXTINF:-1 tvg-id="cbs2kboi.us" tvg-name="CBS: ID BOISE KBOI" tvg-logo="" group-title="USA | NEWS | REGIONALS ",CBS: ID BOISE KBOI
+http://cord-cutter.net:8080/Brandon123/Brandon123/120684
+#EXTINF:-1 tvg-id="nbc7ktvb.us" tvg-name="NBC: ID BOISE KTVB" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: ID BOISE KTVB
+http://cord-cutter.net:8080/Brandon123/Brandon123/120685
+#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="US CBS (WBBM) Chicago " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WBBM) Chicago 
+http://cord-cutter.net:8080/Brandon123/Brandon123/120688
+#EXTINF:-1 tvg-id="nbc8wood.us" tvg-name="MI | Grand Rapids | NBC WOOD" tvg-logo="" group-title="USA | NEWS | REGIONALS ",MI | Grand Rapids | NBC WOOD
+http://cord-cutter.net:8080/Brandon123/Brandon123/120719
+#EXTINF:-1 tvg-id="nbc13keci.us" tvg-name="NBC: MT MISSOULA KECI" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: MT MISSOULA KECI
+http://cord-cutter.net:8080/Brandon123/Brandon123/120733
+#EXTINF:-1 tvg-id="nbc7krnv.us" tvg-name="US NBC 7 (KRNV) Reno" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 7 (KRNV) Reno
+http://cord-cutter.net:8080/Brandon123/Brandon123/120744
+#EXTINF:-1 tvg-id="nbc2wgrz.us" tvg-name="US NBC (WGRZ) HD " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WGRZ) HD 
+http://cord-cutter.net:8080/Brandon123/Brandon123/120748
+#EXTINF:-1 tvg-id="nbc5wlwt.us" tvg-name="NBC: CINCINNATI WLWT" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: CINCINNATI WLWT
+http://cord-cutter.net:8080/Brandon123/Brandon123/120755
+#EXTINF:-1 tvg-id="nbc10wjar.us" tvg-name="RI | Providence | | WJAR" tvg-logo="" group-title="USA | NEWS | REGIONALS ",RI | Providence | | WJAR
+http://cord-cutter.net:8080/Brandon123/Brandon123/120781
+#EXTINF:-1 tvg-id="nbc32wmbf.us" tvg-name="NBC: SC MYRTLE BEACH WMBF" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: SC MYRTLE BEACH WMBF
+http://cord-cutter.net:8080/Brandon123/Brandon123/120790
+#EXTINF:-1 tvg-id="nbc9ktsm.us" tvg-name="NBC: EL PASO KTSM" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: EL PASO KTSM
+http://cord-cutter.net:8080/Brandon123/Brandon123/120808
+#EXTINF:-1 tvg-id="nbckxas.us" tvg-name="TX | Fort Worth | NBC KXAS" tvg-logo="" group-title="USA | NEWS | REGIONALS ",TX | Fort Worth | NBC KXAS
+http://cord-cutter.net:8080/Brandon123/Brandon123/120811
+#EXTINF:-1 tvg-id="cw11kstw.us" tvg-name="WA | Tacoma | CW KSTW" tvg-logo="" group-title="USA | NEWS | REGIONALS ",WA | Tacoma | CW KSTW
+http://cord-cutter.net:8080/Brandon123/Brandon123/120828
+#EXTINF:-1 tvg-id="" tvg-name="US News 12 Connecticut " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US News 12 Connecticut 
+http://cord-cutter.net:8080/Brandon123/Brandon123/120854
+#EXTINF:-1 tvg-id="" tvg-name="GR RIK Sat (D)" tvg-logo="" group-title="GREEK",GR RIK Sat (D)
+http://cord-cutter.net:8080/Brandon123/Brandon123/120979
+#EXTINF:-1 tvg-id="" tvg-name="VN HTV1 HD" tvg-logo="" group-title="Vietnam",VN HTV1 HD
+http://cord-cutter.net:8080/Brandon123/Brandon123/121042
+#EXTINF:-1 tvg-id="" tvg-name="VN DA NANG 1 HD" tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
+http://cord-cutter.net:8080/Brandon123/Brandon123/121048
+#EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="US CBS (KYW) Philadelphia (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (KYW) Philadelphia (F)
+http://cord-cutter.net:8080/Brandon123/Brandon123/121150
+#EXTINF:-1 tvg-id="cbs5wtvh.us" tvg-name="US CBS (WTVH) Syracuse (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WTVH) Syracuse (F)
+http://cord-cutter.net:8080/Brandon123/Brandon123/122004
+#EXTINF:-1 tvg-id="nbc16wagt.us" tvg-name="US NBC (WAGT) Augusta " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WAGT) Augusta 
+http://cord-cutter.net:8080/Brandon123/Brandon123/122271
+#EXTINF:-1 tvg-id="cbs13wgme.us" tvg-name="CBS: ME PORTLAND WGME" tvg-logo="" group-title="USA | NEWS | REGIONALS ",CBS: ME PORTLAND WGME
+http://cord-cutter.net:8080/Brandon123/Brandon123/122277
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="US The Cowboy Channel " tvg-logo="" group-title="USA ",US The Cowboy Channel 
+http://cord-cutter.net:8080/Brandon123/Brandon123/122527
+#EXTINF:-1 tvg-id="" tvg-name="DE ProSieben HD (P)" tvg-logo="" group-title="Germany",DE ProSieben HD (P)
+http://cord-cutter.net:8080/Brandon123/Brandon123/125593
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOONEY TUNES" tvg-logo="" group-title="24/7 CHANNELS ",24/7 LOONEY TUNES
+http://cord-cutter.net:8080/Brandon123/Brandon123/125638
+#EXTINF:-1 tvg-id="" tvg-name="US (Punjabi) JUS One (S)" tvg-logo="" group-title="INDIA",US (Punjabi) JUS One (S)
+http://cord-cutter.net:8080/Brandon123/Brandon123/125801
+#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) SAB TV (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) SAB TV (S)
+http://cord-cutter.net:8080/Brandon123/Brandon123/125809
+#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) SET Max (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) SET Max (S)
+http://cord-cutter.net:8080/Brandon123/Brandon123/125814
+#EXTINF:-1 tvg-id="" tvg-name="US Asian Gemini Movies (Telugu) (S)" tvg-logo="" group-title="INDIA",US Asian Gemini Movies (Telugu) (S)
+http://cord-cutter.net:8080/Brandon123/Brandon123/125824
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet " tvg-logo="" group-title="USA ",US Comet 
+http://cord-cutter.net:8080/Brandon123/Brandon123/125831
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: F1-TV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: F1-TV FHD
+http://cord-cutter.net:8080/Brandon123/Brandon123/125947
+#EXTINF:-1 tvg-id="" tvg-name="US: CSPAN FHD" tvg-logo="" group-title="USA ",US: CSPAN FHD
+http://cord-cutter.net:8080/Brandon123/Brandon123/136589
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="Sports Fanatic's ",UK: SKY SPORTS MAIN EVENT HD
+http://cord-cutter.net:8080/Brandon123/Brandon123/137720
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="USA | NEWS | REGIONALS ",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://cord-cutter.net:8080/Brandon123/Brandon123/137954
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="US TeenNick" tvg-logo="" group-title="KIDS ZONE",US TeenNick
+http://cord-cutter.net:8080/Brandon123/Brandon123/140004
+#EXTINF:-1 tvg-id="" tvg-name="US World Poker Tour " tvg-logo="" group-title="USA ",US World Poker Tour 
+http://cord-cutter.net:8080/Brandon123/Brandon123/140815
+#EXTINF:-1 tvg-id="cbs62wwj.us" tvg-name="CBS: MI DETROIT WWJ" tvg-logo="" group-title="USA | NEWS | REGIONALS ",CBS: MI DETROIT WWJ
+http://cord-cutter.net:8080/Brandon123/Brandon123/147201
+#EXTINF:-1 tvg-id="pbs13wnet.us" tvg-name="US PBS (WNET) NY | New York (D)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US PBS (WNET) NY | New York (D)
+http://cord-cutter.net:8080/Brandon123/Brandon123/149622
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK (1)" tvg-logo="" group-title="NFL",USA: NFL NETWORK (1)
+http://cord-cutter.net:8080/Brandon123/Brandon123/159091
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK (2)" tvg-logo="" group-title="NFL",USA: NFL NETWORK (2)
+http://cord-cutter.net:8080/Brandon123/Brandon123/159117
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL REDZONE" tvg-logo="" group-title="NFL",USA: NFL REDZONE
+http://cord-cutter.net:8080/Brandon123/Brandon123/159118
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL REDZONE (2)" tvg-logo="" group-title="NFL",USA: NFL REDZONE (2)
+http://cord-cutter.net:8080/Brandon123/Brandon123/159119
+#EXTINF:-1 tvg-id="nbc11kcbd.us" tvg-name="US NBC11 (KCBD) Lubbock/Texas" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC11 (KCBD) Lubbock/Texas
+http://cord-cutter.net:8080/Brandon123/Brandon123/216129
+#EXTINF:-1 tvg-id="cbs6wkmg.us" tvg-name="US CBS 6 (WKMG) Orlando " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 6 (WKMG) Orlando 
+http://cord-cutter.net:8080/Brandon123/Brandon123/217388
