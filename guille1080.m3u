@@ -1,8 +1,33 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⏺️ 4K UHD | QHD",MULTISHOW 4K
 http://coneasy.lat:80/live/kyeoj2w4/0drti608/97615.ts
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⛰️ VARIEDADES",MULTISHOW FHD
 http://coneasy.lat:80/live/kyeoj2w4/0drti608/96571.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014785
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO RIO DE JANEIRO FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409655
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO RIO DE JANEIRO HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409654
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409657
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409656
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW SD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014786
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="CANAIS • SBT",SBT FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014346
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="CANAIS • BAND",BAND FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014329
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcwatekwwlcedarrapidswaterlooia.us" tvg-name="IA | Cedar Rapids | NBC 7 KWWL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/KWWL_NBC_7_Cedar_Rapids%2C_Iowa_Logo.svg/800px-KWWL_NBC_7_Cedar_Rapids%2C_Iowa_Logo.svg.png" group-title="USA | LOCAL - CBS",IA | Cedar Rapids | NBC 7 KWWL
+http://vocotv.pro:80/keisha/keisha/1495
+#EXTINF:-1,ABC Boston WCVB
+http://supersonictv.live:8080/Edgar123/Edgar123/71347
+#EXTINF:-1,ABC Boston WCVB
+http://supersonictv.live:8080/Tedd1/Tedd1/71347
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS New York" tvg-logo="https://i.imgur.com/9rWFDDX.jpg" group-title="→ USA ←",US: CBS New York
+http://canal-pro.xyz:8080/949576770tv/uyqd998/23555
 #EXTINF:-1,USA: CBS 3 OMAHA (KMTV)
 http://hdhd.tk:80/10011/10011/21925
 #EXTINF:-1 tvg-id="cbs5kpix.us" tvg-name="CBS: CA SAN FRANCISCO KPIX" tvg-logo="" group-title="USA | NEWS | REGIONALS ",CBS: CA SAN FRANCISCO KPIX
@@ -31,6 +56,8 @@ http://xxip9.top:8080/M0JPjK/877435/122004
 http://xxip9.top:8080/M0JPjK/877435/122277
 #EXTINF:-1,CBS: MI DETROIT WWJ
 http://xxip9.top:8080/M0JPjK/877435/147201
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcwatekwwlcedarrapidswaterlooia.us" tvg-name="IA | Cedar Rapids | NBC 7 KWWL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/KWWL_NBC_7_Cedar_Rapids%2C_Iowa_Logo.svg/800px-KWWL_NBC_7_Cedar_Rapids%2C_Iowa_Logo.svg.png" group-title="USA | LOCAL - CBS",IA | Cedar Rapids | NBC 7 KWWL
+http://vocotv.pro:80/keisha/keisha/1495
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wtrf.us" tvg-name="WV | Wheeling | CBS WTRF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/7_WTRF_CBS.png/800px-7_WTRF_CBS.png" group-title="USA | LOCAL - CBS",WV | Wheeling | CBS WTRF
 http://vocotv.pro:80/rivera/rivera/642311
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbswiyewiyeparkersburgwv.us" tvg-name="WV | Parkersburg | CBS WIYE-LD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/799px-CBS_logo_%282020%29.svg.png" group-title="USA | LOCAL - CBS",WV | Parkersburg | CBS WIYE-LD
@@ -401,8 +428,6 @@ http://canal-pro.xyz:8080/949576770tv/uyqd998/23552
 http://canal-pro.xyz:8080/949576770tv/uyqd998/23553
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS Orlando" tvg-logo="https://media.tvnewscheck.com/wp/content/uploads/2020/07/wkmg-orlando-logo.jpg" group-title="→ USA ←",US: CBS Orlando
 http://canal-pro.xyz:8080/949576770tv/uyqd998/23554
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS New York" tvg-logo="https://i.imgur.com/9rWFDDX.jpg" group-title="→ USA ←",US: CBS New York
-http://canal-pro.xyz:8080/949576770tv/uyqd998/23555
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS New Orleans" tvg-logo="https://i.imgur.com/k0Dd2dZ.png" group-title="→ USA ←",US: CBS New Orleans
 http://canal-pro.xyz:8080/949576770tv/uyqd998/23556
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS Nashville" tvg-logo="https://image.roku.com/developer_channels/prod/b669dd09045530ae29c7cf411786954c4f32be319c1e5703f632e76039d4af43.png" group-title="→ USA ←",US: CBS Nashville
@@ -601,8 +626,6 @@ http://supersonictv.live:8080/Edgar123/Edgar123/71325
 http://supersonictv.live:8080/Edgar123/Edgar123/71330
 #EXTINF:-1,CBS WAFB9 Baton Rouge
 http://supersonictv.live:8080/Edgar123/Edgar123/71342
-#EXTINF:-1,ABC Boston WCVB
-http://supersonictv.live:8080/Edgar123/Edgar123/71347
 #EXTINF:-1,CBS Boston WBZ
 http://supersonictv.live:8080/Edgar123/Edgar123/71348
 #EXTINF:-1,CBS 42 WIAT Birmingham
@@ -1411,8 +1434,6 @@ http://fortv.cc:8080/rQFr7P7/QPqD5R4/217388
 http://supersonictv.live:8080/Tedd1/Tedd1/71325
 #EXTINF:-1,CBS Baltimore WJZ
 http://supersonictv.live:8080/Tedd1/Tedd1/71330
-#EXTINF:-1,ABC Boston WCVB
-http://supersonictv.live:8080/Tedd1/Tedd1/71347
 #EXTINF:-1,CBS Boston WBZ
 http://supersonictv.live:8080/Tedd1/Tedd1/71348
 #EXTINF:-1,CBS 42 WIAT Birmingham
