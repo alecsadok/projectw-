@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014784
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014785
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO RIO DE JANEIRO FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409655
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO RIO DE JANEIRO HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409654
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409657
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409656
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW SD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014786
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="CANAIS • SBT",SBT FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014346
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="CANAIS • BAND",BAND FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014329
 #EXTINF:-1,E! (Test)
 http://new.feniks.team:25461/live/400mateabrnic/WnV5eVCf3923/b6671674-7ab4-43e8-8b39-d93309b4d179.m3u
 #EXTINF:-1,E! SD
