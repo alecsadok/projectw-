@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⏺️ 4K UHD | QHD",MULTISHOW 4K
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/97615.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⛰️ VARIEDADES",MULTISHOW FHD
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/96571.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014785
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO RIO DE JANEIRO FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409655
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO RIO DE JANEIRO HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409654
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409657
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409656
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW SD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014786
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="CANAIS • SBT",SBT FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014346
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="CANAIS • BAND",BAND FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014329
+#EXTINF:-1,ABC Boston WCVB
+http://supersonictv.live:8080/Edgar123/Edgar123/71347
+#EXTINF:-1 tvg-id="" tvg-name="US | ABC ᴴᴰ" tvg-logo="https://i.ibb.co/fN1Hq5v/download-54.png" group-title="ABC",US | ABC ᴴᴰ
+http://skyplayau.in:8080/live/3919394995/1728383949/74268.ts
+#EXTINF:-1 tvg-id="nbcwbts.us" tvg-name="US: NBC BOSTON" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="NBC",US: NBC BOSTON
+http://sonymax.org:8080/gg23456789/06022024/211883
+#EXTINF:-1 tvg-id="nbc8wood.us" tvg-name="MI | Grand Rapids | NBC WOOD" tvg-logo="" group-title="NBC",MI | Grand Rapids | NBC WOOD
+http://xxip9.top:8080/14263899/04468572/120719
+#EXTINF:-1 tvg-id="cbswcbs.us" tvg-name="US: CBS NEW YORK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="CBS",US: CBS NEW YORK HD
+http://sonymax.org:8080/gg23456789/06022024/210550
+#EXTINF:-1,CBS Atlanta
+http://supersonictv.live:8080/Edgar123/Edgar123/71291
+#EXTINF:-1 tvg-id="nbcwcsh.us" tvg-name="NBC: ME PORTLAND WCSH" tvg-logo="" group-title="NBC",NBC: ME PORTLAND WCSH
+http://xxip9.top:8080/14263899/04468572/120715
+#EXTINF:-1 tvg-id="nbc5wlwt.us" tvg-name="NBC: CINCINNATI WLWT" tvg-logo="" group-title="NBC",NBC: CINCINNATI WLWT
+http://xxip9.top:8080/14263899/04468572/120755
+#EXTINF:-1 tvg-id="nbc10wjar.us" tvg-name=" NBC RI | Providence | | WJAR" tvg-logo="" group-title="USA | NEWS | REGIONALS ",RI | Providence | | WJAR
+http://cord-cutter.net:8080/Brandon123/Brandon123/120781
+#EXTINF:-1 tvg-id="nbc13keci.us" tvg-name="NBC: MT MISSOULA KECI" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: MT MISSOULA KECI
+http://cord-cutter.net:8080/Brandon123/Brandon123/120733
+#EXTINF:-1 tvg-id="nbc12wboy.us" tvg-name="US NBC 12 (WBOY) Clarksburg (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 12 (WBOY) Clarksburg (F)
+http://cord-cutter.net:8080/Brandon123/Brandon123/160729
+#EXTINF:-1 tvg-id="1390" tvg-name="E!" tvg-logo="http://5.189.149.253/logo/Dokumentarni/E!.png" group-title="E!" ,E!
+http://asterix-iptv.club:25461/24ZdenkoZetovic/55bh8kPHPAsr/1390
+#EXTINF:-1 group-title="MTV" tvg-logo="http://play.wisp.cat/logos/1084.png" tvg-id="mtv-europe",MTV Europe
+http://lb.wisp.cat/lb0/MTV_Europe/video.m3u8?token=PZlppH4
+#EXTINF:-1 group-title="CBS" tvg-logo="http://play.wisp.cat/logos/1152.png" tvg-id="CBS Europa",CBS Europa HD
+http://lb.wisp.cat/lb0/PL_CBS_Europa_HD/video.m3u8?token=PZlppH4
+#EXTINF:-1 group-title="MTV" tvg-logo="http://play.wisp.cat/logos/1484.png" tvg-id="TV Polska",MTV Polska HD
+http://lb.wisp.cat/lb0/MTVPOLSKAHD/video.m3u8?token=PZlppH4
+#EXTINF:-1 group-title="CBS" tvg-logo="http://play.wisp.cat/logos/1512.png" tvg-id="CBS REALITY",CBS Reality HD
+http://lb.wisp.cat/lb0/PL_CBS_Reality_HD/video.m3u8?token=PZlppH4
+#EXTINF:-1 group-title="E!" tvg-logo="http://play.wisp.cat/logos/1515.png" tvg-id="E! Entertainment",E! Entertainment
+http://lb.wisp.cat/lb0/PL_E_Entertainment/video.m3u8?token=PZlppH4
+#EXTINF:-1 group-title="ABC" tvg-logo="http://play.wisp.cat/logos/1538.png" tvg-id="tvp-abc",TVP ABC
+http://lb.wisp.cat/lb0/PL_TVP_ABC/video.m3u8?token=PZlppH4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsreality.uk" tvg-name="NL | CBS REALITY" tvg-logo="https://i.imgur.com/HSsjlme.png" group-title="CBS",NL | CBS REALITY
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/247343
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtv.nl" tvg-name="NL | MTV" tvg-logo="https://i.imgur.com/g08U9pB.png" group-title="MTV",NL | MTV
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/247411
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eentertainment.pl" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="https://i.imgur.com/pwsKmcW.png" group-title="E!",E! ENTERTAINMENT FHD
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/8325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbseuropa.pl" tvg-name="CBS EUROPA FHD" tvg-logo="https://i.imgur.com/rK3rdHA.png" group-title="CBS",CBS EUROPA FHD
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/8451
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsreality.pl" tvg-name="CBS REALITY FHD" tvg-logo="https://i.imgur.com/hn6NCBb.png" group-title="CBS",CBS REALITY FHD
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/8447
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PT: E! ENTERTAINMENT HEVC" tvg-logo="https://i.imgur.com/HNCXDOT.png" group-title="E!",PT: E! ENTERTAINMENT HEVC
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/242695
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsreality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://i.imgur.com/gV2yNxS.png" group-title="CBS",RO: CBS REALITY
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/469559
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS -  FLORENCE SC WBTW" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS -  FLORENCE SC WBTW
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/487273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - WI LA CROSSE WKBT" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - WI LA CROSSE WKBT
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/487265
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - OH YOUNGSTOWN WKBN" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - OH YOUNGSTOWN WKBN
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/487232
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - MI DETROIT WWJ" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - MI DETROIT WWJ
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/487206
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - DC WASHINGTON WUSA" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - DC WASHINGTON WUSA
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/487176
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - CA STOCKTON KOVR" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - CA STOCKTON KOVR
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/487172
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - CA SAN DIEGO KFMB" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - CA SAN DIEGO KFMB
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/487169
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - LOS ANGELES CA KCBS" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - LOS ANGELES CA KCBS
+http://todserver.store:8080/Bekir150924/hPYdJdxRw1/487157
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PT: E! ENTERTAINMENT HEVC" tvg-logo="https://i.imgur.com/HNCXDOT.png" group-title="E!",PT: E! ENTERTAINMENT HEVC
+http://todserver.store:8080/Bekir180824/jbR7wqYuDb/242695
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="http://xc.contact:80/images/R9D-7akxIsQpcdv0_BM6pSO1_i135a2eFhVwPR4U6d_ByDL0Q7F-YjoiPWZryjwV47F-uoddIMlhks5EzCuLJg.png" group-title="E!",E! ENTERTAINMENT
+http://todserver.store:8080/Bekir180824/jbR7wqYuDb/564196
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="US: E! ENTERTAINMENT" tvg-logo="http://xc.contact:80/images/Jd-tZSqDQbn7P7671GfGEcSPYFPm_hVPbkFtC5IyZBbBiT0A1X8LIfnJOVp1uWOfoPoPH6slrh8_CM6WcAtDgg.png" group-title="E!",US: E! ENTERTAINMENT
+http://todserver.store:8080/Bekir180824/jbR7wqYuDb/561777
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="US: CBS" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4e%2FCBS_logo.svg%2F800px-CBS_logo.svg.png&tbnid=HA0VTgWdmliXhM&vet=12ahUKEwiQvMuow9CEAxVsof0HHfwrCvsQMygAegQIARBJ..i&imgrefurl=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FDosya%3ACBS_logo.svg&docid=c8mIYfGJm1yQfM&w=800&h=244&q=cbs%20logo&ved=2ahUKEwiQvMuow9CEAxVsof0HHfwrCvsQMygAegQIARBJ" group-title="CBS",US: CBS
+http://todserver.store:8080/Bekir180824/jbR7wqYuDb/561708
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="US: ABC" tvg-logo="http://xc.contact:80/images/Jd-tZSqDQbn7P7671GfGEQiJiQtgiQ9n_KY0K3QX10FjTVCnWiluWDBK7ZPT18cj.png" group-title="ABC",US: ABC
+http://todserver.store:8080/Bekir180824/jbR7wqYuDb/561706
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - ME PORTLAND WGME" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - ME PORTLAND WGME
+http://todserver.store:8080/Bekir180824/jbR7wqYuDb/487202
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CBS - CA SAN DIEGO KFMB" tvg-logo="https://i.ibb.co/hZS6vTk/image.png" group-title="CBS",CBS - CA SAN DIEGO KFMB
+http://todserver.store:8080/Bekir180824/jbR7wqYuDb/487169
+#EXTINF:-1 tvg-id="" tvg-name="USA: E! Entertainment" tvg-logo="http://latinapro.net:25461/images/e8a1a09da90a68f4bf0504158eea8c8f.jpg" group-title="E!",USA: E! Entertainment
+http://latinapro.net:25461/lazaroperez/perez3/345.ts
+#EXTINF:-1 tvg-id="charge.us" tvg-name="US CHARGE! " tvg-logo="" group-title="E!",US CHARGE! 
+http://xxip9.top:8080/14263899/04468572/79594
+#EXTINF:-1 tvg-id="nbc11ktvf.us" tvg-name="AK | Fairbanks | NBC KTVF" tvg-logo="" group-title="NBC",AK | Fairbanks | NBC KTVF
+http://xxip9.top:8080/14263899/04468572/120635
+#EXTINF:-1 tvg-id="nbc5kath.us" tvg-name="AK | Juneau-douglas | NBC KATH" tvg-logo="" group-title="NBC",AK | Juneau-douglas | NBC KATH
+http://xxip9.top:8080/14263899/04468572/120636
+#EXTINF:-1 tvg-id="nbc13wnyt.us" tvg-name="NBC: AL MOBILE WPMI" tvg-logo="" group-title="NBC",NBC: AL MOBILE WPMI
+http://xxip9.top:8080/14263899/04468572/120643
+#EXTINF:-1 tvg-id="nbc4kvoa.us" tvg-name="US NBC 4 (KVOA) Tucson " tvg-logo="" group-title="NBC",US NBC 4 (KVOA) Tucson 
+http://xxip9.top:8080/14263899/04468572/120652
+#EXTINF:-1 tvg-id="nbc5koaa.us" tvg-name="US NBC 5 (KOAA) Pueblo (D)" tvg-logo="" group-title="NBC",US NBC 5 (KOAA) Pueblo (D)
+http://xxip9.top:8080/14263899/04468572/120666
+#EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="US NBC (WTLV) Jacksonville " tvg-logo="" group-title="NBC",US NBC (WTLV) Jacksonville 
+http://xxip9.top:8080/14263899/04468572/120672
+#EXTINF:-1 tvg-id="cbs2kboi.us" tvg-name="CBS: ID BOISE KBOI" tvg-logo="" group-title="CBS",CBS: ID BOISE KBOI
+http://xxip9.top:8080/14263899/04468572/120684
+#EXTINF:-1 tvg-id="nbc7ktvb.us" tvg-name="NBC: ID BOISE KTVB" tvg-logo="" group-title="NBC",NBC: ID BOISE KTVB
+http://xxip9.top:8080/14263899/04468572/120685
+#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="US CBS (WBBM) Chicago " tvg-logo="" group-title="CBS",US CBS (WBBM) Chicago 
+http://xxip9.top:8080/14263899/04468572/120688
+#EXTINF:-1 tvg-id="nbcwcsh.us" tvg-name="NBC: ME PORTLAND WCSH" tvg-logo="" group-title="NBC",NBC: ME PORTLAND WCSH
+http://xxip9.top:8080/14263899/04468572/120715
+#EXTINF:-1 tvg-id="nbc8wood.us" tvg-name="MI | Grand Rapids | NBC WOOD" tvg-logo="" group-title="NBC",MI | Grand Rapids | NBC WOOD
+http://xxip9.top:8080/14263899/04468572/120719
+#EXTINF:-1 tvg-id="nbc13keci.us" tvg-name="NBC: MT MISSOULA KECI" tvg-logo="" group-title="NBC",NBC: MT MISSOULA KECI
+http://xxip9.top:8080/14263899/04468572/120733
+#EXTINF:-1 tvg-id="nbc7krnv.us" tvg-name="US NBC 7 (KRNV) Reno" tvg-logo="" group-title="NBC",US NBC 7 (KRNV) Reno
+http://xxip9.top:8080/14263899/04468572/120744
+#EXTINF:-1 tvg-id="nbc2wgrz.us" tvg-name="US NBC (WGRZ) HD " tvg-logo="" group-title="NBC",US NBC (WGRZ) HD 
+http://xxip9.top:8080/14263899/04468572/120748
+#EXTINF:-1 tvg-id="nbc5wlwt.us" tvg-name="NBC: CINCINNATI WLWT" tvg-logo="" group-title="NBC",NBC: CINCINNATI WLWT
+http://xxip9.top:8080/14263899/04468572/120755
+#EXTINF:-1 tvg-id="nbc32wmbf.us" tvg-name="NBC: SC MYRTLE BEACH WMBF" tvg-logo="" group-title="NBC",NBC: SC MYRTLE BEACH WMBF
+http://xxip9.top:8080/14263899/04468572/120790
+#EXTINF:-1 tvg-id="nbckxas.us" tvg-name="TX | Fort Worth | NBC KXAS" tvg-logo="" group-title="NBC",TX | Fort Worth | NBC KXAS
+http://xxip9.top:8080/14263899/04468572/120811
+#EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="US CBS (KYW) Philadelphia (F)" tvg-logo="" group-title="CBS",US CBS (KYW) Philadelphia (F)
+http://xxip9.top:8080/14263899/04468572/121150
+#EXTINF:-1 tvg-id="cbs5wtvh.us" tvg-name="US CBS (WTVH) Syracuse (F)" tvg-logo="" group-title="CBS",US CBS (WTVH) Syracuse (F)
+http://xxip9.top:8080/14263899/04468572/122004
+#EXTINF:-1 tvg-id="nbc16wagt.us" tvg-name="US NBC (WAGT) Augusta " tvg-logo="" group-title="NBC",US NBC (WAGT) Augusta 
+http://xxip9.top:8080/14263899/04468572/122271
+#EXTINF:-1 tvg-id="cbs13wgme.us" tvg-name="CBS: ME PORTLAND WGME" tvg-logo="" group-title="CBS",CBS: ME PORTLAND WGME
+http://xxip9.top:8080/14263899/04468572/122277
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/14263899/04468572/137954
+#EXTINF:-1 tvg-id="cbs62wwj.us" tvg-name="CBS: MI DETROIT WWJ" tvg-logo="" group-title="CBS",CBS: MI DETROIT WWJ
+http://xxip9.top:8080/14263899/04468572/147201
+#EXTINF:-1 tvg-id="nbc12wboy.us" tvg-name="US NBC 12 (WBOY) Clarksburg (F)" tvg-logo="" group-title="NBC",US NBC 12 (WBOY) Clarksburg (F)
+http://xxip9.top:8080/14263899/04468572/160729
+#EXTINF:-1 tvg-id="nbc9wtva.us" tvg-name="US NBC 9 (WTVA) Tupelo (D)" tvg-logo="" group-title="NBC",US NBC 9 (WTVA) Tupelo (D)
+http://xxip9.top:8080/14263899/04468572/213646
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/1A63fh/337373/137954
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV KOSOVA" tvg-logo="https://docdog.top/logo/countries/albania/mtvkosova.png" group-title="MTV",AL: MTV KOSOVA
+http://pseaene.top:8080/2271740172216690/239a097e8c67/57678
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP NBC NEW YORK" tvg-logo="https://docdog.top/logo/countries/us/nbcnewyork.png" group-title="NBC",USA: VIP NBC NEW YORK
+http://pseaene.top:8080/2271740172216690/239a097e8c67/51092
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC KHNL" tvg-logo="" group-title="NBC",USA: NBC KHNL
+http://pseaene.top:8080/2271740172216690/239a097e8c67/63643
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN E! Entertainment" tvg-logo="https://docdog.top/logo/countries/arab/OSNE!.jpg" group-title="E!",AR: OSN E! Entertainment
+http://nororqqyy.top:8080/2891740930947689/451e5edfc6ba/53131
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV KOSOVA" tvg-logo="https://docdog.top/logo/countries/albania/mtvkosova.png" group-title="MTV",AL: MTV KOSOVA
+http://nororqqyy.top:8080/2891740930947689/451e5edfc6ba/57678
+#EXTINF:-1 tvg-id="NBCEast.us" tvg-name="US: NBC" tvg-logo="" group-title="NBC",US: NBC
+http://skyplayau.in:8080/live/3919394995/1728383949/222438.ts
+#EXTINF:-1 tvg-id="" tvg-name="US | ABC ᴴᴰ" tvg-logo="https://i.ibb.co/fN1Hq5v/download-54.png" group-title="ABC",US | ABC ᴴᴰ
+http://skyplayau.in:8080/live/3919394995/1728383949/74268.ts
+#EXTINF:-1 tvg-id="" tvg-name="US |  NBC NY ᴴᴰ" tvg-logo="https://i.ibb.co/fGmfxV2/download-16-3.png" group-title="NBC",US |  NBC NY ᴴᴰ
+http://skyplayau.in:8080/live/3919394995/1728383949/74272.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MTV Splitsvilla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbdX2LLJhJemnf3HLodwhjwNaFx.jpg" group-title="MTV",24/7 MTV Splitsvilla
+http://skyplayau.in:8080/live/3919394995/1728383949/102456.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV Kosova" tvg-logo="" group-title="MTV",AL: MTV Kosova
+http://miliongoal.com:80/44bobansm_45/w3finRRqmR/9643
+#EXTINF:-1 tvg-id="" tvg-name="NL: MTV FHD" tvg-logo="" group-title="MTV",NL: MTV FHD
+http://miliongoal.com:80/44bobansm_45/w3finRRqmR/8331
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS" tvg-logo="" group-title="CBS",USA: CBS
+http://miliongoal.com:80/44bobansm_45/w3finRRqmR/9511
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS KMOV" tvg-logo="" group-title="CBS",USA: CBS KMOV
+http://pseaene.top:8080/4641741877938695/a7d7d8f1dac6/63888
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS 11 (KMVT) TWIN FALLS VIP" tvg-logo="" group-title="CBS",USA: CBS 11 (KMVT) TWIN FALLS VIP
+http://pseaene.top:8080/4641741877938695/a7d7d8f1dac6/64310
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 7 (WITN) Washington VIP" tvg-logo="https://asiagrandiptv.us/logo/nbcwashington.png" group-title="NBC",USA: NBC 7 (WITN) Washington VIP
+http://pseaene.top:8080/4641741877938695/a7d7d8f1dac6/64528
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/49014932/49014932/137954
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/53399480/02403087/137954
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/98950982/98950982/137954
+#EXTINF:-1 tvg-id="" tvg-name="NL: MTV FHD" tvg-logo="" group-title="MTV",NL: MTV FHD
+http://nova-media.net:80/Andjelo_Zeravica/WJyoyyHT6y/8331
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/Br1KatXp/2193763825/137954
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/buphowell@outlook/mtNh8p7HLd6/137954
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/chery6will13@gmail.com/chery6will13@2022/137954
+#EXTINF:-1 tvg-id="cbswcbs.us" tvg-name="US: CBS NEW YORK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSNEWSCH3HD.png" group-title="CBS",US: CBS NEW YORK HD
+http://sonymax.org:8080/gg23456789/06022024/210550
+#EXTINF:-1 tvg-id="cbswjz.us" tvg-name="US: CBS BALTIMORE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS BALTIMORE
+http://sonymax.org:8080/gg23456789/06022024/211816
+#EXTINF:-1 tvg-id="cbswbz.us" tvg-name="US: CBS BOSTON" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS BOSTON
+http://sonymax.org:8080/gg23456789/06022024/211815
+#EXTINF:-1 tvg-id="cbswbtv.us" tvg-name="US: CBS CHARLOTTE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS CHARLOTTE
+http://sonymax.org:8080/gg23456789/06022024/211814
+#EXTINF:-1 tvg-id="cbswbbmtv.us" tvg-name="US: CBS CHICAGO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS CHICAGO
+http://sonymax.org:8080/gg23456789/06022024/211813
+#EXTINF:-1 tvg-id="cbs62wwjtv.us" tvg-name="US: CBS 62 DETROIT" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS 62 DETROIT
+http://sonymax.org:8080/gg23456789/06022024/211808
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS GREENSBORO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS GREENSBORO
+http://sonymax.org:8080/gg23456789/06022024/211807
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS HARTFORD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS HARTFORD
+http://sonymax.org:8080/gg23456789/06022024/211806
+#EXTINF:-1 tvg-id="cbswfor.us" tvg-name="US: CBS MIAMI" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS MIAMI
+http://sonymax.org:8080/gg23456789/06022024/211801
+#EXTINF:-1 tvg-id="cbswcco.us" tvg-name="US: CBS MINNEAPOLIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS MINNEAPOLIS
+http://sonymax.org:8080/gg23456789/06022024/211800
+#EXTINF:-1 tvg-id="cbswkmg.us" tvg-name="US: CBS ORLANDO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS ORLANDO
+http://sonymax.org:8080/gg23456789/06022024/211795
+#EXTINF:-1 tvg-id="cbskyw.us" tvg-name="US: CBS PHILADELPHIA" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS PHILADELPHIA
+http://sonymax.org:8080/gg23456789/06022024/211794
+#EXTINF:-1 tvg-id="cbskiro.us" tvg-name="US: CBS SEATTLE" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS SEATTLE
+http://sonymax.org:8080/gg23456789/06022024/211787
+#EXTINF:-1 tvg-id="cbswusa.us" tvg-name="US: CBS WASHINGTON DC" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS WASHINGTON DC
+http://sonymax.org:8080/gg23456789/06022024/211784
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC BUFFALO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="NBC",US: NBC BUFFALO
+http://sonymax.org:8080/gg23456789/06022024/211882
+#EXTINF:-1 tvg-id="foxwjw.us" tvg-name="US: NBC 8 CLEVELAND" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="NBC",US: NBC 8 CLEVELAND
+http://sonymax.org:8080/gg23456789/06022024/211878
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC INDIANAPOLIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="NBC",US: NBC INDIANAPOLIS
+http://sonymax.org:8080/gg23456789/06022024/211871
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC ST LOUIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="NBC",US: NBC ST LOUIS
+http://sonymax.org:8080/gg23456789/06022024/211852
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/gpac7576@gmail.com/kNJ2psFn4nEe726b/137954
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="US: NBC HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="NBC",US: NBC HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/291079.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/Jayfenster213@aol.com/YUh38x5kDS/137954
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://nocable.cc:8080/michellebrath@hotmail.com/dmNeFwzj6v/137954
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS" tvg-logo="" group-title="CBS",USA: CBS
+http://miliongoal.com:80/Mirnes129/u03v99T6sq/9511
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/mJ4KGc/919544/137954
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV KOSOVA" tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/mtvKosova.png" group-title="MTV",AL: MTV KOSOVA
+http://sonymax.org:8080/mjKRqzRAdh/raFdhfJUsQ/301144
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS GREENSBORO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS GREENSBORO
+http://sonymax.org:8080/mjKRqzRAdh/raFdhfJUsQ/211807
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS HARTFORD" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/CBSHD.png" group-title="CBS",US: CBS HARTFORD
+http://sonymax.org:8080/mjKRqzRAdh/raFdhfJUsQ/211806
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC BUFFALO" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="NBC",US: NBC BUFFALO
+http://sonymax.org:8080/mjKRqzRAdh/raFdhfJUsQ/211882
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC INDIANAPOLIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="NBC",US: NBC INDIANAPOLIS
+http://sonymax.org:8080/mjKRqzRAdh/raFdhfJUsQ/211871
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC ST LOUIS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NBC.png" group-title="NBC",US: NBC ST LOUIS
+http://sonymax.org:8080/mjKRqzRAdh/raFdhfJUsQ/211852
+#EXTINF:-1 tvg-id="" tvg-name="BH: MTV IGMAN" tvg-logo="http://sltv-icon.cms-s.com/logo/Bosnia%20and%20Herzegovina/MTV_Igman.png" group-title="MTV",BH: MTV IGMAN
+http://sonymax.org:8080/mjKRqzRAdh/raFdhfJUsQ/3059
+#EXTINF:-1 tvg-id="" tvg-name="NL: MTV" tvg-logo="" group-title="MTV",NL: MTV
+http://ral.91444616.xyz:8080/mnalbantoglu122/21122021ns@/309817
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV Kosova" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8c62bf6c87574289bf103877b09ee901.jpg" group-title="MTV",AL: MTV Kosova
+http://ral.91444616.xyz:8080/mnalbantoglu122/21122021ns@/322209
+#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="MTV",LB: mtv
+http://ral.91444616.xyz:8080/mnalbantoglu122/21122021ns@/322564
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV India" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/53fbf5a419f6643e41151df74bb16b9e.png" group-title="MTV",IN: MTV India
+http://ral.91444616.xyz:8080/mnalbantoglu122/21122021ns@/324233
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC San Luis Obispo KSBY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b733d0d4056f3a70d06bae6b39a55a28.png" group-title="NBC",US: NBC San Luis Obispo KSBY
+http://ral.91444616.xyz:8080/mnalbantoglu122/21122021ns@/327125
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Steubenville Ohio WTOV TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf8ecc73616c4c9185b4d74da1830d59.png" group-title="NBC",US: NBC Steubenville Ohio WTOV TV
+http://ral.91444616.xyz:8080/mnalbantoglu122/21122021ns@/327145
+#EXTINF:-1 tvg-id="" tvg-name="HU: CLUB MTV" tvg-logo="http://sltv-icon.cms-s.com/logo/HUNGARIAN/macar2021/clubmtv.png" group-title="MTV",HU: CLUB MTV
+http://sonymax.org:8080/net5cF3FjU/ksuj2dex7S/144618
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://mytvstream.net:8080/nurselewis1/nurse1@lewis/137954
+#EXTINF:-1 tvg-id="" tvg-name="LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS" tvg-logo="" group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip9.top:8080/ptdiva92@ymail.com/77m4jVARkM/137954
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP NBC WASHINGTON" tvg-logo="https://docdog.top/logo/countries/us/nbcwashington.png" group-title="NBC",USA: VIP NBC WASHINGTON
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/6236
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP NBC NEW YORK" tvg-logo="https://docdog.top/logo/countries/us/nbcnewyork.png" group-title="NBC",USA: VIP NBC NEW YORK
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/6279
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC MANCHESTER WMUR" tvg-logo="" group-title="ABC",USA: ABC MANCHESTER WMUR
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/144987
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC MILWAUKEE WISN" tvg-logo="" group-title="ABC",USA: ABC MILWAUKEE WISN
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/144990
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS AUSTIN KEYE" tvg-logo="" group-title="CBS",USA: CBS AUSTIN KEYE
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/145158
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS BROOKLYN WCBS" tvg-logo="" group-title="CBS",USA: CBS BROOKLYN WCBS
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/145169
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS CHICAGO WBBM" tvg-logo="" group-title="CBS",USA: CBS CHICAGO WBBM
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/145177
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS LOS ANGELES KCBS" tvg-logo="" group-title="CBS",USA: CBS LOS ANGELES KCBS
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/145222
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS LOUISVILLE WLKY" tvg-logo="" group-title="CBS",USA: CBS LOUISVILLE WLKY
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/145223
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS NASHVILLE WTVF" tvg-logo="" group-title="CBS",USA: CBS NASHVILLE WTVF
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/145237
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC FARGO KVLY" tvg-logo="" group-title="NBC",USA: NBC FARGO KVLY
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/145836
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC KING" tvg-logo="" group-title="NBC",USA: NBC KING
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/147484
+#EXTINF:-1 tvg-id="" tvg-name="AR|OSN: E! HD" tvg-logo="https://docdog.top/logo/countries/ar/E!_HD.png" group-title="E!",AR|OSN: E! HD
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/130887
+#EXTINF:-1 tvg-id="" tvg-name="MY: MTV" tvg-logo="https://docdog.top/logo/countries/malaysia/mtv.png" group-title="MTV",MY: MTV
+http://vipketseyket.top:8080/VIP015169227122712/1e1a2166b463/34607
