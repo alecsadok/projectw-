@@ -21,6 +21,10 @@ http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014346
 http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014329
 #EXTINF:-1,ABC Boston WCVB
 http://supersonictv.live:8080/Edgar123/Edgar123/71347
+#EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="US NBC (WTLV) Jacksonville " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WTLV) Jacksonville 
+http://cord-cutter.net:8080/Brandon123/Brandon123/120672
+#EXTINF:-1,CBS Atlanta
+http://supersonictv.live:8080/Edgar123/Edgar123/71291
 #EXTINF:-1,ABC Kansas City KMBC
 http://supersonictv.live:8080/Edgar123/Edgar123/71576
 #EXTINF:-1,ABC Milwaukee WISN
@@ -29,18 +33,14 @@ http://supersonictv.live:8080/Edgar123/Edgar123/71651
 http://hardcoremedia.xyz:80/evhbaehp/4765328881/9803
 #EXTINF:-1,ABC Atlanta WSB
 http://supersonictv.live:8080/Edgar123/Edgar123/71290
-#EXTINF:-1,CBS Atlanta
-http://supersonictv.live:8080/Edgar123/Edgar123/71291
 #EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="US CBS (WBBM) Chicago " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WBBM) Chicago 
 http://cord-cutter.net:8080/Brandon123/Brandon123/120688
 #EXTINF:-1 tvg-id="cbs5wtvh.us" tvg-name="US CBS (WTVH) Syracuse (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WTVH) Syracuse (F)
 http://cord-cutter.net:8080/Brandon123/Brandon123/122004
-#EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="US NBC (WTLV) Jacksonville " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WTLV) Jacksonville 
-http://cord-cutter.net:8080/Brandon123/Brandon123/120672
+#EXTINF:-1 tvg-id="nbc10wjar.us" tvg-name=" NBC RI | Providence | | WJAR" tvg-logo="" group-title="USA | NEWS | REGIONALS ",RI | Providence | | WJAR
+http://cord-cutter.net:8080/Brandon123/Brandon123/120781
 #EXTINF:-1 tvg-id="nbc13keci.us" tvg-name="NBC: MT MISSOULA KECI" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: MT MISSOULA KECI
 http://cord-cutter.net:8080/Brandon123/Brandon123/120733
-#EXTINF:-1 tvg-id="nbc10wjar.us" tvg-name="RI | Providence | | WJAR" tvg-logo="" group-title="USA | NEWS | REGIONALS ",RI | Providence | | WJAR
-http://cord-cutter.net:8080/Brandon123/Brandon123/120781
 #EXTINF:-1 tvg-id="nbc12wboy.us" tvg-name="US NBC 12 (WBOY) Clarksburg (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 12 (WBOY) Clarksburg (F)
 http://cord-cutter.net:8080/Brandon123/Brandon123/160729
 #EXTINF:-1,ABC Austin KVUE TX
