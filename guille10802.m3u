@@ -19,7 +19,428 @@ http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014786
 http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014346
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="CANAIS • BAND",BAND FHD
 http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014329
-#EXTM3U
+#EXTINF:-1,ABC Boston WCVB
+http://supersonictv.live:8080/Edgar123/Edgar123/71347
+#EXTINF:-1,ABC Kansas City KMBC
+http://supersonictv.live:8080/Edgar123/Edgar123/71576
+#EXTINF:-1,ABC Milwaukee WISN
+http://supersonictv.live:8080/Edgar123/Edgar123/71651
+#EXTINF:-1,MA | BOSTON | ABC WCVB
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/9803
+#EXTINF:-1,ABC Atlanta WSB
+http://supersonictv.live:8080/Edgar123/Edgar123/71290
+#EXTINF:-1,CBS Atlanta
+http://supersonictv.live:8080/Edgar123/Edgar123/71291
+#EXTINF:-1,ABC Austin KVUE TX
+http://supersonictv.live:8080/Edgar123/Edgar123/71297
+#EXTINF:-1,TX | Austin | CBS KEYE
+http://supersonictv.live:8080/Edgar123/Edgar123/71298
+#EXTINF:-1,ABC 10 Albany (WALB-DT2) GA
+http://supersonictv.live:8080/Edgar123/Edgar123/71306
+#EXTINF:-1,NM | Albuquerque | ABC KOAT
+http://supersonictv.live:8080/Edgar123/Edgar123/71309
+#EXTINF:-1,CBS 13 KRQE Albuquerque
+http://supersonictv.live:8080/Edgar123/Edgar123/71310
+#EXTINF:-1,GA | Augusta | CBS WRDW
+http://supersonictv.live:8080/Edgar123/Edgar123/71316
+#EXTINF:-1,CBS WKRG Alabama
+http://supersonictv.live:8080/Edgar123/Edgar123/71325
+#EXTINF:-1,ABC Baltimore WMAR
+http://supersonictv.live:8080/Edgar123/Edgar123/71329
+#EXTINF:-1,CBS Baltimore WJZ
+http://supersonictv.live:8080/Edgar123/Edgar123/71330
+#EXTINF:-1,MI | Bay City | CBS WNEM
+http://supersonictv.live:8080/Edgar123/Edgar123/71337
+#EXTINF:-1,LA | Baton Rouge | CBS WAFB
+http://supersonictv.live:8080/Edgar123/Edgar123/71339
+#EXTINF:-1,CBS WAFB9 Baton Rouge
+http://supersonictv.live:8080/Edgar123/Edgar123/71342
+#EXTINF:-1,ABC Boston WCVB
+http://supersonictv.live:8080/Edgar123/Edgar123/71347
+#EXTINF:-1,CBS Boston WBZ
+http://supersonictv.live:8080/Edgar123/Edgar123/71348
+#EXTINF:-1,ID | Boise | CBS KBOI
+http://supersonictv.live:8080/Edgar123/Edgar123/71351
+#EXTINF:-1,ABC 13 WBKO Bowling Green
+http://supersonictv.live:8080/Edgar123/Edgar123/71353
+#EXTINF:-1,CBS 42 WIAT Birmingham
+http://supersonictv.live:8080/Edgar123/Edgar123/71356
+#EXTINF:-1,VT | Burlington | CBS WCAX
+http://supersonictv.live:8080/Edgar123/Edgar123/71365
+#EXTINF:-1,CBS Buffalo WIVB
+http://supersonictv.live:8080/Edgar123/Edgar123/71368
+#EXTINF:-1,CBS 9 WWTV Cadillac
+http://supersonictv.live:8080/Edgar123/Edgar123/71379
+#EXTINF:-1,MO | Cape Girardeau | CBS KFVS
+http://supersonictv.live:8080/Edgar123/Edgar123/71381
+#EXTINF:-1,TX | Corpus Christi | CBS KZTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71385
+#EXTINF:-1,ABC Charlotte WSOC NC
+http://supersonictv.live:8080/Edgar123/Edgar123/71387
+#EXTINF:-1,CBS Charlotte WBTV NC
+http://supersonictv.live:8080/Edgar123/Edgar123/71388
+#EXTINF:-1,ABC Chicago WLS
+http://supersonictv.live:8080/Edgar123/Edgar123/71396
+#EXTINF:-1,CBS Chicago WBBM
+http://supersonictv.live:8080/Edgar123/Edgar123/71397
+#EXTINF:-1,ABC Cleveland WEWS
+http://supersonictv.live:8080/Edgar123/Edgar123/71402
+#EXTINF:-1,CBS Cleveland WOIO
+http://supersonictv.live:8080/Edgar123/Edgar123/71403
+#EXTINF:-1,ABC Columbus WSYX
+http://supersonictv.live:8080/Edgar123/Edgar123/71406
+#EXTINF:-1,CBS Columbus WBNS
+http://supersonictv.live:8080/Edgar123/Edgar123/71407
+#EXTINF:-1,MS | Columbus | CBS WCBI
+http://supersonictv.live:8080/Edgar123/Edgar123/71413
+#EXTINF:-1,ABC 25 Columbia (WOLO)
+http://supersonictv.live:8080/Edgar123/Edgar123/71415
+#EXTINF:-1,CBS 19 Columbia (WLTX)
+http://supersonictv.live:8080/Edgar123/Edgar123/71416
+#EXTINF:-1,ABC Connecticut
+http://supersonictv.live:8080/Edgar123/Edgar123/71420
+#EXTINF:-1,CO | Colorado Springs | CBS KKTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71421
+#EXTINF:-1,SC | Charleston | CBS WCSC
+http://supersonictv.live:8080/Edgar123/Edgar123/71425
+#EXTINF:-1,IA | Cedar Rapids | CBS KGAN
+http://supersonictv.live:8080/Edgar123/Edgar123/71431
+#EXTINF:-1,US ABC 9 (WCPO) Cincinnati
+http://supersonictv.live:8080/Edgar123/Edgar123/71433
+#EXTINF:-1,CBS Cincinnati WKRC
+http://supersonictv.live:8080/Edgar123/Edgar123/71434
+#EXTINF:-1,ABC Dallas WFAA
+http://supersonictv.live:8080/Edgar123/Edgar123/71437
+#EXTINF:-1,CBS Dallas KTVT
+http://supersonictv.live:8080/Edgar123/Edgar123/71438
+#EXTINF:-1,IA | Davenport | CBS WHBF
+http://supersonictv.live:8080/Edgar123/Edgar123/71442
+#EXTINF:-1,ABC Denver KMGH
+http://supersonictv.live:8080/Edgar123/Edgar123/71445
+#EXTINF:-1,CBS Denver KCNC
+http://supersonictv.live:8080/Edgar123/Edgar123/71446
+#EXTINF:-1,ABC Detroit WXYZ
+http://supersonictv.live:8080/Edgar123/Edgar123/71449
+#EXTINF:-1,CBS Detroit WWJ
+http://supersonictv.live:8080/Edgar123/Edgar123/71450
+#EXTINF:-1,IA | Des Moines-Ames | CBS KCCI
+http://supersonictv.live:8080/Edgar123/Edgar123/71455
+#EXTINF:-1,ABC Durham WTVD
+http://supersonictv.live:8080/Edgar123/Edgar123/71457
+#EXTINF:-1,CBS 7 (WHIO) Dayton
+http://supersonictv.live:8080/Edgar123/Edgar123/71459
+#EXTINF:-1,TX | El Paso | CBS KDBC
+http://supersonictv.live:8080/Edgar123/Edgar123/71465
+#EXTINF:-1,OR | Eugene | CBS KVAL
+http://supersonictv.live:8080/Edgar123/Edgar123/71468
+#EXTINF:-1,USA ABC 23 (KAEF) Eureka
+http://supersonictv.live:8080/Edgar123/Edgar123/71472
+#EXTINF:-1,IN | Evansville | CBS WEVV
+http://supersonictv.live:8080/Edgar123/Edgar123/71474
+#EXTINF:-1,CBS 30 (KXJB) Fargo
+http://supersonictv.live:8080/Edgar123/Edgar123/71477
+#EXTINF:-1,ABC 12 WJRT Flint
+http://supersonictv.live:8080/Edgar123/Edgar123/71480
+#EXTINF:-1,ABC 15 (WPDE) Florence
+http://supersonictv.live:8080/Edgar123/Edgar123/71482
+#EXTINF:-1,CBS 13 (WBTW) Florence
+http://supersonictv.live:8080/Edgar123/Edgar123/71483
+#EXTINF:-1,IN | Fort Wayne | CBS WANE
+http://supersonictv.live:8080/Edgar123/Edgar123/71484
+#EXTINF:-1,FL | Fort Myers | CBS WINK
+http://supersonictv.live:8080/Edgar123/Edgar123/71492
+#EXTINF:-1,TX | Fort Worth | CBS KTXA
+http://supersonictv.live:8080/Edgar123/Edgar123/71494
+#EXTINF:-1,ABC Fresno KFSN
+http://supersonictv.live:8080/Edgar123/Edgar123/71496
+#EXTINF:-1,CBS 13 (WMAZ) Georgia
+http://supersonictv.live:8080/Edgar123/Edgar123/71508
+#EXTINF:-1,WI | Green Bay | CBS WFRV
+http://supersonictv.live:8080/Edgar123/Edgar123/71511
+#EXTINF:-1,CBS Greensboro WFMY
+http://supersonictv.live:8080/Edgar123/Edgar123/71516
+#EXTINF:-1,NC | Greenville | CBS WNCT
+http://supersonictv.live:8080/Edgar123/Edgar123/71519
+#EXTINF:-1,NC | Goldsboro | CBS WNCN
+http://supersonictv.live:8080/Edgar123/Edgar123/71522
+#EXTINF:-1,TX | Harlingen | CBS KGBT
+http://supersonictv.live:8080/Edgar123/Edgar123/71523
+#EXTINF:-1,ABC Houston KTRK
+http://supersonictv.live:8080/Edgar123/Edgar123/71525
+#EXTINF:-1,CBS Houston KHOU
+http://supersonictv.live:8080/Edgar123/Edgar123/71526
+#EXTINF:-1,PA | Harrisburg | CBS WHP
+http://supersonictv.live:8080/Edgar123/Edgar123/71531
+#EXTINF:-1,CT | Hartford | ABC
+http://supersonictv.live:8080/Edgar123/Edgar123/71536
+#EXTINF:-1,CBS Hartford WFSB
+http://supersonictv.live:8080/Edgar123/Edgar123/71537
+#EXTINF:-1,HI | Honolulu | CBS KGMB
+http://supersonictv.live:8080/Edgar123/Edgar123/71544
+#EXTINF:-1,USA CBS 19 WHNT Huntsville
+http://supersonictv.live:8080/Edgar123/Edgar123/71548
+#EXTINF:-1,KS | Hutchinson | CBS KWCH
+http://supersonictv.live:8080/Edgar123/Edgar123/71551
+#EXTINF:-1,WV | Huntington | CBS WOWK
+http://supersonictv.live:8080/Edgar123/Edgar123/71552
+#EXTINF:-1,ABC Indianapolis WRTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71555
+#EXTINF:-1,CBS Indianapolis WTTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71556
+#EXTINF:-1,CBS WJTV Jackson
+http://supersonictv.live:8080/Edgar123/Edgar123/71560
+#EXTINF:-1,CBS Jacksonville WJAX
+http://supersonictv.live:8080/Edgar123/Edgar123/71564
+#EXTINF:-1,ABC Kansas City KMBC
+http://supersonictv.live:8080/Edgar123/Edgar123/71576
+#EXTINF:-1,CBS Kansas City KCTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71577
+#EXTINF:-1,MI | Kalamazoo | CBS WWMT
+http://supersonictv.live:8080/Edgar123/Edgar123/71581
+#EXTINF:-1,TN | Knoxville | CBS WVLT
+http://supersonictv.live:8080/Edgar123/Edgar123/71582
+#EXTINF:-1,WI | La Crosse | CBS WKBT
+http://supersonictv.live:8080/Edgar123/Edgar123/71585
+#EXTINF:-1,NV | Las Vegas | CBS KLAS
+http://supersonictv.live:8080/Edgar123/Edgar123/71590
+#EXTINF:-1,WY | Laramie | CBS KXJB
+http://supersonictv.live:8080/Edgar123/Edgar123/71595
+#EXTINF:-1,ABC 53 WLAJ Lansing
+http://supersonictv.live:8080/Edgar123/Edgar123/71596
+#EXTINF:-1,CBS 6 WLNS Lansing
+http://supersonictv.live:8080/Edgar123/Edgar123/71597
+#EXTINF:-1,LA | Lafayette | CBS KLFY
+http://supersonictv.live:8080/Edgar123/Edgar123/71601
+#EXTINF:-1,AR | Little Rock | CBS KTHV
+http://supersonictv.live:8080/Edgar123/Edgar123/71606
+#EXTINF:-1,ABC Los Angeles KABC
+http://supersonictv.live:8080/Edgar123/Edgar123/71609
+#EXTINF:-1,CBS KCAL Los Angeles
+http://supersonictv.live:8080/Edgar123/Edgar123/71610
+#EXTINF:-1,CBS Los Angeles KCBS
+http://supersonictv.live:8080/Edgar123/Edgar123/71611
+#EXTINF:-1,ABC Louisville WHAS
+http://supersonictv.live:8080/Edgar123/Edgar123/71617
+#EXTINF:-1,CBS 32 (WLKY) Louisville
+http://supersonictv.live:8080/Edgar123/Edgar123/71618
+#EXTINF:-1,CBS WKYT Lexington
+http://supersonictv.live:8080/Edgar123/Edgar123/71622
+#EXTINF:-1,NE | Lincoln | CBS KOLN
+http://supersonictv.live:8080/Edgar123/Edgar123/71624
+#EXTINF:-1,WI | Madison | CBS WISC
+http://supersonictv.live:8080/Edgar123/Edgar123/71634
+#EXTINF:-1,GA | Macon | CBS WMAZ
+http://supersonictv.live:8080/Edgar123/Edgar123/71636
+#EXTINF:-1,CBS 3 WREG Memphis
+http://supersonictv.live:8080/Edgar123/Edgar123/71639
+#EXTINF:-1,ABC Miami WPLG
+http://supersonictv.live:8080/Edgar123/Edgar123/71645
+#EXTINF:-1,CBS Miami WFOR
+http://supersonictv.live:8080/Edgar123/Edgar123/71646
+#EXTINF:-1,ABC Milwaukee WISN
+http://supersonictv.live:8080/Edgar123/Edgar123/71651
+#EXTINF:-1,CBS Milwaukee
+http://supersonictv.live:8080/Edgar123/Edgar123/71652
+#EXTINF:-1,CBS Minneapolis WCCO
+http://supersonictv.live:8080/Edgar123/Edgar123/71657
+#EXTINF:-1,ABC 32 WNCF Montgomery
+http://supersonictv.live:8080/Edgar123/Edgar123/71661
+#EXTINF:-1,ABC Nashville WKRN
+http://supersonictv.live:8080/Edgar123/Edgar123/71669
+#EXTINF:-1,CBS Nashville WTVF
+http://supersonictv.live:8080/Edgar123/Edgar123/71670
+#EXTINF:-1,TX | Nacogdoches | CBS KYTX
+http://supersonictv.live:8080/Edgar123/Edgar123/71675
+#EXTINF:-1,ABC New York UHD
+http://supersonictv.live:8080/Edgar123/Edgar123/71676
+#EXTINF:-1,CBS New York WCBS UHD
+http://supersonictv.live:8080/Edgar123/Edgar123/71677
+#EXTINF:-1,ABC 13 Omaha (KETV)
+http://supersonictv.live:8080/Edgar123/Edgar123/71687
+#EXTINF:-1,CBS 3 Omaha (KMTV)
+http://supersonictv.live:8080/Edgar123/Edgar123/71688
+#EXTINF:-1,ABC Orlando WFTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71693
+#EXTINF:-1,CBS Orlando WKMG
+http://supersonictv.live:8080/Edgar123/Edgar123/71694
+#EXTINF:-1,CBS 9 (KWTV) Oklahoma City
+http://supersonictv.live:8080/Edgar123/Edgar123/71698
+#EXTINF:-1,CBS New Orleans WWL
+http://supersonictv.live:8080/Edgar123/Edgar123/71703
+#EXTINF:-1,ABC 13 WMBB Panama City
+http://supersonictv.live:8080/Edgar123/Edgar123/71711
+#EXTINF:-1,CBS 18 WECP Panama City
+http://supersonictv.live:8080/Edgar123/Edgar123/71712
+#EXTINF:-1,IL | Peoria | CBS WMBD
+http://supersonictv.live:8080/Edgar123/Edgar123/71718
+#EXTINF:-1,ABC Philadelphia WPVI
+http://supersonictv.live:8080/Edgar123/Edgar123/71720
+#EXTINF:-1,CBS Philadelphia KYW
+http://supersonictv.live:8080/Edgar123/Edgar123/71721
+#EXTINF:-1,CBS WPRI Providence RI
+http://supersonictv.live:8080/Edgar123/Edgar123/71727
+#EXTINF:-1,ABC Pittsburgh WTAE
+http://supersonictv.live:8080/Edgar123/Edgar123/71731
+#EXTINF:-1,CBS Pittsburgh KDKA
+http://supersonictv.live:8080/Edgar123/Edgar123/71732
+#EXTINF:-1,[]ABC Phoenix KNXV
+http://supersonictv.live:8080/Edgar123/Edgar123/71736
+#EXTINF:-1,CBS Phoenix KPHO
+http://supersonictv.live:8080/Edgar123/Edgar123/71737
+#EXTINF:-1,ABC Portland KATU
+http://supersonictv.live:8080/Edgar123/Edgar123/71741
+#EXTINF:-1,OR | Portland | CBS KOIN
+http://supersonictv.live:8080/Edgar123/Edgar123/71742
+#EXTINF:-1,ME | Portland | CBS WGME
+http://supersonictv.live:8080/Edgar123/Edgar123/71745
+#EXTINF:-1,NC | Raleigh | ABC WTVD
+http://supersonictv.live:8080/Edgar123/Edgar123/71750
+#EXTINF:-1,NV | Reno | CBS KTVN
+http://supersonictv.live:8080/Edgar123/Edgar123/71756
+#EXTINF:-1,VA | Roanoke | CBS WDBJ
+http://supersonictv.live:8080/Edgar123/Edgar123/71758
+#EXTINF:-1,NY | Rochester | CBS WROC
+http://supersonictv.live:8080/Edgar123/Edgar123/71764
+#EXTINF:-1,ABC Sarasota WWSB
+http://supersonictv.live:8080/Edgar123/Edgar123/71766
+#EXTINF:-1,ABC Sacramento KXTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71767
+#EXTINF:-1,CBS Sacramento
+http://supersonictv.live:8080/Edgar123/Edgar123/71768
+#EXTINF:-1,ABC Saint Paul KSTP
+http://supersonictv.live:8080/Edgar123/Edgar123/71772
+#EXTINF:-1,ABC Salt Lake city KTVX
+http://supersonictv.live:8080/Edgar123/Edgar123/71775
+#EXTINF:-1,UT | Salt Lake City | CBS KUTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71776
+#EXTINF:-1,USA ABC 16 (WNEP) Scranton
+http://supersonictv.live:8080/Edgar123/Edgar123/71781
+#EXTINF:-1,ABC San Antonio KSAT
+http://supersonictv.live:8080/Edgar123/Edgar123/71782
+#EXTINF:-1,CBS San Antonio KENS
+http://supersonictv.live:8080/Edgar123/Edgar123/71783
+#EXTINF:-1,ABC San Diego KGTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71789
+#EXTINF:-1,CBS San Diego KFMB
+http://supersonictv.live:8080/Edgar123/Edgar123/71790
+#EXTINF:-1,ABC San Francisco KGO
+http://supersonictv.live:8080/Edgar123/Edgar123/71793
+#EXTINF:-1,CBS San Francisco KCBS
+http://supersonictv.live:8080/Edgar123/Edgar123/71794
+#EXTINF:-1,CBS San Francisco KPIX
+http://supersonictv.live:8080/Edgar123/Edgar123/71795
+#EXTINF:-1,NY | Schenectady | CBS WRGB
+http://supersonictv.live:8080/Edgar123/Edgar123/71805
+#EXTINF:-1,CBS 8 WAKA Selma
+http://supersonictv.live:8080/Edgar123/Edgar123/71806
+#EXTINF:-1,ABC Seattle KOMO
+http://supersonictv.live:8080/Edgar123/Edgar123/71807
+#EXTINF:-1,CBS Seattle KIRO
+http://supersonictv.live:8080/Edgar123/Edgar123/71808
+#EXTINF:-1,AL | Selma | CBS WAKA
+http://supersonictv.live:8080/Edgar123/Edgar123/71812
+#EXTINF:-1,SD | Sioux Falls | CBS KELO
+http://supersonictv.live:8080/Edgar123/Edgar123/71814
+#EXTINF:-1,ABC 57 South Bend (WBND)
+http://supersonictv.live:8080/Edgar123/Edgar123/71818
+#EXTINF:-1,CBS 22 South Bend (WSBT)
+http://supersonictv.live:8080/Edgar123/Edgar123/71819
+#EXTINF:-1,WA | Spokane | CBS KREM
+http://supersonictv.live:8080/Edgar123/Edgar123/71821
+#EXTINF:-1,CBS 3 (WSHM) Springfield MA
+http://supersonictv.live:8080/Edgar123/Edgar123/71823
+#EXTINF:-1,MO | Springfield | ABC KSPR
+http://supersonictv.live:8080/Edgar123/Edgar123/71826
+#EXTINF:-1,MO | Springfield | CBS KOLR
+http://supersonictv.live:8080/Edgar123/Edgar123/71827
+#EXTINF:-1,ABC St Louis KDNL
+http://supersonictv.live:8080/Edgar123/Edgar123/71829
+#EXTINF:-1,CBS St Louis KMOV
+http://supersonictv.live:8080/Edgar123/Edgar123/71830
+#EXTINF:-1,FL | St. Petersburg | CBS WTSP
+http://supersonictv.live:8080/Edgar123/Edgar123/71833
+#EXTINF:-1,GA | Savannah | CBS WTOC
+http://supersonictv.live:8080/Edgar123/Edgar123/71836
+#EXTINF:-1,CBS 5 WTVH Syracuse
+http://supersonictv.live:8080/Edgar123/Edgar123/71839
+#EXTINF:-1,LA | Shreveport | CBS KSLA
+http://supersonictv.live:8080/Edgar123/Edgar123/71843
+#EXTINF:-1,SC | Spartanburg | CBS WSPA
+http://supersonictv.live:8080/Edgar123/Edgar123/71846
+#EXTINF:-1,US ABC 27 (WTXL) Tallahassee
+http://supersonictv.live:8080/Edgar123/Edgar123/71847
+#EXTINF:-1,US CBS 6 (WCTV) Tallahassee
+http://supersonictv.live:8080/Edgar123/Edgar123/71848
+#EXTINF:-1,ABC 38 (WAWV) Terre Haute
+http://supersonictv.live:8080/Edgar123/Edgar123/71855
+#EXTINF:-1,AZ | Tucson | CBS KOLD
+http://supersonictv.live:8080/Edgar123/Edgar123/71859
+#EXTINF:-1,ABC Tampa Bay
+http://supersonictv.live:8080/Edgar123/Edgar123/71862
+#EXTINF:-1,CBS Tampa  WTSP
+http://supersonictv.live:8080/Edgar123/Edgar123/71863
+#EXTINF:-1,GA | Thomasville | CBS WCTV
+http://supersonictv.live:8080/Edgar123/Edgar123/71867
+#EXTINF:-1,CBS 6 KOTV Tulsa
+http://supersonictv.live:8080/Edgar123/Edgar123/71868
+#EXTINF:-1,OH | Toledo | CBS WTOL
+http://supersonictv.live:8080/Edgar123/Edgar123/71872
+#EXTINF:-1,TN-VA | Tri-Cities | CBS WJHL
+http://supersonictv.live:8080/Edgar123/Edgar123/71875
+#EXTINF:-1,CBS 19 (KYTX) Tyler
+http://supersonictv.live:8080/Edgar123/Edgar123/71879
+#EXTINF:-1,TX | Waco | CBS KWTX
+http://supersonictv.live:8080/Edgar123/Edgar123/71884
+#EXTINF:-1,ABC Washington
+http://supersonictv.live:8080/Edgar123/Edgar123/71886
+#EXTINF:-1,CBS Washington WUSA
+http://supersonictv.live:8080/Edgar123/Edgar123/71887
+#EXTINF:-1,FL | West Palm Beach | CBS WPEC
+http://supersonictv.live:8080/Edgar123/Edgar123/71893
+#EXTINF:-1,NC | Wilmington | CBS WWAY
+http://supersonictv.live:8080/Edgar123/Edgar123/71896
+#EXTINF:-1,ABC 10 KAKE Wichita
+http://supersonictv.live:8080/Edgar123/Edgar123/71902
+#EXTINF:-1,CBS WYOU Wilkes-Barre
+http://supersonictv.live:8080/Edgar123/Edgar123/71906
+#EXTINF:-1,WA | Yakima | CBS KIMA
+http://supersonictv.live:8080/Edgar123/Edgar123/71908
+#EXTINF:-1,OH | Youngstown | CBS WKBN
+http://supersonictv.live:8080/Edgar123/Edgar123/71911
+#EXTINF:-1,GA | Savannah | ABC 22 WJCL
+http://supersonictv.live:8080/Edgar123/Edgar123/81941
+#EXTINF:-1,[RO] E! HD
+http://supersonictv.live:8080/Edgar123/Edgar123/83910
+#EXTINF:-1,[RO] MTV Dance
+http://supersonictv.live:8080/Edgar123/Edgar123/83938
+#EXTINF:-1,[RO] MTV Hits
+http://supersonictv.live:8080/Edgar123/Edgar123/83939
+#EXTINF:-1,[RO] MTV Rocks
+http://supersonictv.live:8080/Edgar123/Edgar123/83940
+#EXTINF:-1,[AR] MTV Lebanon
+http://supersonictv.live:8080/Edgar123/Edgar123/84166
+#EXTINF:-1,[NL] MTV Music 24
+http://supersonictv.live:8080/Edgar123/Edgar123/84460
+#EXTINF:-1,[NL] MTV HD
+http://supersonictv.live:8080/Edgar123/Edgar123/84461
+#EXTINF:-1,[NL] MTV Brand New
+http://supersonictv.live:8080/Edgar123/Edgar123/84462
+#EXTINF:-1,[NL] E! Entertainment HD
+http://supersonictv.live:8080/Edgar123/Edgar123/84484
+#EXTINF:-1,[DE] E! ENTERTAINMENT
+http://supersonictv.live:8080/Edgar123/Edgar123/84708
+#EXTINF:-1,[BR] E! FHD
+http://supersonictv.live:8080/Edgar123/Edgar123/84977
+#EXTINF:-1,[BR] MTV FHD
+http://supersonictv.live:8080/Edgar123/Edgar123/85048
+#EXTINF:-1,[BR] MTV HD
+http://supersonictv.live:8080/Edgar123/Edgar123/85049
+#EXTINF:-1,[ES] MTV ESP
+http://supersonictv.live:8080/Edgar123/Edgar123/85928
+#EXTINF:-1,PH ABC Austrailia
+http://supersonictv.live:8080/Edgar123/Edgar123/85979
+#EXTINF:-1,NCAAB 82 | OHIO STATE @ 12 NORTH CAROLINA (M) | 12.20 3:00 PM | CBS PARAMOUNT+
+http://supersonictv.live:8080/Edgar123/Edgar123/87913
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abckgnskgnskgnsdt2laredotx.us" tvg-name="TX | Laredo | ABC KGNS-D2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/KGNS_News_2023.svg/revision/latest/scale-to-width-down/78?cb=20231204173315" group-title="USA | LOCAL - ABC",TX | Laredo | ABC KGNS-D2
 http://vocotv.pro:80/rivera/rivera/642257
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcklknklknlincolnsuperiorne.us" tvg-name="NE | Superior | ABC KLKN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/KLKN_%282021%29.svg/revision/latest?cb=20220205083504" group-title="USA | LOCAL - ABC",NE | Superior | ABC KLKN
@@ -72,14 +493,6 @@ http://valorant.re:8080/Dani_Naut/hCns9pXamG/541617
 http://valorant.re:8080/Dani_Naut/hCns9pXamG/543229
 #EXTINF:-1,NM | Albuquerque | ABC KOAT
 http://supersonictv.live:8080/Edgar123/Edgar123/71309
-#EXTINF:-1,ABC Boston WCVB
-http://supersonictv.live:8080/Edgar123/Edgar123/71347
-#EXTINF:-1,ABC Kansas City KMBC
-http://supersonictv.live:8080/Edgar123/Edgar123/71576
-#EXTINF:-1,ABC Milwaukee WISN
-http://supersonictv.live:8080/Edgar123/Edgar123/71651
-#EXTINF:-1,MA | BOSTON | ABC WCVB
-http://hardcoremedia.xyz:80/evhbaehp/4765328881/9803
 #EXTINF:-1,PA | PITTSBURGH | ABC WTAE
 http://hardcoremedia.xyz:80/evhbaehp/4765328881/9835
 #EXTINF:-1,TX | DALLAS | ABC WFAA
@@ -16298,420 +16711,6 @@ http://supersonictv.live:8080/Edgar123/Edgar123/61315
 http://supersonictv.live:8080/Edgar123/Edgar123/61316
 #EXTINF:-1,MX MTV Live HD
 http://supersonictv.live:8080/Edgar123/Edgar123/61317
-#EXTINF:-1,ABC Atlanta WSB
-http://supersonictv.live:8080/Edgar123/Edgar123/71290
-#EXTINF:-1,CBS Atlanta
-http://supersonictv.live:8080/Edgar123/Edgar123/71291
-#EXTINF:-1,ABC Austin KVUE TX
-http://supersonictv.live:8080/Edgar123/Edgar123/71297
-#EXTINF:-1,TX | Austin | CBS KEYE
-http://supersonictv.live:8080/Edgar123/Edgar123/71298
-#EXTINF:-1,ABC 10 Albany (WALB-DT2) GA
-http://supersonictv.live:8080/Edgar123/Edgar123/71306
-#EXTINF:-1,NM | Albuquerque | ABC KOAT
-http://supersonictv.live:8080/Edgar123/Edgar123/71309
-#EXTINF:-1,CBS 13 KRQE Albuquerque
-http://supersonictv.live:8080/Edgar123/Edgar123/71310
-#EXTINF:-1,GA | Augusta | CBS WRDW
-http://supersonictv.live:8080/Edgar123/Edgar123/71316
-#EXTINF:-1,CBS WKRG Alabama
-http://supersonictv.live:8080/Edgar123/Edgar123/71325
-#EXTINF:-1,ABC Baltimore WMAR
-http://supersonictv.live:8080/Edgar123/Edgar123/71329
-#EXTINF:-1,CBS Baltimore WJZ
-http://supersonictv.live:8080/Edgar123/Edgar123/71330
-#EXTINF:-1,MI | Bay City | CBS WNEM
-http://supersonictv.live:8080/Edgar123/Edgar123/71337
-#EXTINF:-1,LA | Baton Rouge | CBS WAFB
-http://supersonictv.live:8080/Edgar123/Edgar123/71339
-#EXTINF:-1,CBS WAFB9 Baton Rouge
-http://supersonictv.live:8080/Edgar123/Edgar123/71342
-#EXTINF:-1,ABC Boston WCVB
-http://supersonictv.live:8080/Edgar123/Edgar123/71347
-#EXTINF:-1,CBS Boston WBZ
-http://supersonictv.live:8080/Edgar123/Edgar123/71348
-#EXTINF:-1,ID | Boise | CBS KBOI
-http://supersonictv.live:8080/Edgar123/Edgar123/71351
-#EXTINF:-1,ABC 13 WBKO Bowling Green
-http://supersonictv.live:8080/Edgar123/Edgar123/71353
-#EXTINF:-1,CBS 42 WIAT Birmingham
-http://supersonictv.live:8080/Edgar123/Edgar123/71356
-#EXTINF:-1,VT | Burlington | CBS WCAX
-http://supersonictv.live:8080/Edgar123/Edgar123/71365
-#EXTINF:-1,CBS Buffalo WIVB
-http://supersonictv.live:8080/Edgar123/Edgar123/71368
-#EXTINF:-1,CBS 9 WWTV Cadillac
-http://supersonictv.live:8080/Edgar123/Edgar123/71379
-#EXTINF:-1,MO | Cape Girardeau | CBS KFVS
-http://supersonictv.live:8080/Edgar123/Edgar123/71381
-#EXTINF:-1,TX | Corpus Christi | CBS KZTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71385
-#EXTINF:-1,ABC Charlotte WSOC NC
-http://supersonictv.live:8080/Edgar123/Edgar123/71387
-#EXTINF:-1,CBS Charlotte WBTV NC
-http://supersonictv.live:8080/Edgar123/Edgar123/71388
-#EXTINF:-1,ABC Chicago WLS
-http://supersonictv.live:8080/Edgar123/Edgar123/71396
-#EXTINF:-1,CBS Chicago WBBM
-http://supersonictv.live:8080/Edgar123/Edgar123/71397
-#EXTINF:-1,ABC Cleveland WEWS
-http://supersonictv.live:8080/Edgar123/Edgar123/71402
-#EXTINF:-1,CBS Cleveland WOIO
-http://supersonictv.live:8080/Edgar123/Edgar123/71403
-#EXTINF:-1,ABC Columbus WSYX
-http://supersonictv.live:8080/Edgar123/Edgar123/71406
-#EXTINF:-1,CBS Columbus WBNS
-http://supersonictv.live:8080/Edgar123/Edgar123/71407
-#EXTINF:-1,MS | Columbus | CBS WCBI
-http://supersonictv.live:8080/Edgar123/Edgar123/71413
-#EXTINF:-1,ABC 25 Columbia (WOLO)
-http://supersonictv.live:8080/Edgar123/Edgar123/71415
-#EXTINF:-1,CBS 19 Columbia (WLTX)
-http://supersonictv.live:8080/Edgar123/Edgar123/71416
-#EXTINF:-1,ABC Connecticut
-http://supersonictv.live:8080/Edgar123/Edgar123/71420
-#EXTINF:-1,CO | Colorado Springs | CBS KKTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71421
-#EXTINF:-1,SC | Charleston | CBS WCSC
-http://supersonictv.live:8080/Edgar123/Edgar123/71425
-#EXTINF:-1,IA | Cedar Rapids | CBS KGAN
-http://supersonictv.live:8080/Edgar123/Edgar123/71431
-#EXTINF:-1,US ABC 9 (WCPO) Cincinnati
-http://supersonictv.live:8080/Edgar123/Edgar123/71433
-#EXTINF:-1,CBS Cincinnati WKRC
-http://supersonictv.live:8080/Edgar123/Edgar123/71434
-#EXTINF:-1,ABC Dallas WFAA
-http://supersonictv.live:8080/Edgar123/Edgar123/71437
-#EXTINF:-1,CBS Dallas KTVT
-http://supersonictv.live:8080/Edgar123/Edgar123/71438
-#EXTINF:-1,IA | Davenport | CBS WHBF
-http://supersonictv.live:8080/Edgar123/Edgar123/71442
-#EXTINF:-1,ABC Denver KMGH
-http://supersonictv.live:8080/Edgar123/Edgar123/71445
-#EXTINF:-1,CBS Denver KCNC
-http://supersonictv.live:8080/Edgar123/Edgar123/71446
-#EXTINF:-1,ABC Detroit WXYZ
-http://supersonictv.live:8080/Edgar123/Edgar123/71449
-#EXTINF:-1,CBS Detroit WWJ
-http://supersonictv.live:8080/Edgar123/Edgar123/71450
-#EXTINF:-1,IA | Des Moines-Ames | CBS KCCI
-http://supersonictv.live:8080/Edgar123/Edgar123/71455
-#EXTINF:-1,ABC Durham WTVD
-http://supersonictv.live:8080/Edgar123/Edgar123/71457
-#EXTINF:-1,CBS 7 (WHIO) Dayton
-http://supersonictv.live:8080/Edgar123/Edgar123/71459
-#EXTINF:-1,TX | El Paso | CBS KDBC
-http://supersonictv.live:8080/Edgar123/Edgar123/71465
-#EXTINF:-1,OR | Eugene | CBS KVAL
-http://supersonictv.live:8080/Edgar123/Edgar123/71468
-#EXTINF:-1,USA ABC 23 (KAEF) Eureka
-http://supersonictv.live:8080/Edgar123/Edgar123/71472
-#EXTINF:-1,IN | Evansville | CBS WEVV
-http://supersonictv.live:8080/Edgar123/Edgar123/71474
-#EXTINF:-1,CBS 30 (KXJB) Fargo
-http://supersonictv.live:8080/Edgar123/Edgar123/71477
-#EXTINF:-1,ABC 12 WJRT Flint
-http://supersonictv.live:8080/Edgar123/Edgar123/71480
-#EXTINF:-1,ABC 15 (WPDE) Florence
-http://supersonictv.live:8080/Edgar123/Edgar123/71482
-#EXTINF:-1,CBS 13 (WBTW) Florence
-http://supersonictv.live:8080/Edgar123/Edgar123/71483
-#EXTINF:-1,IN | Fort Wayne | CBS WANE
-http://supersonictv.live:8080/Edgar123/Edgar123/71484
-#EXTINF:-1,FL | Fort Myers | CBS WINK
-http://supersonictv.live:8080/Edgar123/Edgar123/71492
-#EXTINF:-1,TX | Fort Worth | CBS KTXA
-http://supersonictv.live:8080/Edgar123/Edgar123/71494
-#EXTINF:-1,ABC Fresno KFSN
-http://supersonictv.live:8080/Edgar123/Edgar123/71496
-#EXTINF:-1,CBS 13 (WMAZ) Georgia
-http://supersonictv.live:8080/Edgar123/Edgar123/71508
-#EXTINF:-1,WI | Green Bay | CBS WFRV
-http://supersonictv.live:8080/Edgar123/Edgar123/71511
-#EXTINF:-1,CBS Greensboro WFMY
-http://supersonictv.live:8080/Edgar123/Edgar123/71516
-#EXTINF:-1,NC | Greenville | CBS WNCT
-http://supersonictv.live:8080/Edgar123/Edgar123/71519
-#EXTINF:-1,NC | Goldsboro | CBS WNCN
-http://supersonictv.live:8080/Edgar123/Edgar123/71522
-#EXTINF:-1,TX | Harlingen | CBS KGBT
-http://supersonictv.live:8080/Edgar123/Edgar123/71523
-#EXTINF:-1,ABC Houston KTRK
-http://supersonictv.live:8080/Edgar123/Edgar123/71525
-#EXTINF:-1,CBS Houston KHOU
-http://supersonictv.live:8080/Edgar123/Edgar123/71526
-#EXTINF:-1,PA | Harrisburg | CBS WHP
-http://supersonictv.live:8080/Edgar123/Edgar123/71531
-#EXTINF:-1,CT | Hartford | ABC
-http://supersonictv.live:8080/Edgar123/Edgar123/71536
-#EXTINF:-1,CBS Hartford WFSB
-http://supersonictv.live:8080/Edgar123/Edgar123/71537
-#EXTINF:-1,HI | Honolulu | CBS KGMB
-http://supersonictv.live:8080/Edgar123/Edgar123/71544
-#EXTINF:-1,USA CBS 19 WHNT Huntsville
-http://supersonictv.live:8080/Edgar123/Edgar123/71548
-#EXTINF:-1,KS | Hutchinson | CBS KWCH
-http://supersonictv.live:8080/Edgar123/Edgar123/71551
-#EXTINF:-1,WV | Huntington | CBS WOWK
-http://supersonictv.live:8080/Edgar123/Edgar123/71552
-#EXTINF:-1,ABC Indianapolis WRTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71555
-#EXTINF:-1,CBS Indianapolis WTTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71556
-#EXTINF:-1,CBS WJTV Jackson
-http://supersonictv.live:8080/Edgar123/Edgar123/71560
-#EXTINF:-1,CBS Jacksonville WJAX
-http://supersonictv.live:8080/Edgar123/Edgar123/71564
-#EXTINF:-1,ABC Kansas City KMBC
-http://supersonictv.live:8080/Edgar123/Edgar123/71576
-#EXTINF:-1,CBS Kansas City KCTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71577
-#EXTINF:-1,MI | Kalamazoo | CBS WWMT
-http://supersonictv.live:8080/Edgar123/Edgar123/71581
-#EXTINF:-1,TN | Knoxville | CBS WVLT
-http://supersonictv.live:8080/Edgar123/Edgar123/71582
-#EXTINF:-1,WI | La Crosse | CBS WKBT
-http://supersonictv.live:8080/Edgar123/Edgar123/71585
-#EXTINF:-1,NV | Las Vegas | CBS KLAS
-http://supersonictv.live:8080/Edgar123/Edgar123/71590
-#EXTINF:-1,WY | Laramie | CBS KXJB
-http://supersonictv.live:8080/Edgar123/Edgar123/71595
-#EXTINF:-1,ABC 53 WLAJ Lansing
-http://supersonictv.live:8080/Edgar123/Edgar123/71596
-#EXTINF:-1,CBS 6 WLNS Lansing
-http://supersonictv.live:8080/Edgar123/Edgar123/71597
-#EXTINF:-1,LA | Lafayette | CBS KLFY
-http://supersonictv.live:8080/Edgar123/Edgar123/71601
-#EXTINF:-1,AR | Little Rock | CBS KTHV
-http://supersonictv.live:8080/Edgar123/Edgar123/71606
-#EXTINF:-1,ABC Los Angeles KABC
-http://supersonictv.live:8080/Edgar123/Edgar123/71609
-#EXTINF:-1,CBS KCAL Los Angeles
-http://supersonictv.live:8080/Edgar123/Edgar123/71610
-#EXTINF:-1,CBS Los Angeles KCBS
-http://supersonictv.live:8080/Edgar123/Edgar123/71611
-#EXTINF:-1,ABC Louisville WHAS
-http://supersonictv.live:8080/Edgar123/Edgar123/71617
-#EXTINF:-1,CBS 32 (WLKY) Louisville
-http://supersonictv.live:8080/Edgar123/Edgar123/71618
-#EXTINF:-1,CBS WKYT Lexington
-http://supersonictv.live:8080/Edgar123/Edgar123/71622
-#EXTINF:-1,NE | Lincoln | CBS KOLN
-http://supersonictv.live:8080/Edgar123/Edgar123/71624
-#EXTINF:-1,WI | Madison | CBS WISC
-http://supersonictv.live:8080/Edgar123/Edgar123/71634
-#EXTINF:-1,GA | Macon | CBS WMAZ
-http://supersonictv.live:8080/Edgar123/Edgar123/71636
-#EXTINF:-1,CBS 3 WREG Memphis
-http://supersonictv.live:8080/Edgar123/Edgar123/71639
-#EXTINF:-1,ABC Miami WPLG
-http://supersonictv.live:8080/Edgar123/Edgar123/71645
-#EXTINF:-1,CBS Miami WFOR
-http://supersonictv.live:8080/Edgar123/Edgar123/71646
-#EXTINF:-1,ABC Milwaukee WISN
-http://supersonictv.live:8080/Edgar123/Edgar123/71651
-#EXTINF:-1,CBS Milwaukee
-http://supersonictv.live:8080/Edgar123/Edgar123/71652
-#EXTINF:-1,CBS Minneapolis WCCO
-http://supersonictv.live:8080/Edgar123/Edgar123/71657
-#EXTINF:-1,ABC 32 WNCF Montgomery
-http://supersonictv.live:8080/Edgar123/Edgar123/71661
-#EXTINF:-1,ABC Nashville WKRN
-http://supersonictv.live:8080/Edgar123/Edgar123/71669
-#EXTINF:-1,CBS Nashville WTVF
-http://supersonictv.live:8080/Edgar123/Edgar123/71670
-#EXTINF:-1,TX | Nacogdoches | CBS KYTX
-http://supersonictv.live:8080/Edgar123/Edgar123/71675
-#EXTINF:-1,ABC New York UHD
-http://supersonictv.live:8080/Edgar123/Edgar123/71676
-#EXTINF:-1,CBS New York WCBS UHD
-http://supersonictv.live:8080/Edgar123/Edgar123/71677
-#EXTINF:-1,ABC 13 Omaha (KETV)
-http://supersonictv.live:8080/Edgar123/Edgar123/71687
-#EXTINF:-1,CBS 3 Omaha (KMTV)
-http://supersonictv.live:8080/Edgar123/Edgar123/71688
-#EXTINF:-1,ABC Orlando WFTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71693
-#EXTINF:-1,CBS Orlando WKMG
-http://supersonictv.live:8080/Edgar123/Edgar123/71694
-#EXTINF:-1,CBS 9 (KWTV) Oklahoma City
-http://supersonictv.live:8080/Edgar123/Edgar123/71698
-#EXTINF:-1,CBS New Orleans WWL
-http://supersonictv.live:8080/Edgar123/Edgar123/71703
-#EXTINF:-1,ABC 13 WMBB Panama City
-http://supersonictv.live:8080/Edgar123/Edgar123/71711
-#EXTINF:-1,CBS 18 WECP Panama City
-http://supersonictv.live:8080/Edgar123/Edgar123/71712
-#EXTINF:-1,IL | Peoria | CBS WMBD
-http://supersonictv.live:8080/Edgar123/Edgar123/71718
-#EXTINF:-1,ABC Philadelphia WPVI
-http://supersonictv.live:8080/Edgar123/Edgar123/71720
-#EXTINF:-1,CBS Philadelphia KYW
-http://supersonictv.live:8080/Edgar123/Edgar123/71721
-#EXTINF:-1,CBS WPRI Providence RI
-http://supersonictv.live:8080/Edgar123/Edgar123/71727
-#EXTINF:-1,ABC Pittsburgh WTAE
-http://supersonictv.live:8080/Edgar123/Edgar123/71731
-#EXTINF:-1,CBS Pittsburgh KDKA
-http://supersonictv.live:8080/Edgar123/Edgar123/71732
-#EXTINF:-1,[]ABC Phoenix KNXV
-http://supersonictv.live:8080/Edgar123/Edgar123/71736
-#EXTINF:-1,CBS Phoenix KPHO
-http://supersonictv.live:8080/Edgar123/Edgar123/71737
-#EXTINF:-1,ABC Portland KATU
-http://supersonictv.live:8080/Edgar123/Edgar123/71741
-#EXTINF:-1,OR | Portland | CBS KOIN
-http://supersonictv.live:8080/Edgar123/Edgar123/71742
-#EXTINF:-1,ME | Portland | CBS WGME
-http://supersonictv.live:8080/Edgar123/Edgar123/71745
-#EXTINF:-1,NC | Raleigh | ABC WTVD
-http://supersonictv.live:8080/Edgar123/Edgar123/71750
-#EXTINF:-1,NV | Reno | CBS KTVN
-http://supersonictv.live:8080/Edgar123/Edgar123/71756
-#EXTINF:-1,VA | Roanoke | CBS WDBJ
-http://supersonictv.live:8080/Edgar123/Edgar123/71758
-#EXTINF:-1,NY | Rochester | CBS WROC
-http://supersonictv.live:8080/Edgar123/Edgar123/71764
-#EXTINF:-1,ABC Sarasota WWSB
-http://supersonictv.live:8080/Edgar123/Edgar123/71766
-#EXTINF:-1,ABC Sacramento KXTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71767
-#EXTINF:-1,CBS Sacramento
-http://supersonictv.live:8080/Edgar123/Edgar123/71768
-#EXTINF:-1,ABC Saint Paul KSTP
-http://supersonictv.live:8080/Edgar123/Edgar123/71772
-#EXTINF:-1,ABC Salt Lake city KTVX
-http://supersonictv.live:8080/Edgar123/Edgar123/71775
-#EXTINF:-1,UT | Salt Lake City | CBS KUTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71776
-#EXTINF:-1,USA ABC 16 (WNEP) Scranton
-http://supersonictv.live:8080/Edgar123/Edgar123/71781
-#EXTINF:-1,ABC San Antonio KSAT
-http://supersonictv.live:8080/Edgar123/Edgar123/71782
-#EXTINF:-1,CBS San Antonio KENS
-http://supersonictv.live:8080/Edgar123/Edgar123/71783
-#EXTINF:-1,ABC San Diego KGTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71789
-#EXTINF:-1,CBS San Diego KFMB
-http://supersonictv.live:8080/Edgar123/Edgar123/71790
-#EXTINF:-1,ABC San Francisco KGO
-http://supersonictv.live:8080/Edgar123/Edgar123/71793
-#EXTINF:-1,CBS San Francisco KCBS
-http://supersonictv.live:8080/Edgar123/Edgar123/71794
-#EXTINF:-1,CBS San Francisco KPIX
-http://supersonictv.live:8080/Edgar123/Edgar123/71795
-#EXTINF:-1,NY | Schenectady | CBS WRGB
-http://supersonictv.live:8080/Edgar123/Edgar123/71805
-#EXTINF:-1,CBS 8 WAKA Selma
-http://supersonictv.live:8080/Edgar123/Edgar123/71806
-#EXTINF:-1,ABC Seattle KOMO
-http://supersonictv.live:8080/Edgar123/Edgar123/71807
-#EXTINF:-1,CBS Seattle KIRO
-http://supersonictv.live:8080/Edgar123/Edgar123/71808
-#EXTINF:-1,AL | Selma | CBS WAKA
-http://supersonictv.live:8080/Edgar123/Edgar123/71812
-#EXTINF:-1,SD | Sioux Falls | CBS KELO
-http://supersonictv.live:8080/Edgar123/Edgar123/71814
-#EXTINF:-1,ABC 57 South Bend (WBND)
-http://supersonictv.live:8080/Edgar123/Edgar123/71818
-#EXTINF:-1,CBS 22 South Bend (WSBT)
-http://supersonictv.live:8080/Edgar123/Edgar123/71819
-#EXTINF:-1,WA | Spokane | CBS KREM
-http://supersonictv.live:8080/Edgar123/Edgar123/71821
-#EXTINF:-1,CBS 3 (WSHM) Springfield MA
-http://supersonictv.live:8080/Edgar123/Edgar123/71823
-#EXTINF:-1,MO | Springfield | ABC KSPR
-http://supersonictv.live:8080/Edgar123/Edgar123/71826
-#EXTINF:-1,MO | Springfield | CBS KOLR
-http://supersonictv.live:8080/Edgar123/Edgar123/71827
-#EXTINF:-1,ABC St Louis KDNL
-http://supersonictv.live:8080/Edgar123/Edgar123/71829
-#EXTINF:-1,CBS St Louis KMOV
-http://supersonictv.live:8080/Edgar123/Edgar123/71830
-#EXTINF:-1,FL | St. Petersburg | CBS WTSP
-http://supersonictv.live:8080/Edgar123/Edgar123/71833
-#EXTINF:-1,GA | Savannah | CBS WTOC
-http://supersonictv.live:8080/Edgar123/Edgar123/71836
-#EXTINF:-1,CBS 5 WTVH Syracuse
-http://supersonictv.live:8080/Edgar123/Edgar123/71839
-#EXTINF:-1,LA | Shreveport | CBS KSLA
-http://supersonictv.live:8080/Edgar123/Edgar123/71843
-#EXTINF:-1,SC | Spartanburg | CBS WSPA
-http://supersonictv.live:8080/Edgar123/Edgar123/71846
-#EXTINF:-1,US ABC 27 (WTXL) Tallahassee
-http://supersonictv.live:8080/Edgar123/Edgar123/71847
-#EXTINF:-1,US CBS 6 (WCTV) Tallahassee
-http://supersonictv.live:8080/Edgar123/Edgar123/71848
-#EXTINF:-1,ABC 38 (WAWV) Terre Haute
-http://supersonictv.live:8080/Edgar123/Edgar123/71855
-#EXTINF:-1,AZ | Tucson | CBS KOLD
-http://supersonictv.live:8080/Edgar123/Edgar123/71859
-#EXTINF:-1,ABC Tampa Bay
-http://supersonictv.live:8080/Edgar123/Edgar123/71862
-#EXTINF:-1,CBS Tampa  WTSP
-http://supersonictv.live:8080/Edgar123/Edgar123/71863
-#EXTINF:-1,GA | Thomasville | CBS WCTV
-http://supersonictv.live:8080/Edgar123/Edgar123/71867
-#EXTINF:-1,CBS 6 KOTV Tulsa
-http://supersonictv.live:8080/Edgar123/Edgar123/71868
-#EXTINF:-1,OH | Toledo | CBS WTOL
-http://supersonictv.live:8080/Edgar123/Edgar123/71872
-#EXTINF:-1,TN-VA | Tri-Cities | CBS WJHL
-http://supersonictv.live:8080/Edgar123/Edgar123/71875
-#EXTINF:-1,CBS 19 (KYTX) Tyler
-http://supersonictv.live:8080/Edgar123/Edgar123/71879
-#EXTINF:-1,TX | Waco | CBS KWTX
-http://supersonictv.live:8080/Edgar123/Edgar123/71884
-#EXTINF:-1,ABC Washington
-http://supersonictv.live:8080/Edgar123/Edgar123/71886
-#EXTINF:-1,CBS Washington WUSA
-http://supersonictv.live:8080/Edgar123/Edgar123/71887
-#EXTINF:-1,FL | West Palm Beach | CBS WPEC
-http://supersonictv.live:8080/Edgar123/Edgar123/71893
-#EXTINF:-1,NC | Wilmington | CBS WWAY
-http://supersonictv.live:8080/Edgar123/Edgar123/71896
-#EXTINF:-1,ABC 10 KAKE Wichita
-http://supersonictv.live:8080/Edgar123/Edgar123/71902
-#EXTINF:-1,CBS WYOU Wilkes-Barre
-http://supersonictv.live:8080/Edgar123/Edgar123/71906
-#EXTINF:-1,WA | Yakima | CBS KIMA
-http://supersonictv.live:8080/Edgar123/Edgar123/71908
-#EXTINF:-1,OH | Youngstown | CBS WKBN
-http://supersonictv.live:8080/Edgar123/Edgar123/71911
-#EXTINF:-1,GA | Savannah | ABC 22 WJCL
-http://supersonictv.live:8080/Edgar123/Edgar123/81941
-#EXTINF:-1,[RO] E! HD
-http://supersonictv.live:8080/Edgar123/Edgar123/83910
-#EXTINF:-1,[RO] MTV Dance
-http://supersonictv.live:8080/Edgar123/Edgar123/83938
-#EXTINF:-1,[RO] MTV Hits
-http://supersonictv.live:8080/Edgar123/Edgar123/83939
-#EXTINF:-1,[RO] MTV Rocks
-http://supersonictv.live:8080/Edgar123/Edgar123/83940
-#EXTINF:-1,[AR] MTV Lebanon
-http://supersonictv.live:8080/Edgar123/Edgar123/84166
-#EXTINF:-1,[NL] MTV Music 24
-http://supersonictv.live:8080/Edgar123/Edgar123/84460
-#EXTINF:-1,[NL] MTV HD
-http://supersonictv.live:8080/Edgar123/Edgar123/84461
-#EXTINF:-1,[NL] MTV Brand New
-http://supersonictv.live:8080/Edgar123/Edgar123/84462
-#EXTINF:-1,[NL] E! Entertainment HD
-http://supersonictv.live:8080/Edgar123/Edgar123/84484
-#EXTINF:-1,[DE] E! ENTERTAINMENT
-http://supersonictv.live:8080/Edgar123/Edgar123/84708
-#EXTINF:-1,[BR] E! FHD
-http://supersonictv.live:8080/Edgar123/Edgar123/84977
-#EXTINF:-1,[BR] MTV FHD
-http://supersonictv.live:8080/Edgar123/Edgar123/85048
-#EXTINF:-1,[BR] MTV HD
-http://supersonictv.live:8080/Edgar123/Edgar123/85049
-#EXTINF:-1,[ES] MTV ESP
-http://supersonictv.live:8080/Edgar123/Edgar123/85928
-#EXTINF:-1,PH ABC Austrailia
-http://supersonictv.live:8080/Edgar123/Edgar123/85979
-#EXTINF:-1,NCAAB 82 | OHIO STATE @ 12 NORTH CAROLINA (M) | 12.20 3:00 PM | CBS PARAMOUNT+
-http://supersonictv.live:8080/Edgar123/Edgar123/87913
 #EXTINF:-1,NCAAB 110 | 8 HOUSTON @ 14 ARKANSAS (M) | 12.20 5:30 PM | CBS
 http://supersonictv.live:8080/Edgar123/Edgar123/87941
 #EXTINF:-1,New Orleans ABC 26 WGNO
