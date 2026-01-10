@@ -1,0 +1,527 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⏺️ 4K UHD | QHD",MULTISHOW 4K
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/97615.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⛰️ VARIEDADES",MULTISHOW FHD
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/96571.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014785
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="GLOBO",GLOBO RIO DE JANEIRO FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409655
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="GLOBO",GLOBO RIO DE JANEIRO HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409654
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="GLOBO",GLOBO SÃO PAULO FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409657
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="GLOBO",GLOBO SÃO PAULO HD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/11409656
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="CANAIS • MUSICAIS",MULTISHOW SD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014786
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="CANAIS • SBT",SBT FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014346
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="CANAIS • BAND",BAND FHD
+http://cloudsalex.space:80/9c00d3455025/9c00d3455025/9014329
+#EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="MA | BOSTON | ABC WCVB" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/af/WCVB-TV_Logo.png/revision/latest/top-crop/width/220/height/220?cb=20131105002422" group-title="ABC",MA | BOSTON | ABC WCVB
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9803
+#EXTINF:-1 tvg-id="ABC PITTSBURGH PA WTAE" tvg-name="PA | PITTSBURGH | ABC WTAE" tvg-logo="https://i.imgur.com/zPQAKkH.png" group-title="ABC",PA | PITTSBURGH | ABC WTAE
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9835
+#EXTINF:-1 tvg-id="ABC DALLAS TX WFAA" tvg-name="TX | DALLAS | ABC WFAA" tvg-logo="https://i.imgur.com/GvE3mWL.png" group-title="ABC",TX | DALLAS | ABC WFAA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9842
+#EXTINF:-1 tvg-id="CBS BIRMINGHAM AL WIAT" tvg-name="AL | BIRMINGHAM | CBS WIAT" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-42-wiat-us.png?raw=true" group-title="CBS",AL | BIRMINGHAM | CBS WIAT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9855
+#EXTINF:-1 tvg-id="FOX MOBILE AL WALA" tvg-name="AL | MOBILE | CBS WKRG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/WKRG-TV_logo.png" group-title="CBS",AL | MOBILE | CBS WKRG
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9856
+#EXTINF:-1 tvg-id="CBS PHOENIX AZ KPHO" tvg-name="AZ | PHOENIX | CBS KPHO" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-5-kpho-us.png?raw=true" group-title="CBS",AZ | PHOENIX | CBS KPHO
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9859
+#EXTINF:-1 tvg-id="CBS TUCSON AZ KOLD" tvg-name="AZ | TUCSON | CBS KOLD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-13-kold-us.png?raw=true" group-title="CBS",AZ | TUCSON | CBS KOLD
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9861
+#EXTINF:-1 tvg-id="CBS COLORADO SPRINGS CO KKTV" tvg-name="CO | COLORADO SPRINGS | CBS KKTV" tvg-logo="https://pbs.twimg.com/profile_images/1090370884450308102/kzeWZv9i_400x400.jpg" group-title="CBS",CO | COLORADO SPRINGS | CBS KKTV
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9871
+#EXTINF:-1 tvg-id="CBS WASHINGTON DC WUSA" tvg-name="DC | WASHINGTON | CBS WUSA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20180501004310%21WUSA_9_logo.png" group-title="CBS",DC | WASHINGTON | CBS WUSA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9874
+#EXTINF:-1 tvg-id="CBS JACKSONVILLE FL WJAX" tvg-name="FL | JACKSONVILLE | CBS WJAX" tvg-logo="https://149363334.v2.pressablecdn.com/wp-content/uploads/2018/12/Sh8RjMBE_400x400.png" group-title="CBS",FL | JACKSONVILLE | CBS WJAX
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9876
+#EXTINF:-1 tvg-id="CBS MIAMI FL WFOR" tvg-name="FL | MIAMI | CBS WFOR" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-4-wfor-us.png?raw=true" group-title="CBS",FL | MIAMI | CBS WFOR
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9877
+#EXTINF:-1 tvg-id="CBS FORT MYERS FL WINK" tvg-name="FL | NAPLES | CBS WINK" tvg-logo="https://cdn.winknews.com/wp-content/uploads/2021/05/wink2-1.png" group-title="CBS",FL | NAPLES | CBS WINK
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9878
+#EXTINF:-1 tvg-id="CBS ORLANDO FL WKMG" tvg-name="FL | ORLANDO | CBS WKMG" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-6-wkmg-us.png?raw=true" group-title="CBS",FL | ORLANDO | CBS WKMG
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9879
+#EXTINF:-1 tvg-id="CBS TAMPA FL WTSP" tvg-name="FL | ST. PETERSBURG | CBS WTSP" tvg-logo="https://media.wtsp.com/assets/WTSP/images/4d7de983-28c0-4a17-8504-51278595abd9/4d7de983-28c0-4a17-8504-51278595abd9_1140x641.png" group-title="CBS",FL | ST. PETERSBURG | CBS WTSP
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9880
+#EXTINF:-1 tvg-id="CBS CHICAGO IL WBBM" tvg-name="IL | CHICAGO | CBS WBBM" tvg-logo="https://i.pinimg.com/736x/40/21/9d/40219d1b26b06c4f37581b0a2e1d5676.jpg" group-title="CBS",IL | CHICAGO | CBS WBBM
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9893
+#EXTINF:-1 tvg-id="CBS LEXINGTON KY WKYT" tvg-name="KY | LEXINGTON | CBS WKYT" tvg-logo="https://wearefend.org/wp-content/uploads/2020/01/wkyt.png" group-title="CBS",KY | LEXINGTON | CBS WKYT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9899
+#EXTINF:-1 tvg-id="CBS BATON ROUGE LA WAFB" tvg-name="LA | BATON ROUGE | CBS WAFB" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-9-wafb-us.png?raw=true" group-title="CBS",LA | BATON ROUGE | CBS WAFB
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9901
+#EXTINF:-1 tvg-id="CBS LAFAYETTE LA KLFY" tvg-name="LA | LAFAYETTE | CBS KLFY" tvg-logo="https://pbs.twimg.com/profile_images/927676506905735170/YMXJ-EMF.jpg" group-title="CBS",LA | LAFAYETTE | CBS KLFY
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9902
+#EXTINF:-1 tvg-id="CBS SHERVEPORT LA KSLA" tvg-name="LA | SHREVEPORT | CBS KSLA" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-12-ksla-us.png?raw=true" group-title="CBS",LA | SHREVEPORT | CBS KSLA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9904
+#EXTINF:-1 tvg-id="CBS BOSTON MA WBZ" tvg-name="MA | BOSTON | CBS WBZ" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-4-wbz-us.png?raw=true" group-title="CBS",MA | BOSTON | CBS WBZ
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9905
+#EXTINF:-1 tvg-id="CBS BALTIMORE MD WJZ" tvg-name="MD | BALTIMORE | CBS WJZ" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-13-wjz-us.png?raw=true" group-title="CBS",MD | BALTIMORE | CBS WJZ
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9907
+#EXTINF:-1 tvg-id="CBS PORTLAND ME WGME" tvg-name="ME | PORTLAND | CBS WGME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/WGME-TV_logo.png" group-title="CBS",ME | PORTLAND | CBS WGME
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9909
+#EXTINF:-1 tvg-id="CBS DETROIT MI WWJ" tvg-name="MI | DETROIT | CBS WWJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/CBS_62_WWJ-TV_Logo_2013.svg/1200px-CBS_62_WWJ-TV_Logo_2013.svg.png" group-title="CBS",MI | DETROIT | CBS WWJ
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9912
+#EXTINF:-1 tvg-id="CBS MINNEAPOLIS MN WCCO" tvg-name="MN | MINNEAPOLIS | CBS WCCO" tvg-logo="https://kinuu.com/wp-content/uploads/2019/10/MHigdiAc_400x400.png" group-title="CBS",MN | MINNEAPOLIS | CBS WCCO
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9915
+#EXTINF:-1 tvg-id="CBS KANSAS CITY MO KCTV" tvg-name="MO | KANSAS CITY | CBS KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/KCTV_5_logo.png" group-title="CBS",MO | KANSAS CITY | CBS KCTV
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9917
+#EXTINF:-1 tvg-id="CBS JACKSON MS WJTV" tvg-name="MS | JACKSON | CBS WJTV" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-12-wjtv-us.png?raw=true" group-title="CBS",MS | JACKSON | CBS WJTV
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9922
+#EXTINF:-1 tvg-id="CBS LAS VEGAS NV KLAS" tvg-name="NV | LAS VEGAS | CBS KLAS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-8-klas-us.png?raw=true" group-title="CBS",NV | LAS VEGAS | CBS KLAS
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9930
+#EXTINF:-1 tvg-id="US: CBS NEW YORK NY WCBS" tvg-name="NY | NEW YORK | CBS WCBS" tvg-logo="https://www.foodbanknyc.org/wp-content/uploads/CBS-logo.jpg" group-title="CBS",NY | NEW YORK | CBS WCBS
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9934
+#EXTINF:-1 tvg-id="CBS TOLEDO OH WTOL" tvg-name="OH | TOLEDO | CBS WTOL" tvg-logo="https://i.pinimg.com/280x280_RS/6f/ac/73/6fac734e98a9d92a0be8a5756eaf2b9d.jpg" group-title="CBS",OH | TOLEDO | CBS WTOL
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9942
+#EXTINF:-1 tvg-id="CBS PHILADELPHIA PA KYW" tvg-name="PA | PHILADELPHIA | CBS KYW" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-3-kyw-us.png?raw=true" group-title="CBS",PA | PHILADELPHIA | CBS KYW
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9950
+#EXTINF:-1 tvg-id="CBS PITTSBURGH PA KDKA" tvg-name="PA | PITTSBURGH | CBS KDKA" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-2-kdka-us.png?raw=true" group-title="CBS",PA | PITTSBURGH | CBS KDKA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9951
+#EXTINF:-1 tvg-id="CBS COLUMBIA SC WLTX" tvg-name="SC | COLUMBIA | CBS WLTX" tvg-logo="https://pbs.twimg.com/profile_images/773558323413028864/fd38Y9xm.jpg" group-title="CBS",SC | COLUMBIA | CBS WLTX
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9955
+#EXTINF:-1 tvg-id="CBS MYRTLE BEACH SC WBTW" tvg-name="SC | FLORENCE | CBS WBTW" tvg-logo="https://pbs.twimg.com/profile_images/1265779005027954688/5eabYuxx_400x400.jpg" group-title="CBS",SC | FLORENCE | CBS WBTW
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9956
+#EXTINF:-1 tvg-id="CBS SPARTANBURG SC WSPA" tvg-name="SC | SPARTANBURG | CBS WSPA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Wspa-09272016.jpg/150px-Wspa-09272016.jpg" group-title="CBS",SC | SPARTANBURG | CBS WSPA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9957
+#EXTINF:-1 tvg-id="CBS CHATTANOOGA TN WDEF" tvg-name="TN | CHATTANOOGA | CBS WDEF" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-12-wdef-us.png?raw=true" group-title="CBS",TN | CHATTANOOGA | CBS WDEF
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9960
+#EXTINF:-1 tvg-id="CBS KNOXVILLEE TN WVLT" tvg-name="TN | KNOXVILLE | CBS WVLT" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-8-wvlt-us.png?raw=true" group-title="CBS",TN | KNOXVILLE | CBS WVLT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9961
+#EXTINF:-1 tvg-id="CBS NASHVILLE TN WTVF" tvg-name="TN | NASHVILLE | CBS WTVF" tvg-logo="https://image.roku.com/developer_channels/prod/b669dd09045530ae29c7cf411786954c4f32be319c1e5703f632e76039d4af43.png" group-title="CBS",TN | NASHVILLE | CBS WTVF
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9963
+#EXTINF:-1 tvg-id="CBS FORT WORTH TX KTVT" tvg-name="TX | FORT WORTH | CBS KTVT" tvg-logo="https://2.bp.blogspot.com/-cG3tt5DIMr0/UZ48pOK_qDI/AAAAAAAABww/bt4DYWpwjgY/w1200-h630-p-k-no-nu/ktvtcbs11_logo.png" group-title="CBS",TX | FORT WORTH | CBS KTVT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9967
+#EXTINF:-1 tvg-id="CBS HOUSTON TX KHOU" tvg-name="TX | HOUSTON | CBS KHOU" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-11-khou-icon-us.png?raw=true" group-title="CBS",TX | HOUSTON | CBS KHOU
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9970
+#EXTINF:-1 tvg-id="CBS WACO TX KWTX" tvg-name="TX | WACO | CBS KWTX" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-10-kwtx-us.png?raw=true" group-title="CBS",TX | WACO | CBS KWTX
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9974
+#EXTINF:-1 tvg-id="CBS SALT LAKE CITY UT KUTV" tvg-name="UT | SALT LAKE CITY | CBS KUTV" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-2-kutv-us.png?raw=true" group-title="CBS",UT | SALT LAKE CITY | CBS KUTV
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9975
+#EXTINF:-1 tvg-id="CBS BURLINGTON VT WCAX" tvg-name="VT | BURLINGTON | CBS WCAX" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-3-wcax-icon-us.png?raw=true" group-title="CBS",VT | BURLINGTON | CBS WCAX
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9977
+#EXTINF:-1 tvg-id="CBS LA CROSSE WI WKBT" tvg-name="WI | LA CROSSE | CBS WKBT" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-8-wkbt-dt-us.png?raw=true" group-title="CBS",WI | LA CROSSE | CBS WKBT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9982
+#EXTINF:-1 tvg-id="CBS MILWAUKEE WI WDJT" tvg-name="WI | MILWAUKEE | CBS WDJT" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-58-wdjt-us.png?raw=true" group-title="CBS",WI | MILWAUKEE | CBS WDJT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9984
+#EXTINF:-1 tvg-id="CBS HUNTINGTON WV WOWT" tvg-name="WV | HUNTINGTON | CBS WOWK" tvg-logo="https://s3.amazonaws.com/media.muckrack.com/groups/icons/wowktv.jpeg" group-title="CBS",WV | HUNTINGTON | CBS WOWK
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9985
+#EXTINF:-1 tvg-id="NBC HUNTSVILLE AL WAFF" tvg-name="AL | HUNTSVILLE | NBC WAFF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/WAFF_48_alternate.png/revision/latest/scale-to-width-down/175?cb=20190920164705" group-title="NBC",AL | HUNTSVILLE | NBC WAFF
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10107
+#EXTINF:-1 tvg-id="NBC MONTGOMERY AL WSFA" tvg-name="AL | MONTGOMERY | NBC WSFA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/WSFA12.jpg/revision/latest/scale-to-width-down/185?cb=20161103021441" group-title="NBC",AL | MONTGOMERY | NBC WSFA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10109
+#EXTINF:-1 tvg-id="NBC TUCSON AZ KVOA" tvg-name="AZ | TUCSON | NBC KVOA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/KVOA_Logo.png/revision/latest/scale-to-width-down/400?cb=20111024213046" group-title="NBC",AZ | TUCSON | NBC KVOA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10115
+#EXTINF:-1 tvg-id="NBC HARTFORD CT WVIT" tvg-name="CT | NEW BRITAIN | NBC WVIT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/WVIT_Logo_2017.svg/revision/latest/scale-to-width-down/200?cb=20200106044826" group-title="NBC",CT | NEW BRITAIN | NBC WVIT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10131
+#EXTINF:-1 tvg-id="NBC WASHINGTON DC WRC" tvg-name="DC | WASHINGTON | NBC WRC" tvg-logo="https://rbr.com/wp-content/uploads/WRC-TV.jpg" group-title="NBC",DC | WASHINGTON | NBC WRC
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10132
+#EXTINF:-1 tvg-id="NBC FORT MYERS FL WBBH" tvg-name="FL | NAPLES | NBC WBBH" tvg-logo="https://pbs.twimg.com/profile_images/1018899598029606912/lomPmdG3_400x400.jpg" group-title="NBC",FL | NAPLES | NBC WBBH
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10138
+#EXTINF:-1 tvg-id="NBC TAMPA FL WFLA" tvg-name="FL | TAMPA | NBC WFLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/8_wfla.jpeg/revision/latest/scale-to-width-down/185?cb=20150311200434" group-title="NBC",FL | TAMPA | NBC WFLA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10142
+#EXTINF:-1 tvg-id="NBC WEST PALM BEACH FL WPTV" tvg-name="FL | WEST PALM BEACH | NBC WPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/WPTV_C5_WPTV_VERT_TYPE_BLK_r.png/revision/latest/scale-to-width-down/200?cb=20160914105820" group-title="NBC",FL | WEST PALM BEACH | NBC WPTV
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10143
+#EXTINF:-1 tvg-id="NBC ATLANTA GA WXIA" tvg-name="GA | ATLANTA | NBC WXIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Wxia_website_logo.png/revision/latest/scale-to-width-down/133?cb=20190125231205" group-title="NBC",GA | ATLANTA | NBC WXIA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10145
+#EXTINF:-1 tvg-id="NBC HONOLULU HI KHNL" tvg-name="HI | HONOLULU | NBC KHNL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/KHNL_2002-2009.jpg/revision/latest/scale-to-width-down/200?cb=20160208223237" group-title="NBC",HI | HONOLULU | NBC KHNL
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10150
+#EXTINF:-1 tvg-id="NBC CHICAGO IL WMAQ" tvg-name="IL | CHICAGO | NBC WMAQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/WMAQ_NBC_5_1993-1997.PNG/170px-WMAQ_NBC_5_1993-1997.PNG" group-title="NBC",IL | CHICAGO | NBC WMAQ
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10159
+#EXTINF:-1 tvg-id="NBC INDIANAPOLIS IN WTHR" tvg-name="IN | INDIANAPOLIS | NBC WTHR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/WTHR-1.png/revision/latest/scale-to-width-down/250?cb=20161010190952" group-title="NBC",IN | INDIANAPOLIS | NBC WTHR
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10166
+#EXTINF:-1 tvg-id="NBC NASHUA NH WBTS" tvg-name="MA | BOSTON | NBC WBTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/WBTS-LD_NBC_10_Boston_logo.png" group-title="NBC",MA | BOSTON | NBC WBTS
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10182
+#EXTINF:-1 tvg-id="NBC BALTIMORE MD WBAL" tvg-name="MD | BALTIMORE | NBC WBAL" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wbal/logo.png" group-title="NBC",MD | BALTIMORE | NBC WBAL
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10184
+#EXTINF:-1 tvg-id="NBC DETROIT MI WDIV" tvg-name="MI | DETROIT | NBC WDIV" tvg-logo="https://arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/BL4ECN4NNJHIPLOOW4U3Z3Z7VU.jpg" group-title="NBC",MI | DETROIT | NBC WDIV
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10188
+#EXTINF:-1 tvg-id="NBC KANSAS CITY MO KSHB" tvg-name="MO | KANSAS CITY | NBC KSHB" tvg-logo="http://vstreams.tv:2082/images/757f23219ebb1876933c3aaf09b93773.png" group-title="NBC",MO | KANSAS CITY | NBC KSHB
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10196
+#EXTINF:-1 tvg-id="NBC CHARLOTTE NC WCNC" tvg-name="NC | CHARLOTTE | NBC WCNC" tvg-logo="http://vstreams.tv:2082/images/9e4710005485872620692f76f46dab1d.png" group-title="NBC",NC | CHARLOTTE | NBC WCNC
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10211
+#EXTINF:-1 tvg-id="NBC ALBANY NY WNYT" tvg-name="NY | ALBANY | NBC WNYT" tvg-logo="http://vstreams.tv:2082/images/9d34d787054b7d1101911f5f0429bbe7.png" group-title="NBC",NY | ALBANY | NBC WNYT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10223
+#EXTINF:-1 tvg-id="NBC NEW YORK NY WNBC" tvg-name="NY | NEW YORK | NBC WNBC" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/us/NBCWNBC.us.png" group-title="NBC",NY | NEW YORK | NBC WNBC
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10227
+#EXTINF:-1 tvg-id="NBC SYRACUSE NY WSTM" tvg-name="NY | SYRACUSE | NBC WSTM" tvg-logo="http://vstreams.tv:2082/images/ccdb5d407658d97c79d1f452d9fc9aff.png" group-title="NBC",NY | SYRACUSE | NBC WSTM
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10230
+#EXTINF:-1 tvg-id="NBC WATERTOWN NY WVNC" tvg-name="NY | WATERTOWN | NBC WVNC" tvg-logo="http://vstreams.tv:2082/images/1a7df1ca1397c0c4f4de33d8db75391b.png" group-title="NBC",NY | WATERTOWN | NBC WVNC
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10232
+#EXTINF:-1 tvg-id="NBC CINCINNATI OH WLWT" tvg-name="OH | CINCINNATI | NBC WLWT" tvg-logo="http://vstreams.tv:2082/images/5c5d2b545f2766bda92f6fa6b5024a55.png" group-title="NBC",OH | CINCINNATI | NBC WLWT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10233
+#EXTINF:-1 tvg-id="NBC CLEVELAND OH WKYC" tvg-name="OH | CLEVELAND | NBC WKYC" tvg-logo="http://vstreams.tv:2082/images/8f41e5bad1fa7ecb61bd8ac813816a73.png" group-title="NBC",OH | CLEVELAND | NBC WKYC
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10234
+#EXTINF:-1 tvg-id="NBC DAYTON OH WDTN" tvg-name="OH | DAYTON | NBC WDTN" tvg-logo="http://vstreams.tv:2082/images/0978bb57c95cb9176d63334b92b366a5.png" group-title="NBC",OH | DAYTON | NBC WDTN
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10236
+#EXTINF:-1 tvg-id="NBC TOLEDO OH WNWO" tvg-name="OH | TOLEDO | NBC WNWO" tvg-logo="http://vstreams.tv:2082/images/960425d12bfa42a4bf82e4025575822f.png" group-title="NBC",OH | TOLEDO | NBC WNWO
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10239
+#EXTINF:-1 tvg-id="NBC PHILADELPHIA PA WCAU" tvg-name="PA | PHILADELPHIA | NBC WCAU" tvg-logo="http://vstreams.tv:2082/images/94d62583af9f721ad3582863a5e86eb6.png" group-title="NBC",PA | PHILADELPHIA | NBC WCAU
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10252
+#EXTINF:-1 tvg-id="NBC PITTSBURGH PA WPXI" tvg-name="PA | PITTSBURGH | NBC WPXI" tvg-logo="http://vstreams.tv:2082/images/9eca95bc40a067a779fce87dd1632884.png" group-title="NBC",PA | PITTSBURGH | NBC WPXI
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10253
+#EXTINF:-1 tvg-id="NBC COLUMBIA SC WIS" tvg-name="SC | COLUMBIA | NBC WIS" tvg-logo="http://vstreams.tv:2082/images/8e2777290b9b242fdf4023e9a13eb9a3.png" group-title="NBC",SC | COLUMBIA | NBC WIS
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10258
+#EXTINF:-1 tvg-id="NBC MYRTLE BEACH SC WMBF" tvg-name="SC | MYRTLE BEACH | NBC WMBF" tvg-logo="http://vstreams.tv:2082/images/c65c8233fe699ba1d94065c4b17a4813.png" group-title="NBC",SC | MYRTLE BEACH | NBC WMBF
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10260
+#EXTINF:-1 tvg-id="NBC MEMPHIS TN WMC" tvg-name="TN | MEMPHIS | NBC WMC" tvg-logo="http://vstreams.tv:2082/images/6362b62e569a1a2307d9af7e703cc115.png" group-title="NBC",TN | MEMPHIS | NBC WMC
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10267
+#EXTINF:-1 tvg-id="NBC AUSTIN TX KXAN" tvg-name="TX | AUSTIN | NBC KXAN" tvg-logo="http://vstreams.tv:2082/images/e793ea47395a49b23dcaca6bd2c48524.png" group-title="NBC",TX | AUSTIN | NBC KXAN
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10271
+#EXTINF:-1 tvg-id="NBC HOUSTON TX KPRC" tvg-name="TX | HOUSTON | NBC KPRC" tvg-logo="http://vstreams.tv:2082/images/99639197c015d061591d8fdd3620784e.png" group-title="NBC",TX | HOUSTON | NBC KPRC
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10277
+#EXTINF:-1 tvg-id="NBC RICHMOND VA WWBT" tvg-name="VA | RICHMOND | NBC WWBT" tvg-logo="http://vstreams.tv:2082/images/708397e533fb8efb4aced14ecc885910.png" group-title="NBC",VA | RICHMOND | NBC WWBT
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10290
+#EXTINF:-1 tvg-id="NBC WINSTON SALEM NC WXII" tvg-name="NC | Winston-Salem Greensboro WXII" tvg-logo="" group-title="NBC",NC | Winston-Salem Greensboro WXII
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10762
+#EXTINF:-1 tvg-id="CBS GREENSBORO NC WFMY" tvg-name="NC | GREENSBORO | WFMY" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="CBS",NC | GREENSBORO | WFMY
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10763
+#EXTINF:-1 tvg-id="CBS INDIANAPOLIS IN WTTV" tvg-name="IN | INDIANAPOLIS | CBS 4" tvg-logo="https://logo.iptveditor.com/cbs4newsindianapolis.png" group-title="CBS",IN | INDIANAPOLIS | CBS 4
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/10764
+#EXTINF:-1 tvg-id="CBS CHAMPAIGN IL WCIA" tvg-name="IL | CHAMPAIGN | WCIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/WCIA.jpg/revision/latest/scale-to-width-down/114?cb=20110629095903" group-title="CBS",IL | CHAMPAIGN | WCIA
+http://hardcoremedia.xyz:80/lmopnjpc/8418387696/14648
+#EXTINF:-1 group-title="E!",US CHARGE! 
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/79594
+#EXTINF:-1 group-title="NBC",AK | Fairbanks | NBC KTVF
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120635
+#EXTINF:-1 group-title="NBC",AK | Juneau-douglas | NBC KATH
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120636
+#EXTINF:-1 group-title="NBC",NBC: AL MOBILE WPMI
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120643
+#EXTINF:-1 group-title="NBC",US NBC 4 (KVOA) Tucson 
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120652
+#EXTINF:-1 group-title="NBC",NBC: CO PUEBLO KOAA
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120666
+#EXTINF:-1 group-title="NBC",US NBC (WTLV) Jacksonville 
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120672
+#EXTINF:-1 group-title="NBC",NBC: MT MISSOULA KECI
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120733
+#EXTINF:-1 group-title="NBC",US NBC 7 (KRNV) Reno
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120744
+#EXTINF:-1 group-title="NBC",US NBC (WGRZ) HD 
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120748
+#EXTINF:-1 group-title="NBC",NBC: CINCINNATI WLWT
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120755
+#EXTINF:-1 group-title="NBC",NBC: SC MYRTLE BEACH WMBF
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120790
+#EXTINF:-1 group-title="NBC",TX | Fort Worth | NBC KXAS
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/120811
+#EXTINF:-1 group-title="CBS",US CBS (KYW) Philadelphia (F)
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/121150
+#EXTINF:-1 group-title="NBC",US NBC 15 (WPMI) Alabama (H)
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/121155
+#EXTINF:-1 group-title="CBS",US CBS (WTVH) Syracuse (F)
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/122004
+#EXTINF:-1 group-title="NBC",US NBC (WAGT) Augusta 
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/122271
+#EXTINF:-1 group-title="CBS",CBS: ME PORTLAND WGME
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/122277
+#EXTINF:-1 group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/137954
+#EXTINF:-1 group-title="CBS",CBS: MI DETROIT WWJ
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/147201
+#EXTINF:-1 group-title="NBC",US NBC 12 (WBOY) Clarksburg (F)
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/160729
+#EXTINF:-1 group-title="NBC",US NBC (WALB) Albany (F)
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/173119
+#EXTINF:-1 group-title="NBC",US NBC 9 (WTVA) Tupelo (D)
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/213646
+#EXTINF:-1 group-title="CBS",US CBS 6 (WKMG) Orlando 
+http://xxip25.top:8080/21shonelle@gmail.com/3R9sgn7eFZ/217388
+#EXTINF:-1 group-title="MTV",US ▎MTV BIGGEST POP
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1 group-title="MTV",US ▎MTV SPANKIN' NEW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
+#EXTINF:-1 group-title="MTV",US ▎YO! MTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+#EXTINF:-1 group-title="E!",US CHARGE! 
+http://xxip25.top:8080/86834150/15854478/79594
+#EXTINF:-1 group-title="NBC",AK | Fairbanks | NBC KTVF
+http://xxip25.top:8080/86834150/15854478/120635
+#EXTINF:-1 group-title="NBC",AK | Juneau-douglas | NBC KATH
+http://xxip25.top:8080/86834150/15854478/120636
+#EXTINF:-1 group-title="CBS",CBS: AL BIRMINGHAM WIAT
+http://xxip25.top:8080/86834150/15854478/120637
+#EXTINF:-1 group-title="NBC",NBC: AL MOBILE WPMI
+http://xxip25.top:8080/86834150/15854478/120643
+#EXTINF:-1 group-title="NBC",US NBC 4 (KVOA) Tucson 
+http://xxip25.top:8080/86834150/15854478/120652
+#EXTINF:-1 group-title="NBC",NBC: CO PUEBLO KOAA
+http://xxip25.top:8080/86834150/15854478/120666
+#EXTINF:-1 group-title="NBC",US NBC (WTLV) Jacksonville 
+http://xxip25.top:8080/86834150/15854478/120672
+#EXTINF:-1 group-title="CBS",CBS: ID BOISE KBOI
+http://xxip25.top:8080/86834150/15854478/120684
+#EXTINF:-1 group-title="NBC",NBC: ID BOISE KTVB
+http://xxip25.top:8080/86834150/15854478/120685
+#EXTINF:-1 group-title="CBS",US CBS (WBBM) Chicago 
+http://xxip25.top:8080/86834150/15854478/120688
+#EXTINF:-1 group-title="NBC",NBC: ME PORTLAND WCSH
+http://xxip25.top:8080/86834150/15854478/120715
+#EXTINF:-1 group-title="NBC",MI | Grand Rapids | NBC WOOD
+http://xxip25.top:8080/86834150/15854478/120719
+#EXTINF:-1 group-title="NBC",NBC: MT MISSOULA KECI
+http://xxip25.top:8080/86834150/15854478/120733
+#EXTINF:-1 group-title="NBC",US NBC 7 (KRNV) Reno
+http://xxip25.top:8080/86834150/15854478/120744
+#EXTINF:-1 group-title="NBC",US NBC (WGRZ) HD 
+http://xxip25.top:8080/86834150/15854478/120748
+#EXTINF:-1 group-title="NBC",NBC: CINCINNATI WLWT
+http://xxip25.top:8080/86834150/15854478/120755
+#EXTINF:-1 group-title="NBC",NBC: SC MYRTLE BEACH WMBF
+http://xxip25.top:8080/86834150/15854478/120790
+#EXTINF:-1 group-title="NBC",TX | Fort Worth | NBC KXAS
+http://xxip25.top:8080/86834150/15854478/120811
+#EXTINF:-1 group-title="CBS",US CBS (KYW) Philadelphia (F)
+http://xxip25.top:8080/86834150/15854478/121150
+#EXTINF:-1 group-title="NBC",US NBC 15 (WPMI) Alabama (H)
+http://xxip25.top:8080/86834150/15854478/121155
+#EXTINF:-1 group-title="CBS",US CBS (WTVH) Syracuse (F)
+http://xxip25.top:8080/86834150/15854478/122004
+#EXTINF:-1 group-title="NBC",US NBC (WAGT) Augusta 
+http://xxip25.top:8080/86834150/15854478/122271
+#EXTINF:-1 group-title="CBS",CBS: ME PORTLAND WGME
+http://xxip25.top:8080/86834150/15854478/122277
+#EXTINF:-1 group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip25.top:8080/86834150/15854478/137954
+#EXTINF:-1 group-title="CBS",CBS: MI DETROIT WWJ
+http://xxip25.top:8080/86834150/15854478/147201
+#EXTINF:-1 group-title="NBC",US NBC 12 (WBOY) Clarksburg (F)
+http://xxip25.top:8080/86834150/15854478/160729
+#EXTINF:-1 group-title="NBC",US NBC (WALB) Albany (F)
+http://xxip25.top:8080/86834150/15854478/173119
+#EXTINF:-1 group-title="NBC",US NBC 9 (WTVA) Tupelo (D)
+http://xxip25.top:8080/86834150/15854478/213646
+#EXTINF:-1 group-title="CBS",US CBS 6 (WKMG) Orlando 
+http://xxip25.top:8080/86834150/15854478/217388
+#EXTINF:-1 group-title="NBC",AK | Fairbanks | NBC KTVF
+http://xxip25.top:8080/Abxc5k/363887/120635
+#EXTINF:-1 group-title="NBC",NBC: AL MOBILE WPMI
+http://xxip25.top:8080/Abxc5k/363887/120643
+#EXTINF:-1 group-title="NBC",US NBC (WTLV) Jacksonville 
+http://xxip25.top:8080/Abxc5k/363887/120672
+#EXTINF:-1 group-title="CBS",US CBS (WBBM) Chicago 
+http://xxip25.top:8080/Abxc5k/363887/120688
+#EXTINF:-1 group-title="NBC",NBC: ME PORTLAND WCSH
+http://xxip25.top:8080/Abxc5k/363887/120715
+#EXTINF:-1 group-title="NBC",MI | Grand Rapids | NBC WOOD
+http://xxip25.top:8080/Abxc5k/363887/120719
+#EXTINF:-1 group-title="NBC",NBC: MT MISSOULA KECI
+http://xxip25.top:8080/Abxc5k/363887/120733
+#EXTINF:-1 group-title="NBC",US NBC 7 (KRNV) Reno
+http://xxip25.top:8080/Abxc5k/363887/120744
+#EXTINF:-1 group-title="NBC",US NBC (WGRZ) HD 
+http://xxip25.top:8080/Abxc5k/363887/120748
+#EXTINF:-1 group-title="NBC",NBC: CINCINNATI WLWT
+http://xxip25.top:8080/Abxc5k/363887/120755
+#EXTINF:-1 group-title="NBC",NBC: SC MYRTLE BEACH WMBF
+http://xxip25.top:8080/Abxc5k/363887/120790
+#EXTINF:-1 group-title="NBC",TX | Fort Worth | NBC KXAS
+http://xxip25.top:8080/Abxc5k/363887/120811
+#EXTINF:-1 group-title="CBS",US CBS (KYW) Philadelphia (F)
+http://xxip25.top:8080/Abxc5k/363887/121150
+#EXTINF:-1 group-title="NBC",US NBC 15 (WPMI) Alabama (H)
+http://xxip25.top:8080/Abxc5k/363887/121155
+#EXTINF:-1 group-title="CBS",US CBS (WTVH) Syracuse (F)
+http://xxip25.top:8080/Abxc5k/363887/122004
+#EXTINF:-1 group-title="NBC",US NBC (WAGT) Augusta 
+http://xxip25.top:8080/Abxc5k/363887/122271
+#EXTINF:-1 group-title="CBS",CBS: ME PORTLAND WGME
+http://xxip25.top:8080/Abxc5k/363887/122277
+#EXTINF:-1 group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip25.top:8080/Abxc5k/363887/137954
+#EXTINF:-1 group-title="CBS",CBS: MI DETROIT WWJ
+http://xxip25.top:8080/Abxc5k/363887/147201
+#EXTINF:-1 group-title="NBC",US NBC 12 (WBOY) Clarksburg (F)
+http://xxip25.top:8080/Abxc5k/363887/160729
+#EXTINF:-1 group-title="NBC",US NBC (WALB) Albany (F)
+http://xxip25.top:8080/Abxc5k/363887/173119
+#EXTINF:-1 group-title="NBC",US NBC 9 (WTVA) Tupelo (D)
+http://xxip25.top:8080/Abxc5k/363887/213646
+#EXTINF:-1 group-title="CBS",US CBS 6 (WKMG) Orlando 
+http://xxip25.top:8080/Abxc5k/363887/217388
+#EXTINF:-1 group-title="E!",US CHARGE! 
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/79594
+#EXTINF:-1 group-title="NBC",AK | Fairbanks | NBC KTVF
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120635
+#EXTINF:-1 group-title="NBC",AK | Juneau-douglas | NBC KATH
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120636
+#EXTINF:-1 group-title="NBC",US NBC (WTLV) Jacksonville 
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120672
+#EXTINF:-1 group-title="CBS",CBS: ID BOISE KBOI
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120684
+#EXTINF:-1 group-title="NBC",NBC: ID BOISE KTVB
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120685
+#EXTINF:-1 group-title="CBS",US CBS (WBBM) Chicago 
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120688
+#EXTINF:-1 group-title="NBC",NBC: ME PORTLAND WCSH
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120715
+#EXTINF:-1 group-title="NBC",MI | Grand Rapids | NBC WOOD
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120719
+#EXTINF:-1 group-title="NBC",NBC: MT MISSOULA KECI
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120733
+#EXTINF:-1 group-title="NBC",US NBC 7 (KRNV) Reno
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120744
+#EXTINF:-1 group-title="NBC",US NBC (WGRZ) HD 
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120748
+#EXTINF:-1 group-title="NBC",NBC: SC MYRTLE BEACH WMBF
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120790
+#EXTINF:-1 group-title="NBC",TX | Fort Worth | NBC KXAS
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/120811
+#EXTINF:-1 group-title="CBS",US CBS (KYW) Philadelphia (F)
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/121150
+#EXTINF:-1 group-title="NBC",US NBC 15 (WPMI) Alabama (H)
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/121155
+#EXTINF:-1 group-title="CBS",US CBS (WTVH) Syracuse (F)
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/122004
+#EXTINF:-1 group-title="NBC",US NBC (WAGT) Augusta 
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/122271
+#EXTINF:-1 group-title="CBS",CBS: ME PORTLAND WGME
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/122277
+#EXTINF:-1 group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/137954
+#EXTINF:-1 group-title="CBS",CBS: MI DETROIT WWJ
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/147201
+#EXTINF:-1 group-title="NBC",US NBC 12 (WBOY) Clarksburg (F)
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/160729
+#EXTINF:-1 group-title="NBC",US NBC (WALB) Albany (F)
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/173119
+#EXTINF:-1 group-title="NBC",US NBC 9 (WTVA) Tupelo (D)
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/213646
+#EXTINF:-1 group-title="CBS",US CBS 6 (WKMG) Orlando 
+http://cord-cutter.net:8080/chino006@live.com/2g7dP4JDPjY/217388
+#EXTINF:-1 group-title="MTV",MTV Spankin’ New
+https://stitcher.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
+#EXTINF:-1 group-title="MTV",MTV Biggest Pop
+https://stitcher.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
+#EXTINF:-1 group-title="MTV",Yo! MTV
+https://stitcher.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
+#EXTINF:-1 group-title="MTV",MTV Teen Mom
+https://stitcher.pluto.tv/stitch/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 group-title="MTV",MTV Catfish
+https://stitcher.pluto.tv/stitch/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 group-title="MTV",MTV Biggest Pop
+https://stitcher.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 group-title="MTV",MTV Flow Latino
+https://stitcher.pluto.tv/stitch/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 group-title="MTV",Yo! MTV
+https://stitcher.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+#EXTINF:-1 group-title="E!",US CHARGE! 
+http://xxip25.top:8080/Miami1/Miami100/79594
+#EXTINF:-1 group-title="NBC",AK | Fairbanks | NBC KTVF
+http://xxip25.top:8080/Miami1/Miami100/120635
+#EXTINF:-1 group-title="NBC",AK | Juneau-douglas | NBC KATH
+http://xxip25.top:8080/Miami1/Miami100/120636
+#EXTINF:-1 group-title="NBC",NBC: AL MOBILE WPMI
+http://xxip25.top:8080/Miami1/Miami100/120643
+#EXTINF:-1 group-title="NBC",US NBC 4 (KVOA) Tucson 
+http://xxip25.top:8080/Miami1/Miami100/120652
+#EXTINF:-1 group-title="NBC",NBC: CO PUEBLO KOAA
+http://xxip25.top:8080/Miami1/Miami100/120666
+#EXTINF:-1 group-title="NBC",US NBC (WTLV) Jacksonville 
+http://xxip25.top:8080/Miami1/Miami100/120672
+#EXTINF:-1 group-title="CBS",CBS: ID BOISE KBOI
+http://xxip25.top:8080/Miami1/Miami100/120684
+#EXTINF:-1 group-title="NBC",NBC: ID BOISE KTVB
+http://xxip25.top:8080/Miami1/Miami100/120685
+#EXTINF:-1 group-title="CBS",US CBS (WBBM) Chicago 
+http://xxip25.top:8080/Miami1/Miami100/120688
+#EXTINF:-1 group-title="NBC",NBC: ME PORTLAND WCSH
+http://xxip25.top:8080/Miami1/Miami100/120715
+#EXTINF:-1 group-title="NBC",MI | Grand Rapids | NBC WOOD
+http://xxip25.top:8080/Miami1/Miami100/120719
+#EXTINF:-1 group-title="NBC",NBC: MT MISSOULA KECI
+http://xxip25.top:8080/Miami1/Miami100/120733
+#EXTINF:-1 group-title="NBC",US NBC 7 (KRNV) Reno
+http://xxip25.top:8080/Miami1/Miami100/120744
+#EXTINF:-1 group-title="NBC",US NBC (WGRZ) HD 
+http://xxip25.top:8080/Miami1/Miami100/120748
+#EXTINF:-1 group-title="NBC",NBC: CINCINNATI WLWT
+http://xxip25.top:8080/Miami1/Miami100/120755
+#EXTINF:-1 group-title="NBC",NBC: SC MYRTLE BEACH WMBF
+http://xxip25.top:8080/Miami1/Miami100/120790
+#EXTINF:-1 group-title="NBC",TX | Fort Worth | NBC KXAS
+http://xxip25.top:8080/Miami1/Miami100/120811
+#EXTINF:-1 group-title="CBS",US CBS (KYW) Philadelphia (F)
+http://xxip25.top:8080/Miami1/Miami100/121150
+#EXTINF:-1 group-title="NBC",US NBC 15 (WPMI) Alabama (H)
+http://xxip25.top:8080/Miami1/Miami100/121155
+#EXTINF:-1 group-title="CBS",US CBS (WTVH) Syracuse (F)
+http://xxip25.top:8080/Miami1/Miami100/122004
+#EXTINF:-1 group-title="NBC",US NBC (WAGT) Augusta 
+http://xxip25.top:8080/Miami1/Miami100/122271
+#EXTINF:-1 group-title="CBS",CBS: ME PORTLAND WGME
+http://xxip25.top:8080/Miami1/Miami100/122277
+#EXTINF:-1 group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip25.top:8080/Miami1/Miami100/137954
+#EXTINF:-1 group-title="CBS",CBS: MI DETROIT WWJ
+http://xxip25.top:8080/Miami1/Miami100/147201
+#EXTINF:-1 group-title="NBC",US NBC 12 (WBOY) Clarksburg (F)
+http://xxip25.top:8080/Miami1/Miami100/160729
+#EXTINF:-1 group-title="NBC",US NBC (WALB) Albany (F)
+http://xxip25.top:8080/Miami1/Miami100/173119
+#EXTINF:-1 group-title="NBC",US NBC 9 (WTVA) Tupelo (D)
+http://xxip25.top:8080/Miami1/Miami100/213646
+#EXTINF:-1 group-title="CBS",US CBS 6 (WKMG) Orlando 
+http://xxip25.top:8080/Miami1/Miami100/217388
+#EXTINF:-1 group-title="E!",US CHARGE! 
+http://xxip25.top:8080/n2xCxU/098316/79594
+#EXTINF:-1 group-title="NBC",AK | Fairbanks | NBC KTVF
+http://xxip25.top:8080/n2xCxU/098316/120635
+#EXTINF:-1 group-title="NBC",AK | Juneau-douglas | NBC KATH
+http://xxip25.top:8080/n2xCxU/098316/120636
+#EXTINF:-1 group-title="NBC",NBC: AL MOBILE WPMI
+http://xxip25.top:8080/n2xCxU/098316/120643
+#EXTINF:-1 group-title="NBC",US NBC 4 (KVOA) Tucson 
+http://xxip25.top:8080/n2xCxU/098316/120652
+#EXTINF:-1 group-title="NBC",NBC: CO PUEBLO KOAA
+http://xxip25.top:8080/n2xCxU/098316/120666
+#EXTINF:-1 group-title="NBC",US NBC (WTLV) Jacksonville 
+http://xxip25.top:8080/n2xCxU/098316/120672
+#EXTINF:-1 group-title="CBS",CBS: ID BOISE KBOI
+http://xxip25.top:8080/n2xCxU/098316/120684
+#EXTINF:-1 group-title="NBC",NBC: ID BOISE KTVB
+http://xxip25.top:8080/n2xCxU/098316/120685
+#EXTINF:-1 group-title="CBS",US CBS (WBBM) Chicago 
+http://xxip25.top:8080/n2xCxU/098316/120688
+#EXTINF:-1 group-title="NBC",NBC: ME PORTLAND WCSH
+http://xxip25.top:8080/n2xCxU/098316/120715
+#EXTINF:-1 group-title="NBC",MI | Grand Rapids | NBC WOOD
+http://xxip25.top:8080/n2xCxU/098316/120719
+#EXTINF:-1 group-title="NBC",NBC: MT MISSOULA KECI
+http://xxip25.top:8080/n2xCxU/098316/120733
+#EXTINF:-1 group-title="NBC",US NBC 7 (KRNV) Reno
+http://xxip25.top:8080/n2xCxU/098316/120744
+#EXTINF:-1 group-title="NBC",US NBC (WGRZ) HD 
+http://xxip25.top:8080/n2xCxU/098316/120748
+#EXTINF:-1 group-title="NBC",NBC: CINCINNATI WLWT
+http://xxip25.top:8080/n2xCxU/098316/120755
+#EXTINF:-1 group-title="NBC",NBC: SC MYRTLE BEACH WMBF
+http://xxip25.top:8080/n2xCxU/098316/120790
+#EXTINF:-1 group-title="NBC",TX | Fort Worth | NBC KXAS
+http://xxip25.top:8080/n2xCxU/098316/120811
+#EXTINF:-1 group-title="CBS",US CBS (KYW) Philadelphia (F)
+http://xxip25.top:8080/n2xCxU/098316/121150
+#EXTINF:-1 group-title="NBC",US NBC 15 (WPMI) Alabama (H)
+http://xxip25.top:8080/n2xCxU/098316/121155
+#EXTINF:-1 group-title="CBS",US CBS (WTVH) Syracuse (F)
+http://xxip25.top:8080/n2xCxU/098316/122004
+#EXTINF:-1 group-title="NBC",US NBC (WAGT) Augusta 
+http://xxip25.top:8080/n2xCxU/098316/122271
+#EXTINF:-1 group-title="CBS",CBS: ME PORTLAND WGME
+http://xxip25.top:8080/n2xCxU/098316/122277
+#EXTINF:-1 group-title="CBS",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxip25.top:8080/n2xCxU/098316/137954
+#EXTINF:-1 group-title="CBS",CBS: MI DETROIT WWJ
+http://xxip25.top:8080/n2xCxU/098316/147201
+#EXTINF:-1 group-title="NBC",US NBC 12 (WBOY) Clarksburg (F)
+http://xxip25.top:8080/n2xCxU/098316/160729
+#EXTINF:-1 group-title="NBC",US NBC (WALB) Albany (F)
+http://xxip25.top:8080/n2xCxU/098316/173119
+#EXTINF:-1 group-title="NBC",US NBC 9 (WTVA) Tupelo (D)
+http://xxip25.top:8080/n2xCxU/098316/213646
+#EXTINF:-1 group-title="CBS",US CBS 6 (WKMG) Orlando 
+http://xxip25.top:8080/n2xCxU/098316/217388
