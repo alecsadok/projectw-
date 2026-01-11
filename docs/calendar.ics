@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//alist-calendar//weekly//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eventos A-List (confirmados) — Argentina (GMT-3)
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VEVENT
+UID:0966481d-11ee-488f-a6e1-99e3345ffcab@alist-calendar
+DTSTAMP:20260111T001652Z
+SUMMARY:Oscars 2026 — Ceremonia
+LOCATION:Dolby Theatre\, Hollywood\, Los Angeles\, CA\, USA
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260315T233000
+DESCRIPTION:Hora Argentina (GMT-3): 15/03 20:00–23:30\nTV: ABC\nRed carpet: no confirmado oficialmente.\nCelebrities A-list confirmadas: Conan O'Brien (host)\nCelebrities B-list confirmadas: (sin confirmaciones oficiales publicadas)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nSolo incluir confirmaciones con fuente oficial/confiable o Wikipedia.
+END:VEVENT
+END:VCALENDAR
