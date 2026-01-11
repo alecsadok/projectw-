@@ -1,17 +1,23 @@
 events:
-  - title: "Oscars 2026 — Ceremonia"
-    date: "2026-03-15"
-    start_local: "19:00"
-    tz_local: "America/New_York"
-    duration_minutes: 210
-    location: "Dolby Theatre, Hollywood, Los Angeles, CA, USA"
+  - title: "Lollapalooza Brasil 2026 — Día 1"
+    date: "2026-03-20"
+    start_local: "11:00"
+    tz_local: "America/Sao_Paulo"
+    duration_minutes: 840
+    location: "Autódromo de Interlagos, São Paulo, Brasil"
     broadcast:
-      tv: ["ABC"]
+      tv: []
       streaming: []
       red_carpet: { confirmed: false }
-    confirmed_people:
-      a_list: ["Conan O'Brien (host)"]
-      b_list: []
-      argentines: []
+    # ✅ SOLO cuando esté publicado oficialmente
+    set_times:
+      - artist: "Sabrina Carpenter"
+        stage: "Palco Budweiser"
+        start_local: "21:30"
+        end_local: "22:30"
+      - artist: "Lorde"
+        stage: "Palco Chevrolet"
+        start_local: "19:40"
+        end_local: "20:40"
     notes:
-      - "Solo incluir confirmaciones con fuente oficial/confiable o Wikipedia."
+      - "Set times: solo oficiales (sitio/app del festival o PDF oficial)."
