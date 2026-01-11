@@ -94,7 +94,9 @@ for ev in events:
     for n in notes:
         desc_lines.append(n)
 
-    lines.append(f"DESCRIPTION:{ics_escape('\\n'.join(desc_lines))}")
+    desc = "\n".join(desc_lines)
+    lines.append("DESCRIPTION:" + ics_escape(desc))
+
     lines.append("END:VEVENT")
 
 lines.append("END:VCALENDAR")
