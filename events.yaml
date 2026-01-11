@@ -1,0 +1,17 @@
+events:
+  - title: "Oscars 2026 — Ceremonia"
+    date: "2026-03-15"
+    start_local: "19:00"
+    tz_local: "America/New_York"
+    duration_minutes: 210
+    location: "Dolby Theatre, Hollywood, Los Angeles, CA, USA"
+    broadcast:
+      tv: ["ABC"]
+      streaming: []
+      red_carpet: { confirmed: false }
+    confirmed_people:
+      a_list: ["Conan O'Brien (host)"]
+      b_list: []
+      argentines: []
+    notes:
+      - "Solo incluir confirmaciones con fuente oficial/confiable o Wikipedia."
