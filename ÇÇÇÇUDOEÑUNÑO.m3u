@@ -1,4 +1,53 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ FHD¹" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD¹
+http://free-image-hosting.top:8080/11957753178/11957753/28776
+#EXTINF:-1 xui-id="468" tvg-id="124" tvg-name="GLOBO RJ FHD" tvg-logo="https://srv3.site:8443/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="GLOBO RJ",GLOBO RJ FHD
+https://srv3.site:8443/play/CwDiJrPbiRyM-agpD2cPwIkHvpLcFCuBFH0u8pY3plY/ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP UHD¹" tvg-logo="http://7logos.top/logos/globo4k.png" group-title="GLOBO SP",GLOBO SP UHD¹
+http://free-image-hosting.top:8080/11957753178/11957753/315113
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD²" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD²
+http://free-image-hosting.top:8080/11957753178/11957753/18587
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD ᶜᴰᴺ²" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD ᶜᴰᴺ²
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO RJ",Globo RJ FHD
+http://ibo.playmove.org:8080/000876111/213156589090/1943
+http://free-image-hosting.top:8080/11957753178/11957753/64728
+#EXTINF:-1 xui-id="469" tvg-id="124" tvg-name="GLOBO RJ HD" tvg-logo="https://srv3.site:8443/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="GLOBO RJ",GLOBO RJ HD
+https://srv3.site:8443/play/CwDiJrPbiRyM-agpD2cPwGSX1GLbhRkQzb5yWxNh8oM/ts
+http://free-image-hosting.top:8080/11957753178/11957753/22169
+#EXTINF:-1 xui-id="18301" tvg-id="Globo 4k" tvg-name="REDE GLOBO RIO DE JANEIRO FHD" tvg-logo="https://i.imgur.com/REdhp2i.png" group-title="GLOBO RJ",REDE GLOBO RIO DE JANEIRO FHD
+http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXRZzFKmAgWAIO3qtQjJQV2I/ts
+#EXTINF:-1 xui-id="18302" tvg-id="Globo 4k" tvg-name="REDE GLOBO RIO DE JANEIRO HD" tvg-logo="https://i.imgur.com/REdhp2i.png" group-title="GLOBO RJ",REDE GLOBO RIO DE JANEIRO HD
+http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXR2DvVHCF9HmWGozDMNiHh8/ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD¹" tvg-logo="http://7logos.top/logos/globohd.png" group-title="GLOBO RJ",GLOBO RJ HD¹
+http://free-image-hosting.top:8080/11957753178/11957753/18556
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD²" tvg-logo="http://7logos.top/logos/globohd.png" group-title="GLOBO RJ",GLOBO RJ HD²
+http://free-image-hosting.top:8080/11957753178/11957753/22171
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD ᶜᴰᴺ ²" tvg-logo="http://7logos.top/logos/globohd.png" group-title="GLOBO RJ",GLOBO RJ HD ᶜᴰᴺ ²
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K¹" tvg-logo="http://7logos.top/logos/multishow4k.png" group-title="MULTISHOW",MULTISHOW 4K¹
+http://free-image-hosting.top:8080/11957753178/11957753/116634
+#EXTINF:-1 xui-id="320641" tvg-id="Multishow SD" tvg-name="Multishow 4K" tvg-logo="https://i.imgur.com/Ge58c7d.png" group-title="MULTISHOW",Multishow 4K
+http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXTcYlmvzwArH3VSl2e9NfuI/ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Multishow%20HD.png" group-title="MULTISHOW",Multishow FHD
+http://ibo.playmove.org:8080/000876111/213156589090/1851
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Multishow%20HD.png" group-title="MULTISHOW",Multishow HD
+http://ibo.playmove.org:8080/000876111/213156589090/2168
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP 4K¹" tvg-logo="http://7logos.top/logos/band4k.png" group-title="BAND",BAND SP 4K¹
+http://free-image-hosting.top:8080/11957753178/11957753/275364
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP FHD
+http://ibo.playmove.org:8080/000876111/213156589090/1878
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS 4K¹" tvg-logo="http://7logos.top/logos/globonews4k.png" group-title="BAND",GLOBO NEWS 4K¹
+http://free-image-hosting.top:8080/11957753178/11957753/275371
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="Globo News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="Globo News",Globo News FHD
+http://ibo.playmove.org:8080/000876111/213156589090/1888
+#EXTINF:-1 xui-id="320631" tvg-id="Globo News SD" tvg-name="Globo News 4K" tvg-logo="https://i.imgur.com/Ge58c7d.png" group-title="TNT",Globo News 4K
+http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXX7Taa8J7OepO_eJDxM9qbQ/ts
+#EXTINF:-1 xui-id="320618" tvg-id="CNN Brasil SD" tvg-name="CNN Brasil 4K" tvg-logo="https://i.imgur.com/Ge58c7d.png" group-title="CNN BRASIL",CNN Brasil 4K
+http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXcQac3zPkFw9UvHYHjOZn9E/ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K¹" tvg-logo="http://7logos.top/logos/tnt4k.png" group-title="TNT",TNT 4K¹
+http://free-image-hosting.top:8080/11957753178/11957753/116642#EXTINF:-1 xui-id="320656" tvg-id="TNT SD" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/Ge58c7d.png" group-title="TNT",TNT 4K
+http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXTb_CFkKzkP1Ks7pWxLSub0/ts
+#EXTINF:-1 xui-id="18150" tvg-id="TNT SD" tvg-name="TNT FHD" tvg-logo="https://i.postimg.cc/mk9zWbPr/tnt.png" group-title="TNT",TNT FHD
+http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXYl2X-tg2OWrOlaPw4wn_hI/ts
 #EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="MA | BOSTON | ABC WCVB" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/af/WCVB-TV_Logo.png/revision/latest/top-crop/width/220/height/220?cb=20131105002422" group-title="ABC",MA | BOSTON | ABC WCVB
 http://hardcoremedia.xyz:80/lmopnjpc/8418387696/9803
 #EXTINF:-1 tvg-id="ABC PITTSBURGH PA WTAE" tvg-name="PA | PITTSBURGH | ABC WTAE" tvg-logo="https://i.imgur.com/zPQAKkH.png" group-title="ABC",PA | PITTSBURGH | ABC WTAE
@@ -742,4 +791,5 @@ http://xxip25.top:8080/Abxc5k/363887/66243
 #EXTINF:-1 tvg-name="USA: AMC Thrillers" group-title="AMC",USA: AMC Thrillers
 http://xxip25.top:8080/Miami1/Miami100/66243
 #EXTINF:-1 tvg-name="USA: AMC Thrillers" group-title="AMC",USA: AMC Thrillers
+
 http://xxip25.top:8080/n2xCxU/098316/66243
