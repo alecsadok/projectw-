@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,MTV group-title="MTV"
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/129919
-#EXTINF:-1,US MTV group-title="MTV"
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
 http://hdhd.tk:80/giants56/giants56/299
-#EXTINF:-1,US MTV group-title="MTV"
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
 http://hdhd.tk:80/mickey123/mickey123/299
 #EXTINF:-1 tvg-id="" tvg-name="US: MTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/928b1bb2310329b7809241d92fc30061.png" group-title="MTV",US: MTV
 http://valorant.re:8080/LUCIAN@MOLENBEK/jXFpHS71WJ/541487
@@ -15,18 +15,21 @@ https://restream-live.realiptv.to:443/Bert123/Bert123/648958
 http://ultrax.online:8080/988993215tv/6un0h2/23976
 #EXTINF:-1,US: MTV HD group-title="MTV"
 http://ip96.uk:8080//live/Ghosia104/pathan104/291110.ts
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ FHD
+http://x2caverinhas.store:8080/Ralphdelgado/Ral663/1943
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ FHD¹" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD¹
 http://free-image-hosting.top:8080/11957753178/11957753/28776
 #EXTINF:-1 xui-id="468" tvg-id="124" tvg-name="GLOBO RJ FHD" tvg-logo="https://srv3.site:8443/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="GLOBO RJ",GLOBO RJ FHD
 https://srv3.site:8443/play/CwDiJrPbiRyM-agpD2cPwIkHvpLcFCuBFH0u8pY3plY/ts
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP UHD¹" tvg-logo="http://7logos.top/logos/globo4k.png" group-title="GLOBO SP",GLOBO SP UHD¹
 http://free-image-hosting.top:8080/11957753178/11957753/315113
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP FHD
+http://x2caverinhas.store:8080/Ralphdelgado/Ral663/62169
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD²" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD²
 http://free-image-hosting.top:8080/11957753178/11957753/18587
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD ᶜᴰᴺ²" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD ᶜᴰᴺ²
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO RJ",Globo RJ FHD
 http://ibo.playmove.org:8080/000876111/213156589090/1943
-http://free-image-hosting.top:8080/11957753178/11957753/64728
 #EXTINF:-1 xui-id="469" tvg-id="124" tvg-name="GLOBO RJ HD" tvg-logo="https://srv3.site:8443/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="GLOBO RJ",GLOBO RJ HD
 https://srv3.site:8443/play/CwDiJrPbiRyM-agpD2cPwGSX1GLbhRkQzb5yWxNh8oM/ts
 #EXTINF:-1 xui-id="18301" tvg-id="Globo 4k" tvg-name="REDE GLOBO RIO DE JANEIRO FHD" tvg-logo="https://i.imgur.com/REdhp2i.png" group-title="GLOBO RJ",REDE GLOBO RIO DE JANEIRO FHD
@@ -1458,5 +1461,3 @@ http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165555
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165556
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Comedy Central Stand-Up (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/givt8reIsYiBkRqFSgOH6ECOAQR.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Comedy Central Stand-Up (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165557
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165481
-
