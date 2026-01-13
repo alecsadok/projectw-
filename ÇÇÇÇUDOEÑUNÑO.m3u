@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/129919
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
@@ -1382,5 +1381,6 @@ http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165555
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165556
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - Comedy Central Stand-Up (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/givt8reIsYiBkRqFSgOH6ECOAQR.jpg" group-title="24/7",24/7 - Comedy Central Stand-Up (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165557
+
 
 
