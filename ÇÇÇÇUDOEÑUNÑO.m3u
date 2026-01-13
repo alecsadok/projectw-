@@ -13,7 +13,7 @@ https://restream-live.realiptv.to:443/Bert123/Bert123/3664
 https://restream-live.realiptv.to:443/Bert123/Bert123/648958
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
 http://ultrax.online:8080/988993215tv/6un0h2/23976
-#EXTINF:-1,US: MTV HD group-title="MTV"
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
 http://ip96.uk:8080//live/Ghosia104/pathan104/291110.ts
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ FHD
 http://x2caverinhas.store:8080/Ralphdelgado/Ral663/1943
@@ -1461,3 +1461,4 @@ http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165555
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165556
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Comedy Central Stand-Up (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/givt8reIsYiBkRqFSgOH6ECOAQR.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Comedy Central Stand-Up (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165557
+
