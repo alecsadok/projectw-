@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,MTV group-title="MTV"
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/129919
+#EXTINF:-1,US MTV group-title="MTV"
+http://hdhd.tk:80/giants56/giants56/299
+#EXTINF:-1,US MTV group-title="MTV"
+http://hdhd.tk:80/mickey123/mickey123/299
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/928b1bb2310329b7809241d92fc30061.png" group-title="MTV",US: MTV
+http://valorant.re:8080/LUCIAN@MOLENBEK/jXFpHS71WJ/541487
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="USA MTV East UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1a/MTV_Music.png" group-title="MTV",USA MTV East UHD
+https://restream-live.realiptv.to:443/Bert123/Bert123/3664
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="USA MTV East (SHD)" tvg-logo="" group-title="MTV",USA MTV East (SHD)
+https://restream-live.realiptv.to:443/Bert123/Bert123/648958
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
+http://ultrax.online:8080/988993215tv/6un0h2/23976
+#EXTINF:-1,US: MTV HD group-title="MTV"
+http://ip96.uk:8080//live/Ghosia104/pathan104/291110.ts
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ FHD¹" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD¹
 http://free-image-hosting.top:8080/11957753178/11957753/28776
 #EXTINF:-1 xui-id="468" tvg-id="124" tvg-name="GLOBO RJ FHD" tvg-logo="https://srv3.site:8443/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="GLOBO RJ",GLOBO RJ FHD
@@ -13,7 +29,6 @@ http://ibo.playmove.org:8080/000876111/213156589090/1943
 http://free-image-hosting.top:8080/11957753178/11957753/64728
 #EXTINF:-1 xui-id="469" tvg-id="124" tvg-name="GLOBO RJ HD" tvg-logo="https://srv3.site:8443/images/5eb9d3e6f748027282ee5d643f09d14d.jpg" group-title="GLOBO RJ",GLOBO RJ HD
 https://srv3.site:8443/play/CwDiJrPbiRyM-agpD2cPwGSX1GLbhRkQzb5yWxNh8oM/ts
-http://free-image-hosting.top:8080/11957753178/11957753/22169
 #EXTINF:-1 xui-id="18301" tvg-id="Globo 4k" tvg-name="REDE GLOBO RIO DE JANEIRO FHD" tvg-logo="https://i.imgur.com/REdhp2i.png" group-title="GLOBO RJ",REDE GLOBO RIO DE JANEIRO FHD
 http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXRZzFKmAgWAIO3qtQjJQV2I/ts
 #EXTINF:-1 xui-id="18302" tvg-id="Globo 4k" tvg-name="REDE GLOBO RIO DE JANEIRO HD" tvg-logo="https://i.imgur.com/REdhp2i.png" group-title="GLOBO RJ",REDE GLOBO RIO DE JANEIRO HD
@@ -1444,3 +1459,4 @@ http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165556
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Comedy Central Stand-Up (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/givt8reIsYiBkRqFSgOH6ECOAQR.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Comedy Central Stand-Up (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165557
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165481
+
