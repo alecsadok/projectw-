@@ -1,0 +1,809 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RJ FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5789
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RJ FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054724
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RJ FHD H265
+http://primevido.asia:80/EdelamarG24/EGomes@24/17299
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RJ HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/345
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RJ HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054723
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RIO BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RIO BR
+http://primevido.asia:80/EdelamarG24/EGomes@24/10205457
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RJ SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4860
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RJ SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054722
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/6283
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD BR
+http://primevido.asia:80/EdelamarG24/EGomes@24/10047306
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054706
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD H265
+http://primevido.asia:80/EdelamarG24/EGomes@24/17298
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/2821
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054705
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP BR
+http://primevido.asia:80/EdelamarG24/EGomes@24/10205456
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4913
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054704
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB MOSAICO FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262052
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO HD [P]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB MOSAICO HD [P]
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262123
+#EXTINF:-1 tvg-id="" tvg-name="BBB FHD 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB FHD 1
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262055
+#EXTINF:-1 tvg-id="" tvg-name="BBB HD 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB HD 1
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262056
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD [P]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB 1 HD [P]
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262127
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="" group-title="BBB 2026",BBB CAM 1
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262139
+#EXTINF:-1 tvg-id="" tvg-name="BBB FHD 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB FHD 2
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262053
+#EXTINF:-1 tvg-id="" tvg-name="BBB HD 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB HD 2
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262054
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD [P]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB 2 HD [P]
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262125
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 2
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262138
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 3 FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262057
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 3 HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262058
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 3
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262137
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 4 FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262059
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 4 HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262060
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 4
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262136
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 5 FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262061
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 5 HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262062
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 5
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262135
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 6 FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262063
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 6 HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262064
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 6
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262134
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 7 FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262065
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 7 HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262066
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 7
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262133
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 8 FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262067
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 8 HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262068
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 8
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262132
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 9 FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262069
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 9 HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262070
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 9
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262131
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 10 FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262071
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 10 HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262072
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 10
+http://primevido.asia:80/EdelamarG24/EGomes@24/10262130
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4801
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054758
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS FHD H265
+http://primevido.asia:80/EdelamarG24/EGomes@24/10027000
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5556
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054757
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS BR
+http://primevido.asia:80/EdelamarG24/EGomes@24/10205459
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/341
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9598
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054791
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4893
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054790
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA HD²
+http://primevido.asia:80/EdelamarG24/EGomes@24/6555
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/2829
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054789
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NORDESTE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5407
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NORDESTE FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054751
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NORDESTE FHD H265
+http://primevido.asia:80/EdelamarG24/EGomes@24/17275
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NORDESTE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5292
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NORDESTE HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054750
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NORDESTE BR
+http://primevido.asia:80/EdelamarG24/EGomes@24/10205458
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NORDESTE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5782
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NORDESTE SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054749
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CAMPINAS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CAMPINAS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9597
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CAMPINAS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CAMPINAS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054788
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CAMPINAS H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CAMPINAS H265
+http://primevido.asia:80/EdelamarG24/EGomes@24/10027001
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CAMPINAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CAMPINAS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5595
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CAMPINAS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CAMPINAS HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054787
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CAMPINAS HD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CAMPINAS HD²
+http://primevido.asia:80/EdelamarG24/EGomes@24/9002
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CAMPINAS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CAMPINAS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4864
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CAMPINAS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CAMPINAS SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054786
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV RIBEIRAO PRETO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV RIBEIRAO PRETO FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9824
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV RIBEIRÃO PRETO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV RIBEIRÃO PRETO FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054782
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV RIBEIRAO PRETO FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV RIBEIRAO PRETO FHD H265
+http://primevido.asia:80/EdelamarG24/EGomes@24/17273
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV RIBEIRAO PRETO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV RIBEIRAO PRETO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/6558
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV RIBEIRÃO PRETO HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV RIBEIRÃO PRETO HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054781
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV RIBEIRÃO PRETO SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV RIBEIRÃO PRETO SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054780
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV RIBEIRÃO PRETO SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV RIBEIRÃO PRETO SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4863
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV SAO CARLOS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV SAO CARLOS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050089
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CENTRAL SAO CARLOS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CENTRAL SAO CARLOS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054785
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV SAO CARLOS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV SAO CARLOS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050088
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CENTRAL SAO CARLOS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CENTRAL SAO CARLOS HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054784
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CENTRAL SAO CARLOS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CENTRAL SAO CARLOS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5549
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV CENTRAL SAO CARLOS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV CENTRAL SAO CARLOS SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054783
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="EPTV ARARAQUARA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV ARARAQUARA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/6557
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV DIARIO MOGI DAS CRUZES HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV DIARIO MOGI DAS CRUZES HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049608
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV DIARIO MOGI DAS CRUZES FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV DIARIO MOGI DAS CRUZES FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054685
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV DIARIO MOGI DAS CRUZES FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV DIARIO MOGI DAS CRUZES FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049607
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV DIARIO MOGI DAS CRUZES HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV DIARIO MOGI DAS CRUZES HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054684
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV DIARIO MOGI DAS CRUZES SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV DIARIO MOGI DAS CRUZES SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054683
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM S. J. RIO PRETO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM S. J. RIO PRETO FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9586
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM S. J. RIO PRETO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM S. J. RIO PRETO FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054646
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM S. J. RIO PRETO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM S. J. RIO PRETO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9599
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM S. J. RIO PRETO HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM S. J. RIO PRETO HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054645
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM S. J. RIO PRETO SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM S. J. RIO PRETO SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4856
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM S. J. RIO PRETO SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM S. J. RIO PRETO SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054644
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM ITAPETININGA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM ITAPETININGA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049102
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM ITAPETININGA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM ITAPETININGA FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054649
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM ITAPETININGA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM ITAPETININGA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049101
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM ITAPETININGA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM ITAPETININGA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054648
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM ITAPETININGA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM ITAPETININGA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049100
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM ITAPETININGA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM ITAPETININGA SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054647
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM BAURU FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM BAURU FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050085
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM BAURU FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM BAURU FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054652
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM BAURU HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM BAURU HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054651
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM BAURU HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM BAURU HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050084
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM BAURU SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM BAURU SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4857
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM BAURU SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM BAURU SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054650
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SOROCABA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM SOROCABA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050087
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SOROCABA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM SOROCABA FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054643
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SOROCABA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM SOROCABA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050086
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SOROCABA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM SOROCABA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054642
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SOROCABA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM SOROCABA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/317
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SOROCABA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TEM SOROCABA SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054641
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA TAUBATE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA TAUBATE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049117
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA TAUBATE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA TAUBATE FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054634
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA TAUBATE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA TAUBATE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049116
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA TAUBATE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA TAUBATE HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054633
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA TAUBATE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA TAUBATE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049115
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA TAUBATE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA TAUBATE SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054632
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV FRONTEIRA P. PRUDENTE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV FRONTEIRA P. PRUDENTE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049108
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV FRONTEIRA P. PRUDENTE  FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV FRONTEIRA P. PRUDENTE  FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054682
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV FRONTEIRA P. PRUDENTE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV FRONTEIRA P. PRUDENTE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049107
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV FRONTEIRA P. PRUDENTE  HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV FRONTEIRA P. PRUDENTE  HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054681
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV FRONTEIRA P. PRUDENTE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV FRONTEIRA P. PRUDENTE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049106
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV FRONTEIRA P. PRUDENTE  SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV FRONTEIRA P. PRUDENTE  SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054680
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC BLUMENAU FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC BLUMENAU FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11228
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV BLUMENAU FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV BLUMENAU FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054748
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC BLUMENAU HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC BLUMENAU HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11227
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV BLUMENAU HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV BLUMENAU HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054747
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="TV NSC BLUMENAU" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",TV NSC BLUMENAU
+http://primevido.asia:80/EdelamarG24/EGomes@24/10091097
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV BLUMENAU SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV BLUMENAU SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054746
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC BLUMENAU SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC BLUMENAU SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11226
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC TV CHAPECO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CHAPECO FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054745
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC TV CHAPECO HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CHAPECO HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054744
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC TV CHAPECO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CHAPECO
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049032
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC TV CHAPECO SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CHAPECO SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054743
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC TV CHAPECO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CHAPECO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049031
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC TV CHAPECO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CHAPECO FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049030
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV CRICIUMA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CRICIUMA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049050
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV CRICIUMA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CRICIUMA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049049
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV CRICIUMA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CRICIUMA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049048
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV CENTRO-OESTE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CENTRO-OESTE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049047
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV CENTRO-OESTE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CENTRO-OESTE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049046
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="NSC TV CENTRO-OESTE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC TV CENTRO-OESTE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049045
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NSC FLORIANOPOLIS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9596
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NSC FLORIANOPOLIS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054742
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NSC FLORIANOPOLIS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/6269
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NSC FLORIANOPOLIS HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054741
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NSC FLORIANOPOLIS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/6559
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB NSC FLORIANOPOLIS SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054740
+#EXTINF:-1 tvg-id="Globonscjoinville.br " tvg-name="NSC JOINVILLE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC JOINVILLE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11222
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC JOINVILLE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC JOINVILLE FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054739
+#EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="NSC JOINVILLE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC JOINVILLE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11221
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC JOINVILLE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC JOINVILLE HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054738
+#EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="NSC JOINVILLE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC JOINVILLE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11220
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="NSC JOINVILLE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",NSC JOINVILLE SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054737
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RBS PORTO ALEGRE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9595
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RBS PORTO ALEGRE FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054730
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RBS PORTO ALEGRE FHD H265
+http://primevido.asia:80/EdelamarG24/EGomes@24/10027002
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RBS PORTO ALEGRE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/2777
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RBS PORTO ALEGRE HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054729
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RBS PORTO ALEGRE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/321
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB RBS PORTO ALEGRE SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054728
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TRIBUNA SANTOS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TRIBUNA SANTOS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050083
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TRIBUNA SANTOS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TRIBUNA SANTOS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054640
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TRIBUNA SANTOS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TRIBUNA SANTOS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050082
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TRIBUNA SANTOS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TRIBUNA SANTOS HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054639
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TRIBUNA SANTOS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TRIBUNA SANTOS SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054638
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TRIBUNA SANTOS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV TRIBUNA SANTOS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/4859
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA S J CAMPOS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA S J CAMPOS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/6552
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="TV RIO SUL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV RIO SUL FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11213
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="TV RIO SUL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV RIO SUL FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054658
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="TV RIO SUL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV RIO SUL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11212
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="TV RIO SUL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV RIO SUL HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054657
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="TV RIO SUL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV RIO SUL SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054656
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="TV RIO SUL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV RIO SUL SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11211
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="INTER TV ALTO LITORAL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV ALTO LITORAL FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11240
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="INTER TV ALTO LITORAL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV ALTO LITORAL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11239
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="INTER TV ALTO LITORAL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV ALTO LITORAL SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11238
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="INTER TV ALTO LITORAL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV ALTO LITORAL FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054776
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="INTER TV ALTO LITORAL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV ALTO LITORAL HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054775
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="INTER TV ALTO LITORAL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV ALTO LITORAL SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054774
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="INTER TV SERRA MAR FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV SERRA MAR FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11231
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="INTER TV SERRA MAR HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV SERRA MAR HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11230
+#EXTINF:-1 tvg-id="Intertvserramar.br " tvg-name="INTER TV SERRA MAR SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV SERRA MAR SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11229
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="INTER TV SERRA MAR FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV SERRA MAR FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054761
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="INTER TV SERRA MAR HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV SERRA MAR HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054760
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="INTER TV SERRA MAR SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",INTER TV SERRA MAR SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054759
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA VITORIA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10048874
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA VITORIA FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054673
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITÓRIA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA VITÓRIA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10048873
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA VITORIA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054672
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA VITORIA SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054671
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITÓRIA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA VITÓRIA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9516
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="TV GAZETA SUL ES FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GAZETA SUL ES FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9515
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="TV GAZETA SUL ES HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GAZETA SUL ES HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9514
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="INTER TV CABUGI NATAL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",INTER TV CABUGI NATAL FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054770
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="INTER TV CABUGI NATAL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",INTER TV CABUGI NATAL HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054769
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="INTER TV CABUGI NATAL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",INTER TV CABUGI NATAL SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054768
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="INTER TV CABUGI NATAL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",INTER TV CABUGI NATAL SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5780
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CABO BRANCO FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11216
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CABO BRANCO FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054694
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CABO BRANCO HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054693
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CABO BRANCO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11215
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CABO BRANCO SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11214
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV BAHIA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9593
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV BAHIA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5853
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV BAHIA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5777
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV BAHIA FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054697
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV BAHIA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054696
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV BAHIA SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054695
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SANTA CRUZ FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SANTA CRUZ FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11210
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SANTA CRUZ HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SANTA CRUZ HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11209
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SANTA CRUZ SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SANTA CRUZ SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11208
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE SAO LUIS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE SAO LUIS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9592
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE SAO LUIS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE SAO LUIS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054664
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE SAO LUIS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE SAO LUIS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9591
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE SAO LUIS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE SAO LUIS HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054663
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE SAO LUIS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE SAO LUIS SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054662
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE SAO LUIS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE SAO LUIS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9590
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV SERGIPE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9512
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV SERGIPE FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054655
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV SERGIPE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9511
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV SERGIPE HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054654
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV SERGIPE SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054653
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV SERGIPE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9513
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA ALAGOAS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9655
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA ALAGOAS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054679
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA ALAGOAS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9654
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA ALAGOAS HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054678
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA ALAGOAS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9656
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9518
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9517
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054687
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9519
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="TV MORENA CAMPO GRANDE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA CAMPO GRANDE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9589
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV MORENA FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054661
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="TV MORENA CAMPO GRANDE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA CAMPO GRANDE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9588
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV MORENA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054660
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="TV MORENA CAMPO GRANDE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA CAMPO GRANDE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/9587
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="TV GAZETA SUL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GAZETA SUL FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049053
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="TV GAZETA SUL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GAZETA SUL FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054676
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="TV GAZETA SUL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GAZETA SUL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049052
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="TV GAZETA SUL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GAZETA SUL HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054675
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="TV GAZETA SUL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GAZETA SUL SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054674
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="TV GAZETA SUL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GAZETA SUL SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049051
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV ASA BRANCA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ASA BRANCA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049038
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV ASA BRANCA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ASA BRANCA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049037
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV ASA BRANCA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ASA BRANCA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049036
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV ASA BRANCA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ASA BRANCA FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054700
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV ASA BRANCA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ASA BRANCA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054699
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV ASA BRANCA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ASA BRANCA SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054698
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CENTRO AMERICA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049123
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CENTRO AMERICA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049122
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CENTRO AMERICA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/6564
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CENTRO AMERICA FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054691
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CENTRO AMERICA HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054690
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CENTRO AMERICA SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054689
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA MANAUS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA MANAUS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049119
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB REDE AMAZONICA MANAUS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054727
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA MANAUS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA MANAUS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049118
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB REDE AMAZONICA MANAUS HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054726
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB REDE AMAZONICA MANAUS SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054725
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA BOA VISTA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049105
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA BOA VISTA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049104
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA BOA VISTA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049103
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA PORTO VELHO FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049111
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA PORTO VELHO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049110
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA PORTO VELHO SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049109
+#EXTINF:-1 tvg-id="RedeamazonicaRioBranco.br" tvg-name="GB TV REDE AMAZONICA RIO BRANCO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA RIO BRANCO
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049610
+#EXTINF:-1 tvg-id="RedeamazonicaRioBranco.br" tvg-name="GB TV REDE AMAZONICA RIO BRANCO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA RIO BRANCO FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049609
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV LIBERAL BELEM FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049121
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV LIBERAL BELEM FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054667
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV LIBERAL BELEM HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049120
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV LIBERAL BELEM HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054666
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV LIBERAL BELEM SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054665
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV LIBERAL BELEM SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5778
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV VERDES MARES FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049125
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV VERDES MARES FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054631
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV VERDES MARES FHD H265
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054630
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV VERDES MARES HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10049124
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV VERDES MARES HD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054629
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV VERDES MARES FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/11250
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV VERDES MARES SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/5776
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV VERDES MARES SD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054628
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV GRANDE RIO PETROLINA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV GRANDE RIO PETROLINA
+http://primevido.asia:80/EdelamarG24/EGomes@24/19487
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="RBS TV PASSO FUNDO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RBS TV PASSO FUNDO FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050095
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="RBS TV PASSO FUNDO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RBS TV PASSO FUNDO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050094
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="RBS TV PASSO FUNDO SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RBS TV PASSO FUNDO SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050093
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="RPC LONDRINA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RPC LONDRINA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050092
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="RPC LONDRINA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RPC LONDRINA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050091
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="RPC LONDRINA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RPC LONDRINA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050090
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA S. J CAMPOS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA S. J CAMPOS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050081
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA S J CAMPOS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA S J CAMPOS FHD*
+http://primevido.asia:80/EdelamarG24/EGomes@24/10054637
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV VANGUARDA S. J CAMPOS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV VANGUARDA S. J CAMPOS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050080
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="TV VERDES MARES CARIRI FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV VERDES MARES CARIRI FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050079
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="TV VERDES MARES CARIRI HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV VERDES MARES CARIRI HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050078
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="TV VERDES MARES CARIRI SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV VERDES MARES CARIRI SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050077
+#EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA MACAPA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050076
+#EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA MACAPA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050075
+#EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA MACAPA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050074
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="RPC CASCAVEL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RPC CASCAVEL FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050073
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="RPC CASCAVEL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RPC CASCAVEL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050072
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="RPC CASCAVEL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUL",RPC CASCAVEL SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050071
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="INTER TV CABUGI NATAL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",INTER TV CABUGI NATAL FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050070
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="INTER TV CABUGI NATAL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",INTER TV CABUGI NATAL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050069
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE COCAIS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE COCAIS FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050068
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE COCAIS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE COCAIS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050067
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="TV MIRANTE COCAIS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE COCAIS SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050066
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="TV INTEGRACAO UBERABA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV INTEGRACAO UBERABA FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050065
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="TV INTEGRACAO UBERABA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV INTEGRACAO UBERABA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050064
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="TV INTEGRACAO UBERABA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",TV INTEGRACAO UBERABA SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050063
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SUBAE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SUBAE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050062
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SUBAE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SUBAE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050061
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SUBAE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SUBAE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050060
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SUDOESTE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SUDOESTE FHD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050059
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SUDOESTE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SUDOESTE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050058
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV SUDOESTE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SUDOESTE SD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10050057
+#EXTINF:-1 tvg-id="TVGlobo.us" tvg-name="GB USA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB USA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/6500
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA CORUMBA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA CORUMBA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189168
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA CORUMBA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA CORUMBA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189167
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA PONTA PORA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA PONTA PORA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189166
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA PONTA PORA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA PONTA PORA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189165
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO AMERICA NORTE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV CENTRO AMERICA NORTE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189164
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO AMERICA NORTE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV CENTRO AMERICA NORTE
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189163
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO AMERICA SUL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV CENTRO AMERICA SUL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189162
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO AMERICA SUL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV CENTRO AMERICA SUL
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189161
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO AMERICA TANGARA DA SERRA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV CENTRO AMERICA TANGARA DA SERRA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189160
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO AMERICA TANGARA DA SERRA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV CENTRO AMERICA TANGARA DA SERRA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189159
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ANAPOLIS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA ANAPOLIS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189158
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ANAPOLIS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA ANAPOLIS
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189157
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA CATALAO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA CATALAO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189156
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA CATALAO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA CATALAO
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189155
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ITUMBIARA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA ITUMBIARA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189154
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ITUMBIARA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA ITUMBIARA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189153
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA JATAI HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA JATAI HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189152
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA JATAI" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA JATAI
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189151
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA LUZIANIA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA LUZIANIA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189150
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA LUZIANIA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA LUZIANIA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189149
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA PORANGATU HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA PORANGATU HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189148
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA PORANGATU" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA PORANGATU
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189147
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA RIO VERDE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA RIO VERDE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189146
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA RIO VERDE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV ANHANGUERA RIO VERDE
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189145
+#EXTINF:-1 tvg-id="" tvg-name="TV SAO FRANCISCO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SAO FRANCISCO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189184
+#EXTINF:-1 tvg-id="" tvg-name="TV SAO FRANCISCO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV SAO FRANCISCO
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189183
+#EXTINF:-1 tvg-id="" tvg-name="TV OESTE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV OESTE HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189182
+#EXTINF:-1 tvg-id="" tvg-name="TV OESTE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV OESTE
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189181
+#EXTINF:-1 tvg-id="" tvg-name="TV GRANDE RIO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV GRANDE RIO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189180
+#EXTINF:-1 tvg-id="" tvg-name="TV GRANDE RIO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV GRANDE RIO
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189179
+#EXTINF:-1 tvg-id="" tvg-name="TV PARAIBA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV PARAIBA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189178
+#EXTINF:-1 tvg-id="" tvg-name="TV PARAIBA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV PARAIBA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189177
+#EXTINF:-1 tvg-id="" tvg-name="INTER TV COSTA BRANCA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",INTER TV COSTA BRANCA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189176
+#EXTINF:-1 tvg-id="" tvg-name="INTER TV COSTA BRANCA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",INTER TV COSTA BRANCA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189175
+#EXTINF:-1 tvg-id="" tvg-name="TV ALVORADA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ALVORADA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189174
+#EXTINF:-1 tvg-id="" tvg-name="TV ALVORADA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ALVORADA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189173
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRANTE IMPERATRIZ HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE IMPERATRIZ HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189172
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRANTE IMPERATRIZ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE IMPERATRIZ
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189171
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRANTE BALSAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE BALSAS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189170
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRANTE BALSAS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE BALSAS
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189169
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA GURUPI HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV ANHANGUERA GURUPI HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189218
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA GURUPI" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV ANHANGUERA GURUPI
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189217
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL ALTAMIRA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL ALTAMIRA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189216
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL ALTAMRIA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL ALTAMRIA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189215
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL CASTANHAL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL CASTANHAL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189214
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL CASTANHAL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL CASTANHAL
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189213
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL MARABA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL MARABA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189212
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL MARABA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL MARABA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189211
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL PARAUAPEBAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL PARAUAPEBAS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189210
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL PARAUAPEBAS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL PARAUAPEBAS
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189209
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL PARAGOMINAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL PARAGOMINAS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189208
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL PARAGOMINAS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL PARAGOMINAS
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189207
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL REDENCAO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL REDENCAO HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189206
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL RENDENCAO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV LIBERAL RENDENCAO
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189205
+#EXTINF:-1 tvg-id="" tvg-name="TV TAPAJOS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV TAPAJOS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189204
+#EXTINF:-1 tvg-id="" tvg-name="TV TAPAJOS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",TV TAPAJOS
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189203
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA CRUZEIRO DO SUL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA CRUZEIRO DO SUL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189202
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA COARI HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA COARI HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189201
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA COARI" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA COARI
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189200
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA HUMAITA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA HUMAITA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189199
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA HUMAITA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA HUMAITA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189198
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA MANACAPURU HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA MANACAPURU HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189197
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA ITACOTIARA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA ITACOTIARA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189196
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA ITACOTIARA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA ITACOTIARA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189195
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA PARINTINS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA PARINTINS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189194
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA PARINTINS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA PARINTINS
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189193
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA ARIQUEMES HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA ARIQUEMES HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189192
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA ARIQUEMES" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA ARIQUEMES
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189191
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA CACOAL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA CACOAL HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189190
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA JI-PARANA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA JI-PARANA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189189
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA JI-PARANA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA JI-PARANA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189188
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA VILHENA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA VILHENA HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189187
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA VILHENA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA VILHENA
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189186
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA RORAINOPOLIS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA RORAINOPOLIS HD
+http://primevido.asia:80/EdelamarG24/EGomes@24/10189185
