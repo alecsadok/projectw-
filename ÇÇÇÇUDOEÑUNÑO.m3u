@@ -15,7 +15,7 @@ https://restream-live.realiptv.to:443/Bert123/Bert123/648958
 http://ultrax.online:8080/988993215tv/6un0h2/23976
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
 http://ip96.uk:8080//live/Ghosia104/pathan104/291110.ts
-#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ FHD
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO RJ",Globo RJ FHD
 http://x2caverinhas.store:8080/Ralphdelgado/Ral663/1943
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ FHD¹" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD¹
 http://free-image-hosting.top:8080/11957753178/11957753/28776
@@ -23,7 +23,7 @@ http://free-image-hosting.top:8080/11957753178/11957753/28776
 https://srv3.site:8443/play/CwDiJrPbiRyM-agpD2cPwIkHvpLcFCuBFH0u8pY3plY/ts
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP UHD¹" tvg-logo="http://7logos.top/logos/globo4k.png" group-title="GLOBO SP",GLOBO SP UHD¹
 http://free-image-hosting.top:8080/11957753178/11957753/315113
-#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP FHD
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SP",Globo SP FHD
 http://x2caverinhas.store:8080/Ralphdelgado/Ral663/62169
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD²" tvg-logo="http://7logos.top/logos/globofhd.png" group-title="GLOBO RJ",GLOBO RJ FHD²
 http://free-image-hosting.top:8080/11957753178/11957753/18587
@@ -53,11 +53,11 @@ http://ibo.playmove.org:8080/000876111/213156589090/2168
 http://free-image-hosting.top:8080/11957753178/11957753/275364
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP FHD
 http://ibo.playmove.org:8080/000876111/213156589090/1878
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS 4K¹" tvg-logo="http://7logos.top/logos/globonews4k.png" group-title="BAND",GLOBO NEWS 4K¹
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS 4K¹" tvg-logo="http://7logos.top/logos/globonews4k.png" group-title="GLOBO NEWS",GLOBO NEWS 4K¹
 http://free-image-hosting.top:8080/11957753178/11957753/275371
-#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="Globo News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="Globo News",Globo News FHD
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="Globo News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="GLOBO NEWS",Globo News FHD
 http://ibo.playmove.org:8080/000876111/213156589090/1888
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons (M)(720)" tvg-logo="" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpsons (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons (M)(720)" tvg-logo="" group-title="24/7",24/7 Los Simpsons (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162913
 #EXTINF:-1 tvg-id="" tvg-name="ARG - A24 (i)(720)" tvg-logo="https://i.postimg.cc/9fMZGbRp/Proyecto-X-Argentina.png" group-title="ARGENTINA",ARG - A24 (i)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/157616
@@ -904,561 +904,473 @@ http://xxip25.top:8080/Miami1/Miami100/18925
 http://xxip25.top:8080/n2xCxU/098316/18925
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="USA | AMC (EAST)" tvg-logo="https://i.ibb.co/vQHJNXj/amc.png" group-title="AMC",USA | AMC (EAST)
 http://hardcoremedia.xyz:80/lmopnjpc/8418387696/11652
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito (M)(720)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 Chespirito (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito (M)(720)" tvg-logo="" group-title="24/7",24/7 Chespirito (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162820
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje el Perro Cobarde (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Coraje el Perro Cobarde (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje el Perro Cobarde (M)(720)" tvg-logo="" group-title="24/7",24/7 Coraje el Perro Cobarde (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162821
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Dinosaurios (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios (M)(720)" tvg-logo="" group-title="24/7",24/7 Dinosaurios (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162822
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hey Arnold (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold (M)(720)" tvg-logo="" group-title="24/7",24/7 Hey Arnold (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162823
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pajaro Loco (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Pajaro Loco (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pajaro Loco (M)(720)" tvg-logo="" group-title="24/7",24/7 El Pajaro Loco (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162824
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FAMILY GUY (M)(720)" tvg-logo="" group-title="24/7 COMEDIA ANIMADA",24/7 FAMILY GUY (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAMILY GUY (M)(720)" tvg-logo="" group-title="24/7",24/7 FAMILY GUY (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162828
-#EXTINF:-1 tvg-id="" tvg-name="24/7 RANMA (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 RANMA (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RANMA (M)(720)" tvg-logo="" group-title="24/7",24/7 RANMA (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162829
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Two And a Half Men (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Two And a Half Men (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Two And a Half Men (M)(720)" tvg-logo="" group-title="24/7",24/7 Two And a Half Men (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162830
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SAKURA (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 SAKURA (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAKURA (M)(720)" tvg-logo="" group-title="24/7",24/7 SAKURA (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162831
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MR. BEAN (M)(720)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 MR. BEAN (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR. BEAN (M)(720)" tvg-logo="" group-title="24/7",24/7 MR. BEAN (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162832
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CHAPULIN COLORADO (M)(720)" tvg-logo="" group-title="24/7 COMEDIA ANIMADA",24/7 CHAPULIN COLORADO (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHAPULIN COLORADO (M)(720)" tvg-logo="" group-title="24/7",24/7 CHAPULIN COLORADO (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162833
-#EXTINF:-1 tvg-id="" tvg-name="24/7 alf (M)(720)" tvg-logo="" group-title="24/7 RETRO",24/7 alf (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 alf (M)(720)" tvg-logo="" group-title="24/7",24/7 alf (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162835
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Star Trek (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek (M)(720)" tvg-logo="" group-title="24/7",24/7 Star Trek (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162836
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman (M)(720)" tvg-logo="" group-title="24/7 RETRO",24/7 Batman (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman (M)(720)" tvg-logo="" group-title="24/7",24/7 Batman (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162837
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIG BANG THEORY SERIE COMPLETA TEMPORADA 7 - 12 (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 THE BIG BANG THEORY SERIE COMPLETA TEMPORADA 7 - 12 (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIG BANG THEORY SERIE COMPLETA TEMPORADA 7 - 12 (M)(720)" tvg-logo="" group-title="24/7",24/7 THE BIG BANG THEORY SERIE COMPLETA TEMPORADA 7 - 12 (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162838
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIG BANG THEORY SERIE COMPLETA TEMPORADA 1 - 6 (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 THE BIG BANG THEORY SERIE COMPLETA TEMPORADA 1 - 6 (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIG BANG THEORY SERIE COMPLETA TEMPORADA 1 - 6 (M)(720)" tvg-logo="" group-title="24/7",24/7 THE BIG BANG THEORY SERIE COMPLETA TEMPORADA 1 - 6 (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162839
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS (M)(720)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 CANTINFLAS (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS (M)(720)" tvg-logo="" group-title="24/7",24/7 CANTINFLAS (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162842
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 The Big Bang Theory (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (M)(720)" tvg-logo="" group-title="24/7",24/7 The Big Bang Theory (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162843
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 CABALLEROS DEL ZODIACO (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO (M)(720)" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162844
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Tom y Jerry (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry (M)(720)" tvg-logo="" group-title="24/7",24/7 Tom y Jerry (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162845
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Doraemon (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (M)(720)" tvg-logo="" group-title="24/7",24/7 Doraemon (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162846
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Smallville (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville (M)(720)" tvg-logo="" group-title="24/7",24/7 Smallville (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162847
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Super Campeones (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (M)(720)" tvg-logo="" group-title="24/7",24/7 Super Campeones (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162848
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby Doo (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Scooby Doo (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby Doo (M)(720)" tvg-logo="" group-title="24/7",24/7 Scooby Doo (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162849
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Samurai X (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Samurai X (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Samurai X (M)(720)" tvg-logo="" group-title="24/7",24/7 Samurai X (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162850
-#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 POKEMON (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON (M)(720)" tvg-logo="" group-title="24/7",24/7 POKEMON (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162851
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 One Punch Man (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7",24/7 One Punch Man (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162852
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (M)(720)" tvg-logo="" group-title="24/7",24/7 Yu-Gi-Oh (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162853
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Los Picapiedra (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7",24/7 Los Picapiedra (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162854
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Naruto (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (M)(720)" tvg-logo="" group-title="24/7",24/7 Naruto (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162855
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Looney Tunes (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes (M)(720)" tvg-logo="" group-title="24/7",24/7 Looney Tunes (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162856
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principel del Rap (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 El Principel del Rap (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principel del Rap (M)(720)" tvg-logo="" group-title="24/7",24/7 El Principel del Rap (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162857
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh! (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Yu-Gi-Oh! (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh! (M)(720)" tvg-logo="" group-title="24/7",24/7 Yu-Gi-Oh! (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162868
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Animaniacs (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs (M)(720)" tvg-logo="" group-title="24/7",24/7 Animaniacs (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162869
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Gallo Claudio (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Gallo Claudio (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Gallo Claudio (M)(720)" tvg-logo="" group-title="24/7",24/7 El Gallo Claudio (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162872
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Los Picapiedra (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7",24/7 Los Picapiedra (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162873
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 One Punch Man (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7",24/7 One Punch Man (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162875
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Pinky y Cerebro (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro (M)(720)" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162876
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TrollHunters (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 TrollHunters (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TrollHunters (M)(720)" tvg-logo="" group-title="24/7",24/7 TrollHunters (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162878
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh! (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Yu-Gi-Oh! (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh! (M)(720)" tvg-logo="" group-title="24/7",24/7 Yu-Gi-Oh! (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162879
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DR House (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 DR House (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DR House (M)(720)" tvg-logo="" group-title="24/7",24/7 DR House (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162881
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chavo del 8 (M)(720)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 Chavo del 8 (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chavo del 8 (M)(720)" tvg-logo="" group-title="24/7",24/7 Chavo del 8 (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162882
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chispirito (M)(720)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 Chispirito (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chispirito (M)(720)" tvg-logo="" group-title="24/7",24/7 Chispirito (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162883
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (M)(720)" tvg-logo="" group-title="24/7 RETRO",24/7 Alf (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (M)(720)" tvg-logo="" group-title="24/7",24/7 Alf (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162884
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaciones (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Animaciones (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaciones (M)(720)" tvg-logo="" group-title="24/7",24/7 Animaciones (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162885
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Bob Esponja (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja (M)(720)" tvg-logo="" group-title="24/7",24/7 Bob Esponja (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162888
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BreakingBed (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 BreakingBed (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BreakingBed (M)(720)" tvg-logo="" group-title="24/7",24/7 BreakingBed (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162889
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje Perro Cobarde (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Coraje Perro Cobarde (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje Perro Cobarde (M)(720)" tvg-logo="" group-title="24/7",24/7 Coraje Perro Cobarde (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162890
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Dinosaurios (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios (M)(720)" tvg-logo="" group-title="24/7",24/7 Dinosaurios (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162891
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DraginBall (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 DraginBall (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DraginBall (M)(720)" tvg-logo="" group-title="24/7",24/7 DraginBall (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162893
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon BallGT (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Dragon BallGT (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon BallGT (M)(720)" tvg-logo="" group-title="24/7",24/7 Dragon BallGT (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162894
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Dragon Ball Super (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (M)(720)" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162895
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragin Ball Z (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Dragin Ball Z (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragin Ball Z (M)(720)" tvg-logo="" group-title="24/7",24/7 Dragin Ball Z (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162896
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chapulin Colorado (M)(720)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 Chapulin Colorado (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chapulin Colorado (M)(720)" tvg-logo="" group-title="24/7",24/7 Chapulin Colorado (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162897
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CorreCamino (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 CorreCamino (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CorreCamino (M)(720)" tvg-logo="" group-title="24/7",24/7 CorreCamino (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162898
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Principe de Bel-air (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Principe de Bel-air (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Principe de Bel-air (M)(720)" tvg-logo="" group-title="24/7",24/7 Principe de Bel-air (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162899
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 One Punch Man (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man (M)(720)" tvg-logo="" group-title="24/7",24/7 One Punch Man (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162900
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Elfen Lied (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Elfen Lied (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Elfen Lied (M)(720)" tvg-logo="" group-title="24/7",24/7 Elfen Lied (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162901
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Family Guy (M)(720)" tvg-logo="" group-title="24/7 COMEDIA ANIMADA",24/7 Family Guy (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Family Guy (M)(720)" tvg-logo="" group-title="24/7",24/7 Family Guy (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162902
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Game of Thrones HD (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Game of Thrones HD (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Game of Thrones HD (M)(720)" tvg-logo="" group-title="24/7",24/7 Game of Thrones HD (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162903
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold! (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hey Arnold! (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold! (M)(720)" tvg-logo="" group-title="24/7",24/7 Hey Arnold! (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162904
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de Aventura (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hora de Aventura (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de Aventura (M)(720)" tvg-logo="" group-title="24/7",24/7 Hora de Aventura (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162905
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kenan & Kel (M)(720)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 Kenan & Kel (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kenan & Kel (M)(720)" tvg-logo="" group-title="24/7",24/7 Kenan & Kel (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162906
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 La casa de papel (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel (M)(720)" tvg-logo="" group-title="24/7",24/7 La casa de papel (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162907
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Tom Sawyer (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Las aventuras de Tom Sawyer (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Tom Sawyer (M)(720)" tvg-logo="" group-title="24/7",24/7 Las aventuras de Tom Sawyer (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162909
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Looney Tunes (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes (M)(720)" tvg-logo="" group-title="24/7",24/7 Looney Tunes (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162910
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Los Picapiedra (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (M)(720)" tvg-logo="" group-title="24/7",24/7 Los Picapiedra (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162912
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Naruto (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (M)(720)" tvg-logo="" group-title="24/7",24/7 Naruto (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162914
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippuden (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Naruto Shippuden (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippuden (M)(720)" tvg-logo="" group-title="24/7",24/7 Naruto Shippuden (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162915
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Pinky y Cerebro (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro (M)(720)" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162932
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Súper Campeones (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Súper Campeones (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Súper Campeones (M)(720)" tvg-logo="" group-title="24/7",24/7 Súper Campeones (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162936
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 The Big Bang Theory (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (M)(720)" tvg-logo="" group-title="24/7",24/7 The Big Bang Theory (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162937
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Un Show Más (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Un Show Más (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Un Show Más (M)(720)" tvg-logo="" group-title="24/7",24/7 Un Show Más (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162938
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Animaniacs [Completo] (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs [Completo] (M)(720)" tvg-logo="" group-title="24/7",24/7 Animaniacs [Completo] (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162939
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Barón Rojo (M)(720)" tvg-logo="" group-title="24/7 RETRO",24/7 Barón Rojo (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Barón Rojo (M)(720)" tvg-logo="" group-title="24/7",24/7 Barón Rojo (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162940
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad [Completo] (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Breaking Bad [Completo] (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad [Completo] (M)(720)" tvg-logo="" group-title="24/7",24/7 Breaking Bad [Completo] (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162941
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Dinosaurios [Completo] (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios [Completo] (M)(720)" tvg-logo="" group-title="24/7",24/7 Dinosaurios [Completo] (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162943
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Doug (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Doug (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doug (M)(720)" tvg-logo="" group-title="24/7",24/7 Doug (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162944
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ed, Edd y Eddy (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Ed, Edd y Eddy (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ed, Edd y Eddy (M)(720)" tvg-logo="" group-title="24/7",24/7 Ed, Edd y Eddy (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162946
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Coyote y el Correcaminos [Completo] (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos [Completo] (M)(720)" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos [Completo] (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162947
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Laboratorio de Dexter [1 - 4T] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Laboratorio de Dexter [1 - 4T] (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Laboratorio de Dexter [1 - 4T] (M)(720)" tvg-logo="" group-title="24/7",24/7 El Laboratorio de Dexter [1 - 4T] (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162948
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El mentalista (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 El mentalista (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El mentalista (M)(720)" tvg-logo="" group-title="24/7",24/7 El mentalista (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162949
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pato Darkwing (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 El Pato Darkwing (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pato Darkwing (M)(720)" tvg-logo="" group-title="24/7",24/7 El Pato Darkwing (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162950
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Elementary (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Elementary (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Elementary (M)(720)" tvg-logo="" group-title="24/7",24/7 Elementary (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162951
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Friends (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends (M)(720)" tvg-logo="" group-title="24/7",24/7 Friends (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162952
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Game of Thrones SD (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Game of Thrones SD (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Game of Thrones SD (M)(720)" tvg-logo="" group-title="24/7",24/7 Game of Thrones SD (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162953
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Garfield y sus amigos (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Garfield y sus amigos (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Garfield y sus amigos (M)(720)" tvg-logo="" group-title="24/7",24/7 Garfield y sus amigos (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162954
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Happy Tree Friends (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends (M)(720)" tvg-logo="" group-title="24/7",24/7 Happy Tree Friends (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162955
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold! [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hey Arnold! [Completo] (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold! [Completo] (M)(720)" tvg-logo="" group-title="24/7",24/7 Hey Arnold! [Completo] (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162956
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de aventura (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Hora de aventura (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora de aventura (M)(720)" tvg-logo="" group-title="24/7",24/7 Hora de aventura (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162957
-#EXTINF:-1 tvg-id="" tvg-name="24/7 House of Cards (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 House of Cards (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 House of Cards (M)(720)" tvg-logo="" group-title="24/7",24/7 House of Cards (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162958
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hunter x Hunter (M)(720)" tvg-logo="" group-title="24/7 ANIME",24/7 Hunter x Hunter (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hunter x Hunter (M)(720)" tvg-logo="" group-title="24/7",24/7 Hunter x Hunter (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162959
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Johnny Bravo (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo (M)(720)" tvg-logo="" group-title="24/7",24/7 Johnny Bravo (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162960
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa Show (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La pantera rosa Show (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa Show (M)(720)" tvg-logo="" group-title="24/7",24/7 La pantera rosa Show (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162962
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa y sus hijos (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La pantera rosa y sus hijos (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa y sus hijos (M)(720)" tvg-logo="" group-title="24/7",24/7 La pantera rosa y sus hijos (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162963
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa [Completo] (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La pantera rosa [Completo] (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa [Completo] (M)(720)" tvg-logo="" group-title="24/7",24/7 La pantera rosa [Completo] (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162964
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Pequeña Lulú (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La Pequeña Lulú (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Pequeña Lulú (M)(720)" tvg-logo="" group-title="24/7",24/7 La Pequeña Lulú (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162965
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La vaca y el pollito (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 La vaca y el pollito (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La vaca y el pollito (M)(720)" tvg-logo="" group-title="24/7",24/7 La vaca y el pollito (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162966
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las chicas superpoderosas (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Las chicas superpoderosas (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las chicas superpoderosas (M)(720)" tvg-logo="" group-title="24/7",24/7 Las chicas superpoderosas (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162968
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las sombrías aventuras de Billy y Mandy (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Las sombrías aventuras de Billy y Mandy (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las sombrías aventuras de Billy y Mandy (M)(720)" tvg-logo="" group-title="24/7",24/7 Las sombrías aventuras de Billy y Mandy (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162970
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Liga De La Justicia Ilimitada (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Liga De La Justicia Ilimitada (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Liga De La Justicia Ilimitada (M)(720)" tvg-logo="" group-title="24/7",24/7 Liga De La Justicia Ilimitada (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162971
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Loonatics (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Loonatics (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Loonatics (M)(720)" tvg-logo="" group-title="24/7",24/7 Loonatics (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162973
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los autos locos (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Los autos locos (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los autos locos (M)(720)" tvg-logo="" group-title="24/7",24/7 Los autos locos (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162974
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los años maravillosos (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Los años maravillosos (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los años maravillosos (M)(720)" tvg-logo="" group-title="24/7",24/7 Los años maravillosos (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162975
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los chicos del barrio (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Los chicos del barrio (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los chicos del barrio (M)(720)" tvg-logo="" group-title="24/7",24/7 Los chicos del barrio (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162977
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Calabozos y dragones (M)(720)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Calabozos y dragones (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Calabozos y dragones (M)(720)" tvg-logo="" group-title="24/7",24/7 Calabozos y dragones (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162978
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Two and a Half Men [SUB] (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Two and a Half Men [SUB] (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Two and a Half Men [SUB] (M)(720)" tvg-logo="" group-title="24/7",24/7 Two and a Half Men [SUB] (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162983
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sin Senos no hay Paraíso (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Sin Senos no hay Paraíso (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sin Senos no hay Paraíso (M)(720)" tvg-logo="" group-title="24/7",24/7 Sin Senos no hay Paraíso (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162984
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sin senos sí hay paraíso (M)(720)" tvg-logo="" group-title="24/7 SERIES",24/7 Sin senos sí hay paraíso (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sin senos sí hay paraíso (M)(720)" tvg-logo="" group-title="24/7",24/7 Sin senos sí hay paraíso (M)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/162985
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports LaLiga (Z)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164158
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Premier League (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Premier League (Z)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164159
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 1 (e)(1080)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 1 (e)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 1 (e)(1080)" tvg-logo="" group-title="24/7",24/7- Accion 1 (e)(1080)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164581
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 2 (e)(1080)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 2 (e)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 2 (e)(1080)" tvg-logo="" group-title="24/7",24/7- Accion 2 (e)(1080)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164582
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Accion 3 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164583
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Accion 4 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164584
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Accion 5 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164586
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Accion 6 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164781
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Accion 7 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164782
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Accion 8 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164783
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 9 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Accion 9 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164787
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Accion 10 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Accion 10 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164788
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga Arma Mortal (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga Arma Mortal (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Saga Arma Mortal (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Saga Arma Mortal (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164789
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas Asaltos (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas Asaltos (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas Asaltos (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas Asaltos (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164790
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas Asesinos (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas Asesinos (e)(1080)(Dual Audio)  
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas Asesinos (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7",24/7- Sagas Asesinos (e)(1080)(Dual Audio)  
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164791
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga Duro de Matar (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga Duro de Matar (e)(1080)(Dual Audio)  
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Saga Duro de Matar (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7",24/7- Saga Duro de Matar (e)(1080)(Dual Audio)  
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164792
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga Ip Man (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga Ip Man (e)(1080)(Dual Audio)  
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Saga Ip Man (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7",24/7- Saga Ip Man (e)(1080)(Dual Audio)  
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164793
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga John Wick (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga John Wick (e)(1080)(Dual Audio)  
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Saga John Wick (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7",24/7- Saga John Wick (e)(1080)(Dual Audio)  
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164794
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga: Karate Kid (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga: Karate Kid (e)(1080)(Dual Audio)  
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Saga: Karate Kid (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7",24/7- Saga: Karate Kid (e)(1080)(Dual Audio)  
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164795
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga Kickboxer (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga Kickboxer (e)(1080)(Dual Audio)  
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Saga Kickboxer (e)(1080)(Dual Audio)  " tvg-logo="" group-title="24/7",24/7- Saga Kickboxer (e)(1080)(Dual Audio)  
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164796
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Kung fu (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Kung fu (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Kung fu (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Kung fu (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164797
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga: Mision Imposible (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga: Mision Imposible (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Saga: Mision Imposible (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Saga: Mision Imposible (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164798
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga: Rambo (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga: Rambo (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Saga: Rambo (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Saga: Rambo (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164799
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga: Rapidos y Furiosos (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga: Rapidos y Furiosos (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164800
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Saga: Taxi Drive (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Saga: Taxi Drive (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164801
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164802
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164863
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164864
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164865
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164866
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164867
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164868
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164869
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164870
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164871
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164934
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164935
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164936
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164937
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164938
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164939
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164940
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164941
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - 4K (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - 4K (e)(4K)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- 4K (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- 4K (e)(4K)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164942
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Infantil 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Infantil 1 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Infantil 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Infantil 1 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164943
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Infantil 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Infantil 2 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Infantil 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Infantil 2 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164944
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Barbie (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Barbie (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Barbie (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Barbie (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164945
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Infantil 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Infantil 3 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Infantil 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Infantil 3 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164946
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Batman Animado (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Batman Animado (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Batman Animado (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Batman Animado (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164947
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Batman (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Batman (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Batman (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Batman (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164948
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Animacion 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Animacion 1 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164949
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Animacion 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Animacion 2 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164950
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Cinema 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Cinema 1 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Disney Cinema 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Disney Cinema 1 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164951
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Cinema 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Cinema 2 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Disney Cinema 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Disney Cinema 2 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164952
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 1 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Disney Animacion 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Disney Animacion 1 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164953
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 2 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Disney Animacion 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Disney Animacion 2 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164954
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 3 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Disney Animacion 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Disney Animacion 3 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164955
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- APPLE TV (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- APPLE TV (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164956
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Aventura (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Aventura (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Aventura (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Aventura (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164957
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Fantasia (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Fantasia (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Fantasia (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Fantasia (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164958
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 1 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Comedias 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Comedias 1 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164959
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 2 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Comedias 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Comedias 2 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164960
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 3 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Comedias 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Comedias 3 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164961
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 4 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Comedias 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Comedias 4 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164962
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 5 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Comedias 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Comedias 5 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164963
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 6 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Comedias 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Comedias 6 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164964
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 7 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Comedias 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Comedias 7 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164965
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 8 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Comedias 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Comedias 8 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164966
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: American Pie (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: American Pie (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: American Pie (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: American Pie (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164967
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Scary Movie (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Scary Movie (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Scary Movie (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Scary Movie (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164968
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Loca Academia de Policias (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Loca Academia de Policias (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Loca Academia de Policias (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Loca Academia de Policias (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164969
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Harry Potter (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Harry Potter (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Harry Potter (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Harry Potter (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164970
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Harry Potter (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Harry Potter (e)(4K)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Harry Potter (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Harry Potter (e)(4K)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164971
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Star Wars (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Star Wars (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Star Wars (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Star Wars (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164972
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Star Wars (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Star Wars (e)(4K)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Star Wars (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Star Wars (e)(4K)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164973
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: El Señor de los Anillos (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: El Señor de los Anillos (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: El Señor de los Anillos (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: El Señor de los Anillos (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164974
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Jurassic Park (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Jurassic Park (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Jurassic Park (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Jurassic Park (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164975
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: 007 James Bond - Sean Connery (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: 007 James Bond - Sean Connery (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: 007 James Bond - Sean Connery (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: 007 James Bond - Sean Connery (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164976
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: 007 James Bond - Roger Moore (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: 007 James Bond - Roger Moore (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: 007 James Bond - Roger Moore (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: 007 James Bond - Roger Moore (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164977
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: 007 James Bond - Timothy Dalton (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: 007 James Bond - Timothy Dalton (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: 007 James Bond - Timothy Dalton (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: 007 James Bond - Timothy Dalton (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164978
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: 007 James Bond - Pierce Brosnan (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: 007 James Bond - Pierce Brosnan (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: 007 James Bond - Pierce Brosnan (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: 007 James Bond - Pierce Brosnan (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164979
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: 007 James Bond - Daniel Craig (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: 007 James Bond - Daniel Craig (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: 007 James Bond - Daniel Craig (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: 007 James Bond - Daniel Craig (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164980
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: El Planeta de los Simios - Moderno (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: El Planeta de los Simios - Moderno (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: El Planeta de los Simios - Moderno (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: El Planeta de los Simios - Moderno (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164981
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: El Planeta de los Simios - Clasico (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: El Planeta de los Simios - Clasico (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: El Planeta de los Simios - Clasico (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: El Planeta de los Simios - Clasico (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164982
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Toy Story (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Sagas: Toy Story (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Toy Story (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Toy Story (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164983
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Sagas: Madagascar (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Cinema - Sagas: Madagascar (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7- Sagas: Madagascar (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7- Sagas: Madagascar (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164984
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 INFANTIL",24/7 Cinema Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Infantil - Sagas: La Era del hielo (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164985
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Comedias - Sagas: Asu Mare (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Comedias - Sagas: Asu Mare (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Comedias - Sagas: Asu Mare (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Comedias - Sagas: Asu Mare (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164986
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Halloween (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Halloween (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Halloween (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Halloween (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164987
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - SAW (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - SAW (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - SAW (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - SAW (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164988
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - El Conjuro (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - El Conjuro (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - El Conjuro (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - El Conjuro (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164989
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Sagas: Alien (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Sagas: Alien (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Sagas: Alien (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Sagas: Alien (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164990
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Sagas: Resident Evil (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Sagas: Resident Evil (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Sagas: Resident Evil (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Sagas: Resident Evil (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164991
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Sagas: Underworld (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Sagas: Underworld (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Sagas: Underworld (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Sagas: Underworld (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164992
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Sagas: Viernes 13 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Sagas: Viernes 13 (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Sagas: Viernes 13 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Sagas: Viernes 13 (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164993
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Sagas: Pesadilla en Elm Street (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Sagas: Pesadilla en Elm Street (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Sagas: Pesadilla en Elm Street (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Sagas: Pesadilla en Elm Street (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164994
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Sagas: La Maldicion (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Sagas: La Maldicion (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Sagas: La Maldicion (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Sagas: La Maldicion (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164995
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Sagas: El Duende Maldito "Leprechaun" (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Sagas: El Duende Maldito "Leprechaun" (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Sagas: El Duende Maldito "Leprechaun" (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Sagas: El Duende Maldito "Leprechaun" (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164996
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Terror - Sagas: Chucky (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Terror - Sagas: Chucky (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Terror - Sagas: Chucky (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Terror - Sagas: Chucky (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/164997
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Accion - Sagas: The Matrix (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Accion - Sagas: The Matrix (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Accion - Sagas: The Matrix (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Accion - Sagas: The Matrix (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165064
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Ficcion - Sagas: Spider Man (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Ficcion - Sagas: Spider Man (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Ficcion - Sagas: Spider Man (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Ficcion - Sagas: Spider Man (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165066
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Ficcion - Sagas: Guardianes de la Galaxia (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Ficcion - Sagas: Guardianes de la Galaxia (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Ficcion - Sagas: Guardianes de la Galaxia (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Ficcion - Sagas: Guardianes de la Galaxia (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165067
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Ficcion - Sagas: Marvel Universo (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Ficcion - Sagas: Marvel Universo (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Ficcion - Sagas: Marvel Universo (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Ficcion - Sagas: Marvel Universo (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165065
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Ficcion - Sagas: Marvel (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema Ficcion - Sagas: Marvel (e)(1080)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7Ficcion - Sagas: Marvel (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7",24/7Ficcion - Sagas: Marvel (e)(1080)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165068
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Chapo (e)(1080)(Dual)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Chapo (e)(1080)(Dual)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165069
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Chema (e)(1080)(Dual)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Chema (e)(1080)(Dual)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165070
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 1" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 1" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165071
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 2" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 2" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165072
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 3" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 3" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165073
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 4" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 4" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165074
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 5" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 5" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165075
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 6" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 6" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165076
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 7" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 7" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165077
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 8" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 8" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165078
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Señor de los Cielos "Temporada 9" (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Señor de los Cielos "Temporada 9" (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165079
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - Sobreviviendo a Escobar, Alias JJ (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - Sobreviviendo a Escobar, Alias JJ (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165080
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El General Naranjo (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El General Naranjo (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165081
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - La Reina del Sur (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - La Reina del Sur (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165082
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - Las muñecas de la mafia (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - Las muñecas de la mafia (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165083
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - Las muñecas de la mafia 2 (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - Las muñecas de la mafia 2 (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165084
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - Narcos: México (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - Narcos: México (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165085
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El cartel de los sapos: El origen (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El cartel de los sapos: El origen (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165183
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - Narcos (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w58_and_h87_face/qEfVfmR6KFuwjAV6Ew5RObj73xS.png" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - Narcos (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165184
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Capo (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Capo (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165186
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - Pablo Escobar (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - Pablo Escobar (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165187
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - Tres Caines (e)(720)" tvg-logo="" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - Tres Caines (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165195
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Cartel de los Sapos 1 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w130_and_h195_face/ujHhmWiNy8NinqGTgxvIOK84K29.png" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Cartel de los Sapos 1 (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165197
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Narcos - El Cartel de los Sapos 2 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w130_and_h195_face/kMXkXfURZVbP8z8p0TUan95FAWJ.jpg" group-title="24/7 SERIES NARCOS",24/7 Series Narcos - El Cartel de los Sapos 2 (e)(720)
-http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165198
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - 911 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg" group-title="24/7 SERIES",24/7 Series Crimen - 911 (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - 911 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg" group-title="24/7",24/7 Crimen - 911 (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165200
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Barry (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/j1XpwD11f0BAEI7pX6UdMhUVX2F.png" group-title="24/7 SERIES",24/7 Series Crimen - Barry (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Barry (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/j1XpwD11f0BAEI7pX6UdMhUVX2F.png" group-title="24/7",24/7 Crimen - Barry (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165201
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Blindspot (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/tHN1BwqEeRsNefHWscN6W7FXrar.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Blindspot (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Blindspot (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/tHN1BwqEeRsNefHWscN6W7FXrar.jpg" group-title="24/7",24/7 Crimen - Blindspot (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165202
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Boardwalk Empire (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Boardwalk Empire (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Boardwalk Empire (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg" group-title="24/7",24/7 Crimen - Boardwalk Empire (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165356
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Bones Temp. 1 al 6 (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/7fFnGyE5jRd72DZk0iv2mtA1S46.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Bones Temp. 1 al 6 (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Bones Temp. 1 al 6 (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/7fFnGyE5jRd72DZk0iv2mtA1S46.jpg" group-title="24/7",24/7 Crimen - Bones Temp. 1 al 6 (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165357
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Codigos de familia Temp. 1 al 7 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/c82lWgp2JDSoFjYhpbeS2TrOQtD.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Codigos de familia Temp. 1 al 7 (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Codigos de familia Temp. 1 al 7 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/c82lWgp2JDSoFjYhpbeS2TrOQtD.jpg" group-title="24/7",24/7 Crimen - Codigos de familia Temp. 1 al 7 (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165203
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Bones Temp. 7 al 12 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/k3fgKtXisl4c55xpM2JPTUYDuBb.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Bones Temp. 7 al 12 (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Bones Temp. 7 al 12 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/k3fgKtXisl4c55xpM2JPTUYDuBb.jpg" group-title="24/7",24/7 Crimen - Bones Temp. 7 al 12 (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165358
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Breaking Bad (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/63FA8vwSZnXkGxedrDQwni4JuZN.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Breaking Bad (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Breaking Bad (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/63FA8vwSZnXkGxedrDQwni4JuZN.jpg" group-title="24/7",24/7 Crimen - Breaking Bad (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165359
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Chicago Fire Temp.1al7 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Chicago Fire Temp.1al7 (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Chicago Fire Temp.1al7 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg" group-title="24/7",24/7 Crimen - Chicago Fire Temp.1al7 (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165360
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Chicago Fire Temp. 8al14 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/8Lwn0r6wPDxmXcD4aN3yr71KhvL.jpg" group-title="CANALES-CINE Y SERIES",24/7 Series Crimen - Chicago Fire Temp. 8al14 (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Chicago Fire Temp. 8al14 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/8Lwn0r6wPDxmXcD4aN3yr71KhvL.jpg" group-title="CANALES-CINE Y SERIES",24/7 Crimen - Chicago Fire Temp. 8al14 (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165361
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Chicago Justice (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/7WyWk8bWgbWKqnhNEj8PYt4VjPo.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Chicago Justice (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Chicago Justice (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/7WyWk8bWgbWKqnhNEj8PYt4VjPo.jpg" group-title="24/7",24/7 Crimen - Chicago Justice (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165362
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Chicago Med (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/q18TcyP7w8yS44Sp6jW7kc3Buvm.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Chicago Med (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Chicago Med (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/q18TcyP7w8yS44Sp6jW7kc3Buvm.jpg" group-title="24/7",24/7 Crimen - Chicago Med (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165363
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Chicago P.D (e)(720) (Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Chicago P.D (e)(720) (Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Chicago P.D (e)(720) (Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg" group-title="24/7",24/7 Crimen - Chicago P.D (e)(720) (Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165364
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Mentes Criminales (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/nWw20ipGipwdOyLTkFfX2Uz4Grp.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Mentes Criminales (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Mentes Criminales (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/nWw20ipGipwdOyLTkFfX2Uz4Grp.jpg" group-title="24/7",24/7 Crimen - Mentes Criminales (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165365
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - CSI Miami (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg" group-title="24/7 SERIES",24/7 Series Crimen - CSI Miami (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - CSI Miami (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg" group-title="24/7",24/7 Crimen - CSI Miami (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165366
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - CSI: New York (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/86wjyojIb06cLHxydu2sJkE3tqo.jpg" group-title="24/7 SERIES",24/7 Series Crimen - CSI: New York (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - CSI: New York (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/86wjyojIb06cLHxydu2sJkE3tqo.jpg" group-title="24/7",24/7 Crimen - CSI: New York (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165367
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - CSI: Las Vegas (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/A6NYYMk6DarcPvxAiPmXHMFpDDq.jpg" group-title="24/7 SERIES",24/7 Series Crimen - CSI: Las Vegas (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - CSI: Las Vegas (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/A6NYYMk6DarcPvxAiPmXHMFpDDq.jpg" group-title="24/7",24/7 Crimen - CSI: Las Vegas (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165368
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - CSI: Cyber (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/goo03FkWc1ZzNrJpACjJuCrDXtv.jpg" group-title="24/7 SERIES",24/7 Series Crimen - CSI: Cyber (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - CSI: Cyber (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/goo03FkWc1ZzNrJpACjJuCrDXtv.jpg" group-title="24/7",24/7 Crimen - CSI: Cyber (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165369
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Dexter (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/fIKc2cR1GglarzChMAb4BOP1qHP.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Dexter (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Dexter (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/fIKc2cR1GglarzChMAb4BOP1qHP.jpg" group-title="24/7",24/7 Crimen - Dexter (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165370
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - El Marginal (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/rQQ25oaCeFI8LNgYmpBEzjkQ9qg.jpg" group-title="24/7 SERIES",24/7 Series Crimen - El Marginal (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - El Marginal (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/rQQ25oaCeFI8LNgYmpBEzjkQ9qg.jpg" group-title="24/7",24/7 Crimen - El Marginal (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165473
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Gangsters de Londres (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/9aJ6KwLASA38WzdMRVjk7ILpuTv.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Gangsters de Londres (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Gangsters de Londres (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/9aJ6KwLASA38WzdMRVjk7ILpuTv.jpg" group-title="24/7",24/7 Crimen - Gangsters de Londres (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165474
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - El Padrino de Harlem (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/tgH5BaWIrPGbDNnFyA4aHtamjWF.jpg" group-title="ELIMINATORIAS 2026",24/7 Series Crimen - El Padrino de Harlem (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - El Padrino de Harlem (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/tgH5BaWIrPGbDNnFyA4aHtamjWF.jpg" group-title="ELIMINATORIAS 2026",24/7 Crimen - El Padrino de Harlem (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165475
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Hannibal (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Hannibal (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Hannibal (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg" group-title="24/7",24/7 Crimen - Hannibal (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165476
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Hawaii Five-0 (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Hawaii Five-0 (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Hawaii Five-0 (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg" group-title="24/7",24/7 Crimen - Hawaii Five-0 (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165477
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - La Casa de Papel (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/uneEmfKFbyOZsN77JAHXK1cIAmX.jpg" group-title="24/7 SERIES",24/7 Series Crimen - La Casa de Papel (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - La Casa de Papel (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/uneEmfKFbyOZsN77JAHXK1cIAmX.jpg" group-title="24/7",24/7 Crimen - La Casa de Papel (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165478
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - La Ley y el Orden: U.V.C (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/9xxLWtnFxkpJ2h1uthpvCRK6vta.jpg" group-title="24/7 SERIES",24/7 Series Crimen - La Ley y el Orden: U.V.C (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - La Ley y el Orden: U.V.C (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/9xxLWtnFxkpJ2h1uthpvCRK6vta.jpg" group-title="24/7",24/7 Crimen - La Ley y el Orden: U.V.C (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165479
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - La Ley y el Orden: Crimen Organizado (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/ao2ybmFWpRXmb4A1PePOjBCEsxU.jpg" group-title="24/7 SERIES",24/7 Series Crimen - La Ley y el Orden: Crimen Organizado (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - La Ley y el Orden: Crimen Organizado (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/ao2ybmFWpRXmb4A1PePOjBCEsxU.jpg" group-title="24/7",24/7 Crimen - La Ley y el Orden: Crimen Organizado (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165480
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Mr. Robot (e)(720)" tvg-logo="https://blog.desdelinux.net/wp-content/uploads/2015/06/MrRobot_Intro.png" group-title="24/7 SERIES",24/7 Series Crimen - Mr. Robot (e)(720)
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - NCIS: Los Angeles (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/t5NK58wFhNIwaPTKOt19WbfxcID.jpg" group-title="24/7 SERIES",24/7 Series Crimen - NCIS: Los Angeles (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Mr. Robot (e)(720)" tvg-logo="https://blog.desdelinux.net/wp-content/uploads/2015/06/MrRobot_Intro.png" group-title="24/7",24/7 Crimen - Mr. Robot (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - NCIS: Los Angeles (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/t5NK58wFhNIwaPTKOt19WbfxcID.jpg" group-title="24/7",24/7 Crimen - NCIS: Los Angeles (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165544
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Peaky Blinders (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Peaky Blinders (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Peaky Blinders (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg" group-title="24/7",24/7 Crimen - Peaky Blinders (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165545
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Prison Break (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/jiZ4D6LrZhGxQSfHhAuTaxoT2ue.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Prison Break (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Prison Break (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/jiZ4D6LrZhGxQSfHhAuTaxoT2ue.jpg" group-title="24/7",24/7 Crimen - Prison Break (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165546
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Riverdale (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/zkrfMee9Gn26WnM1NTuxZHfJaET.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Riverdale (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Riverdale (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/zkrfMee9Gn26WnM1NTuxZHfJaET.jpg" group-title="24/7",24/7 Crimen - Riverdale (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165547
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Scorpion (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Scorpion (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Scorpion (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg" group-title="24/7",24/7 Crimen - Scorpion (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165548
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - El Mentalista (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/dwMZ8BW1tUp69baogSrcTAumKuR.jpg" group-title="24/7 SERIES",24/7 Series Crimen - El Mentalista (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - El Mentalista (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/dwMZ8BW1tUp69baogSrcTAumKuR.jpg" group-title="24/7",24/7 Crimen - El Mentalista (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165549
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - White Collar (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/j1csA5FdMJjcmI19Hk3dmoTCfqE.jpg" group-title="24/7 SERIES",24/7 Series Crimen - White Collar (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - White Collar (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/j1csA5FdMJjcmI19Hk3dmoTCfqE.jpg" group-title="24/7",24/7 Crimen - White Collar (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165550
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - NCIS: Criminología Naval (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/td7iVrM6FBXUWdngh95TrBnEj2V.jpg" group-title="24/7 SERIES",24/7 Series Crimen - NCIS: Criminología Naval (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - NCIS: Criminología Naval (e)(720)(Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/original/td7iVrM6FBXUWdngh95TrBnEj2V.jpg" group-title="24/7",24/7 Crimen - NCIS: Criminología Naval (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165551
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Better Call Saul (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/1dxwH5FDceBTRcBzPp6tpRONXy0.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Better Call Saul (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Better Call Saul (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/1dxwH5FDceBTRcBzPp6tpRONXy0.jpg" group-title="24/7",24/7 Crimen - Better Call Saul (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165552
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Tulsa King (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg" group-title="24/7 SERIES",24/7 Series Crimen - Tulsa King (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - Tulsa King (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg" group-title="24/7",24/7 Crimen - Tulsa King (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165553
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - The Rookie (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/zjtcZVj62ZEYVSXUOeF3McuWqxy.jpg" group-title="24/7 SERIES",24/7 Series Crimen - The Rookie (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - The Rookie (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/zjtcZVj62ZEYVSXUOeF3McuWqxy.jpg" group-title="24/7",24/7 Crimen - The Rookie (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165554
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - S.W.A.T. (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg" group-title="24/7 SERIES",24/7 Series Crimen - S.W.A.T. (e)(720)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crimen - S.W.A.T. (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg" group-title="24/7",24/7 Crimen - S.W.A.T. (e)(720)(Dual Audio)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165555
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Casados con Hijos (ARG)(e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/b4MWFEp2lSBgIo6byrRvqRXXz8e.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Casados con Hijos (ARG)(e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Casados con Hijos (ARG)(e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/b4MWFEp2lSBgIo6byrRvqRXXz8e.jpg" group-title="24/7",24/7 - Casados con Hijos (ARG)(e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165556
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Comedy Central Stand-Up (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/givt8reIsYiBkRqFSgOH6ECOAQR.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Comedy Central Stand-Up (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Comedy Central Stand-Up (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/givt8reIsYiBkRqFSgOH6ECOAQR.jpg" group-title="24/7",24/7 - Comedy Central Stand-Up (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165557
 
