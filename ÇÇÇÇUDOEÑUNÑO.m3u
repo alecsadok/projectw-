@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/129919
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://lo1.in/us/mtv.png" group-title="MTV",US| MTV HD
@@ -46,13 +47,21 @@ http://free-image-hosting.top:8080/11957753178/11957753/116634
 #EXTINF:-1 xui-id="320641" tvg-id="Multishow SD" tvg-name="Multishow 4K" tvg-logo="https://i.imgur.com/Ge58c7d.png" group-title="MULTISHOW",Multishow 4K
 http://tghydfgjoruocfjorjikhjosujei8jeomwhbd9ijorkyik38kfkok.parclll.site:80/play/CrPV8DVC22kjbYXEZHiSXTcYlmvzwArH3VSl2e9NfuI/ts
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Multishow%20HD.png" group-title="MULTISHOW",Multishow FHD
+http://x2caverinhas.store:8080/Ralphdelgado/Ral663/1851
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Multishow%20HD.png" group-title="MULTISHOW",Multishow FHD
 http://ibo.playmove.org:8080/000876111/213156589090/1851
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Multishow%20HD.png" group-title="MULTISHOW",Multishow HD
 http://ibo.playmove.org:8080/000876111/213156589090/2168
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Multishow%20HD.png" group-title="MULTISHOW",Multishow HD
+http://x2caverinhas.store:8080/Ralphdelgado/Ral663/2168
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP 4K¹" tvg-logo="http://7logos.top/logos/band4k.png" group-title="BAND",BAND SP 4K¹
 http://free-image-hosting.top:8080/11957753178/11957753/275364
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP FHD
 http://ibo.playmove.org:8080/000876111/213156589090/1878
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP FHD
+http://x2caverinhas.store:8080/Ralphdelgado/Ral663/1878
+#EXTINF:-1 tvg-id="br#band-rj-hd" tvg-name="Band RJ " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band RJ 
+http://x2caverinhas.store:8080/Ralphdelgado/Ral663/913990
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS 4K¹" tvg-logo="http://7logos.top/logos/globonews4k.png" group-title="GLOBO NEWS",GLOBO NEWS 4K¹
 http://free-image-hosting.top:8080/11957753178/11957753/275371
 #EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="Globo News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="GLOBO NEWS",Globo News FHD
@@ -1373,4 +1382,5 @@ http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165555
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165556
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - Comedy Central Stand-Up (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/givt8reIsYiBkRqFSgOH6ECOAQR.jpg" group-title="24/7",24/7 - Comedy Central Stand-Up (e)(720)
 http://tv.diablotv.net:8080/gapinelh/VJAhUczFjk/165557
+
 
