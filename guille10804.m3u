@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="CBS" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⏺️ 4K UHD | QHD",MULTISHOW 4K
+http://tvhomesmart.xyz:8080/948587735tv/g099rc/23865
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⏺️ 4K UHD | QHD",MULTISHOW 4K
 http://coneasy.lat:80/live/kyeoj2w4/0drti608/97615.ts
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://www.fontedecanais.io/logos/canais/multishow.png" group-title="⛰️ VARIEDADES",MULTISHOW FHD
@@ -1707,3 +1709,4 @@ http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/9963
 http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/9970
 #EXTINF:-1,WA | SPOKANE | CBS KREM
 http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/9979
+
