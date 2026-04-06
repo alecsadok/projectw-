@@ -7,8 +7,8 @@ X-WR-CALNAME:Eventos (confirmados) — Argentina (GMT-3)
 X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:9314a8e6-8911-4cb8-8e30-99a0e9a365da@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:d2bc1014-f5c1-4a06-9a6b-d5e5caff78e2@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Oscars 2026 (98th) — Ceremonia
 LOCATION:Dolby Theatre\, Hollywood\, Los Angeles\, CA\, USA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260315T200000
@@ -16,8 +16,8 @@ DTEND;TZID=America/Argentina/Buenos_Aires:20260315T233000
 DESCRIPTION:Hora Argentina: 15/03 20:00–23:30 (Argentina\, GMT-3)\nTV: ABC\nRed carpet: no confirmado oficialmente.\nCelebrities A-list confirmadas: Conan O'Brien (host)\nCelebrities B-list confirmadas: (sin confirmaciones oficiales publicadas)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nRegla: solo confirmaciones oficiales / medios confiables / Wikipedia.
 END:VEVENT
 BEGIN:VEVENT
-UID:1cf0d7a4-5043-4ce5-9176-7af2a3ce5a6a@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:dcb22947-84a7-4fe4-9845-05686fe00ba8@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:GRAMMY Awards 2026 — Telecast
 LOCATION:Crypto.com Arena\, Los Angeles\, CA\, USA
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260201T220000
@@ -25,8 +25,8 @@ DTEND;TZID=America/Argentina/Buenos_Aires:20260202T013000
 DESCRIPTION:Hora Argentina: 01/02 22:00–02/02 01:30 (Argentina\, GMT-3)\nTV: CBS\nStreaming: Paramount+\nRed carpet: no confirmado oficialmente.\nMás nominadas/os: Kendrick Lamar (9)\, Cirkut (7)\, Jack Antonoff (7)\, Lady Gaga (7)\nCelebrities A-list confirmadas: Kendrick Lamar (top nominee)\, Lady Gaga (top nominee)\, Bad Bunny (top nominee)\, Sabrina Carpenter (top nominee)\nCelebrities B-list confirmadas: Doechii (nominee)\, SZA (nominee)\, Tyler\, The Creator (nominee)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nPerformances/presenters/red carpet: completar solo cuando haya anuncio oficial.
 END:VEVENT
 BEGIN:VEVENT
-UID:40373e65-7768-4941-8a87-48030392a636@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:abad76c3-6476-4b19-993f-25c94ba2f5be@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Argentina 2026 — Festival
 LOCATION:Hipódromo de San Isidro\, Buenos Aires\, Argentina
 DTSTART;VALUE=DATE:20260313
@@ -34,8 +34,8 @@ DTEND;VALUE=DATE:20260314
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nHeadliners: Sabrina Carpenter\, Tyler\, The Creator\, Chappell Roan\, Deftones\, Skrillex\, Lorde\, Doechii\, Turnstile\, Lewis Capaldi\, Paulo Londra\nArtistas pop destacados: Sabrina Carpenter\, Chappell Roan\, Lorde\, Lewis Capaldi\, Paulo Londra\nCelebrities A-list confirmadas: Sabrina Carpenter\, Tyler\, The Creator\, Skrillex\, Lorde\nCelebrities B-list confirmadas: Chappell Roan\, Doechii\, Lewis Capaldi\nArgentinos confirmados: Paulo Londra\nDía 1 — set times por anunciar.\nFechas oficiales: 13–15/03/2026.\nSet times (por artista/escenario): por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:b5efe7f5-718e-4af0-9313-3a0c36aa70bd@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:3ef70822-8632-4a91-b408-214312398f93@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Argentina 2026 — Festival
 LOCATION:Hipódromo de San Isidro\, Buenos Aires\, Argentina
 DTSTART;VALUE=DATE:20260314
@@ -43,8 +43,8 @@ DTEND;VALUE=DATE:20260315
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nHeadliners: Sabrina Carpenter\, Tyler\, The Creator\, Chappell Roan\, Deftones\, Skrillex\, Lorde\, Doechii\, Turnstile\, Lewis Capaldi\, Paulo Londra\nArtistas pop destacados: Sabrina Carpenter\, Chappell Roan\, Lorde\, Lewis Capaldi\, Paulo Londra\nCelebrities A-list confirmadas: Sabrina Carpenter\, Tyler\, The Creator\, Skrillex\, Lorde\nCelebrities B-list confirmadas: Chappell Roan\, Doechii\, Lewis Capaldi\nArgentinos confirmados: Paulo Londra\nDía 2 — set times por anunciar.\nFechas oficiales: 13–15/03/2026.\nSet times (por artista/escenario): por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:e30659fb-5253-4c20-b64f-cdcc01271ce3@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:2018ae82-393f-4bf4-a5ba-34ef0fdce47a@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Argentina 2026 — Festival
 LOCATION:Hipódromo de San Isidro\, Buenos Aires\, Argentina
 DTSTART;VALUE=DATE:20260315
@@ -52,8 +52,8 @@ DTEND;VALUE=DATE:20260316
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nHeadliners: Sabrina Carpenter\, Tyler\, The Creator\, Chappell Roan\, Deftones\, Skrillex\, Lorde\, Doechii\, Turnstile\, Lewis Capaldi\, Paulo Londra\nArtistas pop destacados: Sabrina Carpenter\, Chappell Roan\, Lorde\, Lewis Capaldi\, Paulo Londra\nCelebrities A-list confirmadas: Sabrina Carpenter\, Tyler\, The Creator\, Skrillex\, Lorde\nCelebrities B-list confirmadas: Chappell Roan\, Doechii\, Lewis Capaldi\nArgentinos confirmados: Paulo Londra\nDía 3 — set times por anunciar.\nFechas oficiales: 13–15/03/2026.\nSet times (por artista/escenario): por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:4fe9b1f9-b08d-4777-99cf-a0027bc3737a@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:5f6e9c98-1143-4351-8411-b88f44ee4cba@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Chile 2026 — Festival
 LOCATION:Parque O'Higgins\, Santiago\, Chile
 DTSTART;VALUE=DATE:20260313
@@ -61,8 +61,8 @@ DTEND;VALUE=DATE:20260314
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nCelebrities A-list confirmadas: (sin confirmaciones oficiales publicadas)\nCelebrities B-list confirmadas: (sin confirmaciones oficiales publicadas)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nFechas oficiales: 13–15/03/2026.\nLineup y set times: por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:508c0374-a7b0-445f-a772-d97e7408d675@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:0b671364-6f22-4a77-9017-d28d1e2c0881@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Chile 2026 — Festival
 LOCATION:Parque O'Higgins\, Santiago\, Chile
 DTSTART;VALUE=DATE:20260314
@@ -70,8 +70,8 @@ DTEND;VALUE=DATE:20260315
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nCelebrities A-list confirmadas: (sin confirmaciones oficiales publicadas)\nCelebrities B-list confirmadas: (sin confirmaciones oficiales publicadas)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nFechas oficiales: 13–15/03/2026.\nLineup y set times: por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:1574f4f5-4db6-4026-9945-7e4206a6a3eb@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:1fda9033-b2fb-4e6a-9d52-34cd53c189f5@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Chile 2026 — Festival
 LOCATION:Parque O'Higgins\, Santiago\, Chile
 DTSTART;VALUE=DATE:20260315
@@ -79,8 +79,8 @@ DTEND;VALUE=DATE:20260316
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nCelebrities A-list confirmadas: (sin confirmaciones oficiales publicadas)\nCelebrities B-list confirmadas: (sin confirmaciones oficiales publicadas)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nFechas oficiales: 13–15/03/2026.\nLineup y set times: por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:46e896ee-74a4-40a7-9597-eee7c2f2f7a4@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:f15f6125-9dcb-4903-9182-729390cdb773@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Brasil 2026 — Festival
 LOCATION:Autódromo de Interlagos\, São Paulo\, Brasil
 DTSTART;VALUE=DATE:20260320
@@ -88,8 +88,8 @@ DTEND;VALUE=DATE:20260321
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nCelebrities A-list confirmadas: (sin confirmaciones oficiales publicadas)\nCelebrities B-list confirmadas: (sin confirmaciones oficiales publicadas)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nFechas oficiales: 20–22/03/2026.\nHorario general del predio (si está publicado oficialmente): incluirlo aquí.\nLineup y set times: por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:95635f2f-c56d-4830-a209-2a3dce6f704b@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:e133467a-7eb8-4304-a552-77ff6e2aef91@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Brasil 2026 — Festival
 LOCATION:Autódromo de Interlagos\, São Paulo\, Brasil
 DTSTART;VALUE=DATE:20260321
@@ -97,8 +97,8 @@ DTEND;VALUE=DATE:20260322
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nCelebrities A-list confirmadas: (sin confirmaciones oficiales publicadas)\nCelebrities B-list confirmadas: (sin confirmaciones oficiales publicadas)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nFechas oficiales: 20–22/03/2026.\nHorario general del predio (si está publicado oficialmente): incluirlo aquí.\nLineup y set times: por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:0c2b2afd-6fad-4f91-a308-790947ef934e@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:7e2b020e-f725-4a3d-835e-19bf573b191a@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Brasil 2026 — Festival
 LOCATION:Autódromo de Interlagos\, São Paulo\, Brasil
 DTSTART;VALUE=DATE:20260322
@@ -106,8 +106,8 @@ DTEND;VALUE=DATE:20260323
 DESCRIPTION:Hora Argentina: por anunciar (sin horario oficial publicado).\nRed carpet: no confirmado oficialmente.\nCelebrities A-list confirmadas: (sin confirmaciones oficiales publicadas)\nCelebrities B-list confirmadas: (sin confirmaciones oficiales publicadas)\nArgentinos confirmados: (sin confirmaciones oficiales publicadas)\nFechas oficiales: 20–22/03/2026.\nHorario general del predio (si está publicado oficialmente): incluirlo aquí.\nLineup y set times: por anunciar oficialmente.
 END:VEVENT
 BEGIN:VEVENT
-UID:88e3c0a7-7b3c-407b-a2a0-cae2d7cc1d64@alist-calendar
-DTSTAMP:20260330T134733Z
+UID:5f92a076-3340-4c68-ae7b-a0791c6604cd@alist-calendar
+DTSTAMP:20260406T132250Z
 SUMMARY:Lollapalooza Chicago (USA) — Festival (placeholder)
 LOCATION:Grant Park\, Chicago\, IL\, USA
 DTSTART;VALUE=DATE:20261231
