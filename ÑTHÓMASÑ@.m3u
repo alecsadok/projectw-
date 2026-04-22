@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/229249247/692796789/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
 http://mainxs.site:80/179425534/336992862/707.ts
 #EXTINF:-1 tvg-name="Globo SP [4K]" group-title="GLOBO",Globo SP [4K]
 http://play.1list.vip/live/marcelo290522/4sail6cguje/215397.m3u8
