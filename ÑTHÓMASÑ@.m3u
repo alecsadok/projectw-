@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/179425534/336992862/707.ts
-#EXTINF:-1 tvg-name="Globo SP [4K]" group-title="GLOBO",Globo SP [4K]
-http://play.1list.vip/live/marcelo290522/4sail6cguje/215397.m3u8
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="Globo SP 4K [FHDR]" tvg-logo="https://prombuxs.com/genial/globos/GB.png" group-title="GLOBO",Globo SP 4K [FHDR]
-http://lc00-gru.com:80/jeancarlos2581/421938419je/6765.ts
-#EXTINF:-1 tvg-name="Globo SP [4K]" group-title="GLOBO",Globo SP [4K]
-http://play.1list.vip/live/8yxHApRgvn/factoryiptv/215397.m3u8
-#EXTINF:-1 tvg-name="Globo SP [4K]" group-title="GLOBO",Globo SP [4K]
-http://play.1list.vip/live/brunamaciel1/l6161b6y7x4/215397.m3u8
-#EXTINF:-1 tvg-name="Globo SP [4K]" group-title="GLOBO",Globo SP [4K]
-http://play.1list.vip/live/C629y654/8d2fpko1t9r/215397.m3u8
-#EXTINF:-1 tvg-name="Globo SP [4K]" group-title="GLOBO",Globo SP [4K]
-http://play.1list.vip/live/carlostadeudv2/2q765wuupn/215397.m3u8
-#EXTINF:-1 xui-id="1066" tvg-id="Globo SP FHD" tvg-name="Globo SP 4K" tvg-logo="http://32q0d.xyz/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo SP 4K
-http://clienteprm.site:80/play/zGT9sffSVd0Z4-WrY3bO5rRrlQoOWVI0gxbwNc1VNYw/ts
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Brasilia FHD" tvg-logo="" group-title="GLOBO",[BR] Globo TV Brasilia FHD
 http://supersonictv.live:8080/Zeek44/Super4422/85020
 #EXTINF:-1 tvg-name="[BR] Globo TV Brasilia HD" group-title="GLOBO",[BR] Globo TV Brasilia HD
