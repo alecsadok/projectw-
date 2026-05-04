@@ -1,128 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Brasilia FHD" tvg-logo="" group-title="GLOBO",[BR] Globo TV Brasilia FHD
-http://supersonictv.live:8080/Zeek44/Super4422/85020
-#EXTINF:-1 tvg-name="[BR] Globo TV Brasilia HD" group-title="GLOBO",[BR] Globo TV Brasilia HD
-http://supersonictv.live:8080/984780/368221/84996
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Brasilia HD" tvg-logo="" group-title="GLOBO",[BR] Globo TV Brasilia HD
-http://supersonictv.live:8080/Zeek44/Super4422/84996
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/112596650/664622414/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/137264444/318861539/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/143821474/134895422/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/145425977/847426424/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/179425534/336992862/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/223328625/172117854/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/227422641/185211965/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/229249247/692796789/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/229752473/816597864/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/231433191/466525781/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/233564465/492513736/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/239874878/898749796/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/313563347/683116447/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/324924749/952215664/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/325377962/337643789/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/414589843/384541476/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/419735964/798841240/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/423932931/243572997/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/431453949/515283698/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/433869456/243797464/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/446995713/137514716/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/468489339/355818635/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/514876938/187312879/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/525982679/519895849/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/552787616/496916448/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/651179510/664343641/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/719871944/274588263/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/726884645/884989125/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/733513154/364916968/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/774459369/264358390/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/898951341/953297485/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD" group-title="GLOBO",GLOBO BRASILIA FHD
-http://mainxs.site:80/971225283/346219645/448.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/112596650/664622414/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/137264444/318861539/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/143821474/134895422/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/145425977/847426424/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/223328625/172117854/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/229752473/816597864/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/231433191/466525781/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/233564465/492513736/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/239874878/898749796/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/313563347/683116447/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/324924749/952215664/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/325377962/337643789/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/414589843/384541476/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/419735964/798841240/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/423932931/243572997/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/433869456/243797464/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/468489339/355818635/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/514876938/187312879/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/552787616/496916448/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/651179510/664343641/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/733513154/364916968/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/774459369/264358390/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/812398637/463919557/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/898951341/953297485/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA FHD H264" group-title="GLOBO",GLOBO BRASILIA FHD H264
-http://mainxs.site:80/971225283/346219645/707.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA HD ¹" group-title="GLOBO",GLOBO BRASILIA HD ¹
-http://infogovsp.org:80/80971566/76111841/93891.ts
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA HD ¹" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO BRASILIA HD ¹
-http://infogovsp.org:80/hr52kzjoes/iyedj3b1vt/93891.ts
 #EXTINF:-1 tvg-name="Globo Brasília [4K]" group-title="GLOBO",Globo Brasília [4K]
 http://kz3x.top:80/093950/151282/1775361.ts
 #EXTINF:-1 tvg-name="Globo Brasília [4K]" group-title="GLOBO",Globo Brasília [4K]
@@ -209,6 +85,16 @@ http://kz3x.top:80/43658028/266073/1775364.ts
 http://kz3x.top:80/603969015/656912487/1775364.ts
 #EXTINF:-1 tvg-name="Globo RJ [4K]" group-title="GLOBO",Globo RJ [4K]
 http://kz3x.top:80/amandacandiota/075748/1775364.ts
+#EXTINF:-1,Record Brasilia HD
+http://dx3z.top:80/093950/151282/1775212.ts
+#EXTINF:-1,Record SP FHD
+http://dx3z.top:80/093950/151282/1775243.ts
+#EXTINF:-1,Record SP HD
+http://dx3z.top:80/093950/151282/1775244.ts
+#EXTINF:-1,Record SP [4K]
+http://dx3z.top:80/093950/151282/1775371.ts
+#EXTINF:-1,Record Brasilia HD
+http://dx3z.top:80/43658028/266073/1775212.ts
 #EXTINF:-1 tvg-name="GLOBO RJ FHD" group-title="GLOBO",GLOBO RJ FHD
 http://mainxs.site:80/431453949/515283698/468.ts
 #EXTINF:-1 tvg-name="GLOBO RJ FHD" group-title="GLOBO",GLOBO RJ FHD
