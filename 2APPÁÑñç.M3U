@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1,TYC SPORT HD
 http://planettvweb.com:8091/FernandoOlivera/FO0856/12040
+#EXTINF:-1,TyC Sports HD
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/3110
 #EXTINF:-1,ESPN PREMIUM ARG
 http://planettvweb.com:8091/FernandoOlivera/FO0856/14637
-#EXTINF:-1,ESPN SUR
-http://planettvweb.com:8091/FernandoOlivera/FO0856/20324
-#EXTINF:-1,ESPN 2 SUR_
-http://planettvweb.com:8091/FernandoOlivera/FO0856/20325
-#EXTINF:-1,ESPN 3 SUR
-http://planettvweb.com:8091/FernandoOlivera/FO0856/20326
+#EXTINF:-1,Espn Premium Argentina
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/6463
 #EXTINF:-1,ESPN 4 HD
 http://planettvweb.com:8091/FernandoOlivera/FO0856/21457
 #EXTINF:-1,ESPN ARG HD
@@ -30,12 +28,21 @@ http://planettvweb.com:8091/FernandoOlivera/FO0856/20327
 #EXTINF:-1,TYC SPORTS INTERNACIONAL
 http://planettvweb.com:8091/FernandoOlivera/FO0856/16278
 #EXTINF:-1,TNT SPORT HD
-http://planettvweb.com:8091/FernandoOlivera/FO0856/11873#EXTINF:-1,-------------ARGENTINA---------------
-http://planettvweb.com:8091/FernandoOlivera/FO0856/12809
-#EXTINF:-1,Gran hermano generación dorada 2
-http://planettvweb.com:8091/FernandoOlivera/FO0856/11861
-#EXTINF:-1,Gran hermano generación dorada 3
-http://planettvweb.com:8091/FernandoOlivera/FO0856/116603
+http://planettvweb.com:8091/FernandoOlivera/FO0856/11873
+#EXTINF:-1,ESPN Argentina 1 
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/51157
+#EXTINF:-1,ESPN Argentina 1 HD
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/51155
+#EXTINF:-1,ESPN Argentina 1 FHD
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/51154
+#EXTINF:-1,ESPN Argentina 2 
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/51158
+#EXTINF:-1,ESPN Argentina 2 HD
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/51156
+#EXTINF:-1,ESPN Argentina 3
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/5601
+#EXTINF:-1,ESPN Argentina 3 HD
+http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/31026
 #EXTINF:-1,AMERICA SD
 http://planettvweb.com:8091/FernandoOlivera/FO0856/11866
 #EXTINF:-1,AMERICA 
