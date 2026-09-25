@@ -1,35 +1,137 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUM ARG
-http://planettvweb.com:8091/FernandoOlivera/FO0856/14637
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="ESPN PREMIUM",ARG: ESPN PREMIUM
-http://neosfpoo.top:8080/651709186501141/10209c437ecc/52470
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="Espn Premium Argentina" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png" group-title="ESPN PREMIUM",Espn Premium Argentina
-http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/6463
-#EXTINF:-1,LIGA ARGENTINA: TNT SPORTS SD
-http://liontv.es:8080/RobertoChava/akvca8/1384515
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="EL TRECE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil4zUTiODkAvQ9XYjClZ2UEP8KL0PqdPfbj-WQz5TPxWI22rlo3xUb8c2__3rrQMMSdw_-ByXVeHWNZZuQV7GuZpB_WsuWBUDnKgddl0CJkYqQVGU6WVzZkIDcdGewJPYqpOhWBPCYTJpHqMP3MwRj-Cpb0dL6Srewp53xE-jybnRBR0Kv3RJ2HNa0MA/s551/9%2" group-title="NOTICIAS E INTERNACIONALES",EL TRECE
-http://matrivagoweb.xyz:8080/986300453/123456/66221
-#EXTINF:-1 tvg-id="TODONOTICIAS.ar" tvg-name="TN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzQiJINqw1xDEYVsQnwKXpLpAGsjtD_kTs8bTHKaWQMDx-pRMWRJDDueznOWktYOAFaX6qg8Ejd_ug3UhiyP0J_uQWXy8xUQvYjtco3dsI_OTyScHaR1iwpIPMoa7XvKEwcGbzcGwLX9sFHycFH753Z7CJP2vJ65Exqw28w_SseZPSX9DTcFHtwuyeAg/s1028/1%" group-title="NOTICIAS E INTERNACIONALES",TN
-http://pixelmax.link:8085/larosa760/760larosa/99764
-#EXTINF:-1 tvg-id="TODONOTICIAS.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/960px-A24_%282025%29.svg.png" group-title="NOTICIAS E INTERNACIONALES",A24
-http://app.tecnomolly.com:8080/edithalv/uhc6FdBFVJ/67525
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyFdZxQLNPDApWqru-WWP57MhDPve4NLxvGkNbX9UVEzMfVOhMuJbRsAvgg18b84zc4yLyv7EHc9c79Jt50YDbgi8ETVG2tKFyYyJcw5Z6VqinFNtQLKQVkKYo9081YHsS9uoQLU96FWTCv87wABOiQn4BfoxcVTJaVNXteu_3MXuuas_H1cy0X8nhaw/s320/3%2" group-title="NOTICIAS E INTERNACIONALES",C5N
-http://streamprostk.com:2082/MilagrosFonseca/2Z8DZ4cpQjBe/2340
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZY4KUzurzzNx-9OXIfTJhVlV22Gnw2SgPQknwgxAFC7ncdBrAFpvrU651K_eKjVdSsLGXPva9f3pW4-SwtNVUpZ4kzO3XUZVMqE90iLbfVVZTNzuhhALn3X5aaFLbRyIt7MNq7eqDBx-qHmt1PQYDJGI5R_TRFnIwOQL_e38nuT6MozjYEMMZgzqOuQ/s320/4%2" group-title="NOTICIAS E INTERNACIONALES",CRONICA TV
-http://redworld.pro:8880/Hernan_hernan/fcDcx7fn8vGX/456260
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AMERICA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCDyCdZbPKv9NYrouZlrAeGWJewd4QtkM63iu0A-RozBr5_DHbu5lnIdgukqz0bK5vWUHX0Zj4PdQdcVPmmbDnY_AMPfesCTkTH2AkdrPpT4E-EzWCEz13UDVEKZJLS-gEVgYybNB2XJv1nYgqQkYjDhOQMxYd-zBTDO1SKnq0PPkx7VuzoKpHXnPXcw/s320/6%2" group-title="NOTICIAS E INTERNACIONALES",AMERICA TV
-http://fastream.xyz:8080/935917692tv/a4gqcz4/61551
-#EXTINF:-1 tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgylXfY3j5Z6Ot_rxMcHtX8DMoJiY0L1O9vp5Lrcrf_qJQ-t_Qn1CEOrWzvZNTf04Kca7CD3CB1nJVBwGyAfZb3nKXxm0iHhN5i5cpsbVkO59W_OFFHHD67esm1DhXB5N3KNzUh2yysAzLTEyQXmkupUq8TADI3pNMI3NTZZYqHFY9TPHBpRu7nV0VgYg/s320/7%2" group-title="NOTICIAS E INTERNACIONALES",TELEFE
-http://app.tecnomolly.com:8080/edithalv/uhc6FdBFVJ/181625
-#EXTINF:-1 tvg-id="TvPublica.ar" tvg-name="TV PUBLICA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF541cbtRUmRTpElnJfauZmN-y5IXbfnRRVql9ltGUJPdsbdrWPxsd4wnvzKOwhJKQVnam5DW-p641HYTWILDOd0TavL1PoQrPfeVCBJ244lDyQhfo4A9zU5W-YTY1FF6ONViA6h0YeJbC1Pu78ek90WBzjq_8d-5GeW7xwHXLVtBeBlLe3cPVwedWWg/s320/8%2" group-title="NOTICIAS E INTERNACIONALES",TV PUBLICA
-http://tvpromas.com:2082/56977788462/301222zero/166
-#EXTINF:-1 tvg-id="Elnueve.ar" tvg-name="EL NUEVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4OvjpwwuIYYsZ0y1kReZ-85HK2ERFM0JaidsDum9-2CzYjisfRbMB4FXKtB_snuPGK614cFfVoY3dn_THa4qAFda053KM2B8NXPeq2O2uLNhOkMyeWQUBdQ3asMy2m5QvHVKdyKJgANMt98oGOTh0LCi2GnSo6UPbp3px9gLhzkVegzIcxo_4AEd8Bg/s320/10%" group-title="NOTICIAS E INTERNACIONALES",EL NUEVE
-http://redworld.pro:8880/Hernan_hernan/fcDcx7fn8vGX/456268
-#EXTINF:-1 tvg-id="LNplus.ar" tvg-name="LA NACION+" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVWH6RgXIRcYftqbhCe9ty-TYOXn2Nn9itCA_OESboP_NVeljvPAJ7t5OirClbG-mZf8g61iRHXEvV991YjtHWV93rpPusE4L_VzEt0zlX8p0vYSKgdv3PRJOFIQ0wFR3Jl5ZrQfrjBBbiqnJ_ipajqk414zB4SIO8LdyAM0rh6gyjWadUsZ5LktpRnA/s320/11%" group-title="NOTICIAS E INTERNACIONALES",LA NACION+
-http://streamprostk.com:2082/MilagrosFonseca/2Z8DZ4cpQjBe/2344
-#EXTINF:-1,TyC Sports HD
-http://streamprostk.com:2082/MilagrosFonseca/2Z8DZ4cpQjBe/3110
-#EXTINF:-1,TyC Sports
-http://streamprostk.com:2082/MilagrosFonseca/2Z8DZ4cpQjBe/5582
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="EL TRECE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil4zUTiODkAvQ9XYjClZ2UEP8KL0PqdPfbj-WQz5TPxWI22rlo3xUb8c2__3rrQMMSdw_-ByXVeHWNZZuQV7GuZpB_WsuWBUDnKgddl0CJkYqQVGU6WVzZkIDcdGewJPYqpOhWBPCYTJpHqMP3MwRj-Cpb0dL6Srewp53xE-jybnRBR0Kv3RJ2HNa0MA/s551/9%2" group-title="NOTICIAS E INTERNACIONALES",EL TRECE
-http://playtv44.com:8080/MAR165/123456/66221
+#EXTINF:-1,ARG - TYC
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30720.ts
+#EXTINF:-1,ARG - ESPN PREMIUM ◉
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30758.ts
+#EXTINF:-1,ARG - ESPN
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30737.ts
+#EXTINF:-1,ARG - ESPN+
+http://tectonbrand.com/live/6JHNHCD/224R9FW/69178.ts
+#EXTINF:-1,ARG - ESPN 2
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30736.ts
+#EXTINF:-1,ARG - ESPN 3
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30735.ts
+#EXTINF:-1,ARG - DIRECT TV SPORTS
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30743.ts
+#EXTINF:-1,ARG - DIRECT TV SPORTS 2
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30742.ts
+#EXTINF:-1,ARG - DIRECT TV SPORTS PLUS
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30741.ts
+#EXTINF:-1,ARG - FOX SPORT
+http://tectonbrand.com/live/6JHNHCD/224R9FW/149797.ts
+#EXTINF:-1,ARG - FOX SPORT 2
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30733.ts
+#EXTINF:-1,ARG - AMERICA TV HD ᵛᶦᵖ ◉
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197715.ts
+#EXTINF:-1,ARG - EL TRECE HD ᵛᶦᵖ ◉
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197719.ts
+#EXTINF:-1,ARG - EL NUEVE HD ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197718.ts
+#EXTINF:-1,ARG - A24 HD ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197726.ts
+#EXTINF:-1,ARG - TELEFE HD ᵛᶦᵖ ◉  
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197716.ts
+#EXTINF:-1,ARG - TVP HD ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197717.ts
+#EXTINF:-1,ARG - TN HD ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197729.ts
+#EXTINF:-1,ARG - TYC SPORTS HD ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197732.ts
+#EXTINF:-1,ARG - TNT SPORTS HD ᵛᶦᵖ ◉
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197733.ts
+#EXTINF:-1,ARG - AMERICA TV
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30755.ts
+#EXTINF:-1,ARG - CANAL CIUDAD ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197721.ts
+#EXTINF:-1,ARG - CANAL DE LA CIUDAD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/69173.ts
+#EXTINF:-1,ARG - CANAL 26
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30752.ts
+#EXTINF:-1,ARG - CANAL 4
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30751.ts
+#EXTINF:-1,ARG - CIUDAD MAGAZINE ◉
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30747.ts
+#EXTINF:-1,ARG - EL TRECE
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30740.ts
+#EXTINF:-1,ARG - ELNUEVE
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30739.ts
+#EXTINF:-1,ARG - C5N ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197725.ts
+#EXTINF:-1,ARG - C5N
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30754.ts
+#EXTINF:-1,ARG - A24
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30756.ts
+#EXTINF:-1,ARG - TV PUBLICA ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/216084.ts
+#EXTINF:-1,ARG - TV PUBLICA
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30721.ts
+#EXTINF:-1,ARG - TELEFE
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30727.ts
+#EXTINF:-1,ARG - 26TV ᵛᶦᵖ
+http://tectonbrand.com/live/6JHNHCD/224R9FW/197728.ts
+#EXTINF:-1,ARG - TN
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30724.ts
+#EXTINF:-1,ARG - LN+
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30731.ts
+#EXTINF:-1,ARG - CRONICA
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30745.ts
+#EXTINF:-1,ARG - CANAL ORBE 21 HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088957.ts
+#EXTINF:-1,ARG -  ID INVESTIGATION DISCOVERY HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088958.ts
+#EXTINF:-1,ARG - FX HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088959.ts
+#EXTINF:-1,ARG - HBO MUNDI HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088960.ts
+#EXTINF:-1,ARG - HBO POP HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088961.ts
+#EXTINF:-1,ARG - TEEN NICK HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088963.ts
+#EXTINF:-1,ARG - WARNER HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088964.ts
+#EXTINF:-1,ARG - VOLVER HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088965.ts
+#EXTINF:-1,ARG - UNIVERSAL HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088966.ts
+#EXTINF:-1,ARG - TNT SERIES HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088967.ts
+#EXTINF:-1,ARG - TNT HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088968.ts
+#EXTINF:-1,ARG - SONY HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088969.ts
+#EXTINF:-1,ARG - RURAL HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088970.ts
+#EXTINF:-1,ARG - NAT GEO HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088971.ts
+#EXTINF:-1,ARG - LIFETIME HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088973.ts
+#EXTINF:-1,ARG - HISTORY HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1088974.ts
+#EXTINF:-1,ARG - Claro ARGENTINISIMA SATELITAL
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1076374.ts
+#EXTINF:-1,ARG - NET TV
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1076375.ts
+#EXTINF:-1,ARG - Claro CHACRA TV
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1076376.ts
+#EXTINF:-1,ARG - TODO NOVELAS, MÁS PASIONES
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1076377.ts
+#EXTINF:-1,ARG - HBO 2 HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1091090.ts
+#EXTINF:-1,ARG - E!
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1091091.ts
+#EXTINF:-1,ARG - DEPORTV HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1091092.ts
+#EXTINF:-1,ARG - CARTOON NETWORK HD
+http://tectonbrand.com/live/6JHNHCD/224R9FW/1091093.ts
+#EXTINF:-1,ARG - FOX SPORT 3
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30732.ts
+#EXTINF:-1,ARG - TNT 
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30723.ts
+#EXTINF:-1,ARG - ENCUENTRO
+http://tectonbrand.com/live/6JHNHCD/224R9FW/69169.ts
+#EXTINF:-1,ARG - MUSIC TOP
+http://tectonbrand.com/live/6JHNHCD/224R9FW/30730.ts
+#EXTINF:-1,ARG - CINE AR
+http://tectonbrand.com/live/6JHNHCD/224R9FW/69174.ts
+#EXTINF:-1,ARG - PAKAPAKA
+http://tectonbrand.com/live/6JHNHCD/224R9FW/69176.ts
