@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,TYC SPORT HD
-http://planettvweb.com:8091/FernandoOlivera/FO0856/12040
-#EXTINF:-1,TyC Sports HD
-http://soft.ddns.me:2082/Henrrychilet/H5k8l2o8/3110
+#EXTINF:-1,TYC SPORTS 
+http://planettvweb.com:8091/FernandoOlivera/FO0856/20327
+#EXTINF:-1,TYC SPORTS INTERNACIONAL
+http://planettvweb.com:8091/FernandoOlivera/FO0856/16278
 #EXTINF:-1,ESPN PREMIUM ARG
 http://planettvweb.com:8091/FernandoOlivera/FO0856/14637
 #EXTINF:-1,Espn Premium Argentina
@@ -23,10 +23,6 @@ http://planettvweb.com:8091/FernandoOlivera/FO0856/11702
 http://planettvweb.com:8091/FernandoOlivera/FO0856/20328
 #EXTINF:-1,FOX SPORTS 3 SUR HD
 http://planettvweb.com:8091/FernandoOlivera/FO0856/20329
-#EXTINF:-1,TYC SPORTS 2
-http://planettvweb.com:8091/FernandoOlivera/FO0856/20327
-#EXTINF:-1,TYC SPORTS INTERNACIONAL
-http://planettvweb.com:8091/FernandoOlivera/FO0856/16278
 #EXTINF:-1,TNT SPORT HD
 http://planettvweb.com:8091/FernandoOlivera/FO0856/11873
 #EXTINF:-1,ESPN Argentina 1 
