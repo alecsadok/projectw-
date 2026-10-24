@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="GLOBO",GB Brasilia FHD
-http://play.dnslist.vip/live/rodrigof20iptv/pyw0xirnvmd/91291.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="GLOBO",GB Brasilia 
+http://mjidiptv.com:1997/dikomag/12344321/92638
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="GLOBO",GB SP FHD
-http://krmbr.com:80/11999890163roberto3/2gfrh8f7usm/1655.ts
+http://mjidiptv.com:1997/dikomag/12344321/92627
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="GLOBO",GB RJ FHD
-http://tectonbrand.com/live/6JHNHCD/224R9FW/76214.ts
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="GLOBO",GB RJ FHD
-http://otrasbx.com:80/y8FjVm/xHMSSX/83502
+http://mjidiptv.com:1997/dikomag/12344321/92630
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="GLOBO",GB FHD
+http://mjidiptv.com:1997/dikomag/12344321/51556
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="GLOBO",GB RJ FHD
 http://vukmei.in:80/gBYwhN/sjKykS/83502
 #EXTINF:-1 tvg-id="" tvg-name="BR| Globo News HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="GLOBO NEWS",BR| Globo News HD
-http://vukmei.in:80/gBYwhN/sjKykS/83219
+http://mjidiptv.com:1997/dikomag/12344321/92625
 #EXTINF:-1 tvg-id="" tvg-name="BR| Globo News HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="GLOBO NEWS",BR| Globo News HD
 http://otrasbx.com:80/77WvhA/4pCWt8/83219
 #EXTINF:-1 tvg-id="" tvg-name="BR| Globo News HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="GLOBO NEWS",BR| Globo News HD
@@ -33,8 +33,8 @@ http://planettvweb.com:8091/NicaelaAbalo/TYed5794q/12425
 http://play.dnslist.vip/live/rodrigof20iptv/pyw0xirnvmd/41530.ts
 #EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="BAND",Band SP HD
 http://play.dnslist.vip/live/rosamd/rosan2020/41530.ts
-#EXTINF:-1 tvg-name="Multishow FHD [H265]" group-title="MULTISHOW",Multishow FHD [H265]
-http://otrasbx.com:80/77WvhA/4pCWt8/83358
+#EXTINF:-1 tvg-name="Multishow hd [H265]" group-title="MULTISHOW",Multishow FHD [H265]
+http://mjidiptv.com:1997/dikomag/12344321/75877
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD [H265]" tvg-logo="https://raphmx00.com/multishow.png" group-title="MULTISHOW",Multishow FHD [H265]
 http://otrasbx.com:80/y8FjVm/xHMSSX/83358
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD [H265]" tvg-logo="https://raphmx00.com/multishow.png" group-title="MULTISHOW",Multishow FHD [H265]
@@ -350,3 +350,344 @@ http://p.plexiptv.co:8880/u4bbNwYv/8Jy9sY/1676
 http://p.plexiptv.co:8880/u4bbNwYv/8Jy9sY/5095
 #EXTINF:-1 tvg-name="GLOBO SP HD¹" group-title="GLOBO",GLOBO SP HD¹
 http://star44.xyz:80/A5C8A8A331D36A0/4122054E3580/76213
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CNN BRASIL" tvg-logo="" group-title="BRAZIL",VIP |BR| CNN BRASIL
+http://mjidiptv.com:1997/dikomag/12344321/92874
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO RPC TV" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO RPC TV
+http://mjidiptv.com:1997/dikomag/12344321/92641
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO BH" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO BH
+http://mjidiptv.com:1997/dikomag/12344321/92640
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO BAURU" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO BAURU
+http://mjidiptv.com:1997/dikomag/12344321/92639
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO BRASILIA" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO BRASILIA
+http://mjidiptv.com:1997/dikomag/12344321/92638
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO EPTV CAMPINAS" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO EPTV CAMPINAS
+http://mjidiptv.com:1997/dikomag/12344321/92637
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO FLORIANOPOLIS" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO FLORIANOPOLIS
+http://mjidiptv.com:1997/dikomag/12344321/92636
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO
+http://mjidiptv.com:1997/dikomag/12344321/92635
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO RJ 2" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO RJ 2
+http://mjidiptv.com:1997/dikomag/12344321/92634
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO MINAS" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO MINAS
+http://mjidiptv.com:1997/dikomag/12344321/92633
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO NORDESTE" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO NORDESTE
+http://mjidiptv.com:1997/dikomag/12344321/92632
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO RBS" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO RBS
+http://mjidiptv.com:1997/dikomag/12344321/92631
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO RJ" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO RJ
+http://mjidiptv.com:1997/dikomag/12344321/92630
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO RPC TV CURITIBA" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO RPC TV CURITIBA
+http://mjidiptv.com:1997/dikomag/12344321/92629
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| Globo Sergipe" tvg-logo="" group-title="BRAZIL",VIP |BR| Globo Sergipe
+http://mjidiptv.com:1997/dikomag/12344321/92628
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO SP" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO SP
+http://mjidiptv.com:1997/dikomag/12344321/92627
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO VERDES MARES" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO VERDES MARES
+http://mjidiptv.com:1997/dikomag/12344321/92626
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| Globo News" tvg-logo="" group-title="BRAZIL",VIP |BR| Globo News
+http://mjidiptv.com:1997/dikomag/12344321/92625
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| STAR CHANNEL" tvg-logo="" group-title="BRAZIL",VIP |BR| STAR CHANNEL
+http://mjidiptv.com:1997/dikomag/12344321/88006
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| STAR HITS 2 HD LEGENDADO" tvg-logo="" group-title="BRAZIL",VIP |BR| STAR HITS 2 HD LEGENDADO
+http://mjidiptv.com:1997/dikomag/12344321/88005
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| STAR HITS HD LEGENDADO" tvg-logo="" group-title="BRAZIL",VIP |BR| STAR HITS HD LEGENDADO
+http://mjidiptv.com:1997/dikomag/12344321/88004
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| STAR LIFE" tvg-logo="" group-title="BRAZIL",VIP |BR| STAR LIFE
+http://mjidiptv.com:1997/dikomag/12344321/88003
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ✦✦●✦----VIP |BR| GENERAL VIP |BR|----✦●✦" tvg-logo="" group-title="BRAZIL",VIP |BR| ✦✦●✦----VIP |BR| GENERAL VIP |BR|----✦●✦
+http://mjidiptv.com:1997/dikomag/12344321/75986
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| RECORD HD" tvg-logo="" group-title="BRAZIL",VIP |BR| RECORD HD
+http://mjidiptv.com:1997/dikomag/12344321/75974
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| RECORD RJ HD" tvg-logo="" group-title="BRAZIL",VIP |BR| RECORD RJ HD
+http://mjidiptv.com:1997/dikomag/12344321/75973
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| RECORD SP HD" tvg-logo="" group-title="BRAZIL",VIP |BR| RECORD SP HD
+http://mjidiptv.com:1997/dikomag/12344321/75972
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| WOOHOO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| WOOHOO HD
+http://mjidiptv.com:1997/dikomag/12344321/75971
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| VIVA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| VIVA HD
+http://mjidiptv.com:1997/dikomag/12344321/75970
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| E! HD" tvg-logo="" group-title="BRAZIL",VIP |BR| E! HD
+http://mjidiptv.com:1997/dikomag/12344321/75969
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| EI PLUS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| EI PLUS HD
+http://mjidiptv.com:1997/dikomag/12344321/75968
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| LIFETIME HD" tvg-logo="" group-title="BRAZIL",VIP |BR| LIFETIME HD
+http://mjidiptv.com:1997/dikomag/12344321/75967
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| FOOD NETWORK HD" tvg-logo="" group-title="BRAZIL",VIP |BR| FOOD NETWORK HD
+http://mjidiptv.com:1997/dikomag/12344321/75966
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOOB HD" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOOB HD
+http://mjidiptv.com:1997/dikomag/12344321/75965
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GNT HD" tvg-logo="" group-title="BRAZIL",VIP |BR| GNT HD
+http://mjidiptv.com:1997/dikomag/12344321/75964
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CANAL BRASIL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| CANAL BRASIL HD
+http://mjidiptv.com:1997/dikomag/12344321/75962
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| NOVO TEMPO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| NOVO TEMPO HD
+http://mjidiptv.com:1997/dikomag/12344321/75961
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| REDE BRAZIL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| REDE BRAZIL HD
+http://mjidiptv.com:1997/dikomag/12344321/75960
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| REDE TV HD" tvg-logo="" group-title="BRAZIL",VIP |BR| REDE TV HD
+http://mjidiptv.com:1997/dikomag/12344321/75959
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| REDE VIDA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| REDE VIDA HD
+http://mjidiptv.com:1997/dikomag/12344321/75958
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| REDE AMAZONICA MANAUS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| REDE AMAZONICA MANAUS HD
+http://mjidiptv.com:1997/dikomag/12344321/75957
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SBT NORDESTE HD" tvg-logo="" group-title="BRAZIL",VIP |BR| SBT NORDESTE HD
+http://mjidiptv.com:1997/dikomag/12344321/75956
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SBT HD" tvg-logo="" group-title="BRAZIL",VIP |BR| SBT HD
+http://mjidiptv.com:1997/dikomag/12344321/75955
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SBT SP" tvg-logo="" group-title="BRAZIL",VIP |BR| SBT SP
+http://mjidiptv.com:1997/dikomag/12344321/75954
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| Sbt RJ" tvg-logo="" group-title="BRAZIL",VIP |BR| Sbt RJ
+http://mjidiptv.com:1997/dikomag/12344321/75953
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CURTA! HD" tvg-logo="" group-title="BRAZIL",VIP |BR| CURTA! HD
+http://mjidiptv.com:1997/dikomag/12344321/75952
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV DIARIO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV DIARIO HD
+http://mjidiptv.com:1997/dikomag/12344321/75951
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV GAZETA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV GAZETA HD
+http://mjidiptv.com:1997/dikomag/12344321/75950
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV ANHANGUERA GOIANIA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV ANHANGUERA GOIANIA HD
+http://mjidiptv.com:1997/dikomag/12344321/75949
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV APARECIDA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV APARECIDA HD
+http://mjidiptv.com:1997/dikomag/12344321/75948
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV BAHIA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV BAHIA HD
+http://mjidiptv.com:1997/dikomag/12344321/75947
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV CAMARA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV CAMARA HD
+http://mjidiptv.com:1997/dikomag/12344321/75946
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV JUSTIÇA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV JUSTIÇA HD
+http://mjidiptv.com:1997/dikomag/12344321/75945
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV RA TI BUM HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV RA TI BUM HD
+http://mjidiptv.com:1997/dikomag/12344321/75944
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV SENADO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV SENADO HD
+http://mjidiptv.com:1997/dikomag/12344321/75943
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV TEM BAURU HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV TEM BAURU HD
+http://mjidiptv.com:1997/dikomag/12344321/75942
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| GLOBO EPTV RIBEIRAO PRETO" tvg-logo="" group-title="BRAZIL",VIP |BR| GLOBO EPTV RIBEIRAO PRETO
+http://mjidiptv.com:1997/dikomag/12344321/75941
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV TEM SOROCABA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV TEM SOROCABA HD
+http://mjidiptv.com:1997/dikomag/12344321/75940
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV TRIBUNA SANTOS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV TRIBUNA SANTOS HD
+http://mjidiptv.com:1997/dikomag/12344321/75939
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV VANGUARDA DOS CAMPOS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV VANGUARDA DOS CAMPOS HD
+http://mjidiptv.com:1997/dikomag/12344321/75938
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TV VERDES MARES FORTALEZA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TV VERDES MARES FORTALEZA HD
+http://mjidiptv.com:1997/dikomag/12344321/75937
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ✦✦●✦----VIP |BR| NEWS VIP |BR|----✦●✦" tvg-logo="" group-title="BRAZIL",VIP |BR| ✦✦●✦----VIP |BR| NEWS VIP |BR|----✦●✦
+http://mjidiptv.com:1997/dikomag/12344321/75936
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| RECORD NEWS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| RECORD NEWS HD
+http://mjidiptv.com:1997/dikomag/12344321/75934
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| BAND NEWS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| BAND NEWS HD
+http://mjidiptv.com:1997/dikomag/12344321/75933
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CBS NEWS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| CBS NEWS HD
+http://mjidiptv.com:1997/dikomag/12344321/75932
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ✦✦●✦----VIP |BR| KIDS VIP |BR|----✦●✦" tvg-logo="" group-title="BRAZIL",VIP |BR| ✦✦●✦----VIP |BR| KIDS VIP |BR|----✦●✦
+http://mjidiptv.com:1997/dikomag/12344321/75931
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| BABY HD" tvg-logo="" group-title="BRAZIL",VIP |BR| BABY HD
+http://mjidiptv.com:1997/dikomag/12344321/75930
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| BOOMERANG HD" tvg-logo="" group-title="BRAZIL",VIP |BR| BOOMERANG HD
+http://mjidiptv.com:1997/dikomag/12344321/75929
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CARTOON NETWORK HD" tvg-logo="" group-title="BRAZIL",VIP |BR| CARTOON NETWORK HD
+http://mjidiptv.com:1997/dikomag/12344321/75928
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISNEY CHANNEL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISNEY CHANNEL HD
+http://mjidiptv.com:1997/dikomag/12344321/75927
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISNEY JR HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISNEY JR HD
+http://mjidiptv.com:1997/dikomag/12344321/75926
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISNEY XD HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISNEY XD HD
+http://mjidiptv.com:1997/dikomag/12344321/75925
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| NICK HD" tvg-logo="" group-title="BRAZIL",VIP |BR| NICK HD
+http://mjidiptv.com:1997/dikomag/12344321/75924
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| NICK JR HD" tvg-logo="" group-title="BRAZIL",VIP |BR| NICK JR HD
+http://mjidiptv.com:1997/dikomag/12344321/75923
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TOONCAST HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TOONCAST HD
+http://mjidiptv.com:1997/dikomag/12344321/75922
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| RA TI BUM HD" tvg-logo="" group-title="BRAZIL",VIP |BR| RA TI BUM HD
+http://mjidiptv.com:1997/dikomag/12344321/75921
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ✦✦●✦----VIP |BR| CINEMA VIP |BR|----✦●✦" tvg-logo="" group-title="BRAZIL",VIP |BR| ✦✦●✦----VIP |BR| CINEMA VIP |BR|----✦●✦
+http://mjidiptv.com:1997/dikomag/12344321/75920
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| FOX PREMIUM 1 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| FOX PREMIUM 1 HD
+http://mjidiptv.com:1997/dikomag/12344321/75919
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| FOX PREMIUM 2 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| FOX PREMIUM 2 HD
+http://mjidiptv.com:1997/dikomag/12344321/75918
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HBO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HBO HD
+http://mjidiptv.com:1997/dikomag/12344321/75917
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HBO 2 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HBO 2 HD
+http://mjidiptv.com:1997/dikomag/12344321/75916
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HBO FAMILY HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HBO FAMILY HD
+http://mjidiptv.com:1997/dikomag/12344321/75915
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HBO XTREME HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HBO XTREME HD
+http://mjidiptv.com:1997/dikomag/12344321/75914
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HBO PLUS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HBO PLUS HD
+http://mjidiptv.com:1997/dikomag/12344321/75913
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HBO SIGNATURE HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HBO SIGNATURE HD
+http://mjidiptv.com:1997/dikomag/12344321/75912
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HBO MUNDI HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HBO MUNDI HD
+http://mjidiptv.com:1997/dikomag/12344321/75911
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HBO POP HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HBO POP HD
+http://mjidiptv.com:1997/dikomag/12344321/75910
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| MAX PRIME HD" tvg-logo="" group-title="BRAZIL",VIP |BR| MAX PRIME HD
+http://mjidiptv.com:1997/dikomag/12344321/75909
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PREMIERE CLUBES HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PREMIERE CLUBES HD
+http://mjidiptv.com:1997/dikomag/12344321/75908
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PREMIERE 2 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PREMIERE 2 HD
+http://mjidiptv.com:1997/dikomag/12344321/75907
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PREMIERE 3 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PREMIERE 3 HD
+http://mjidiptv.com:1997/dikomag/12344321/75906
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PREMIERE 4 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PREMIERE 4 HD
+http://mjidiptv.com:1997/dikomag/12344321/75905
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PREMIERE 5 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PREMIERE 5 HD
+http://mjidiptv.com:1997/dikomag/12344321/75904
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PREMIERE 6 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PREMIERE 6 HD
+http://mjidiptv.com:1997/dikomag/12344321/75903
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PREMIERE 7 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PREMIERE 7 HD
+http://mjidiptv.com:1997/dikomag/12344321/75902
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PREMIERE 8 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PREMIERE 8 HD
+http://mjidiptv.com:1997/dikomag/12344321/75901
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TELECINE PREMIUM HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TELECINE PREMIUM HD
+http://mjidiptv.com:1997/dikomag/12344321/75900
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TNT HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TNT HD
+http://mjidiptv.com:1997/dikomag/12344321/75899
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TNT SERIES HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TNT SERIES HD
+http://mjidiptv.com:1997/dikomag/12344321/75898
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TELECINE ACTION HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TELECINE ACTION HD
+http://mjidiptv.com:1997/dikomag/12344321/75897
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TELECINE CULT HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TELECINE CULT HD
+http://mjidiptv.com:1997/dikomag/12344321/75896
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TELECINE FUN HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TELECINE FUN HD
+http://mjidiptv.com:1997/dikomag/12344321/75895
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TELECINE PIPOCA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TELECINE PIPOCA HD
+http://mjidiptv.com:1997/dikomag/12344321/75894
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TELECINE TOUCH HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TELECINE TOUCH HD
+http://mjidiptv.com:1997/dikomag/12344321/75893
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| WARNER CHANNEL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| WARNER CHANNEL HD
+http://mjidiptv.com:1997/dikomag/12344321/75892
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| AMC HD" tvg-logo="" group-title="BRAZIL",VIP |BR| AMC HD
+http://mjidiptv.com:1997/dikomag/12344321/75891
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ARTE 1 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| ARTE 1 HD
+http://mjidiptv.com:1997/dikomag/12344321/75890
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| AXN HD" tvg-logo="" group-title="BRAZIL",VIP |BR| AXN HD
+http://mjidiptv.com:1997/dikomag/12344321/75889
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| BAND CAMPINAS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| BAND CAMPINAS HD
+http://mjidiptv.com:1997/dikomag/12344321/75888
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| BAND SP HD" tvg-logo="" group-title="BRAZIL",VIP |BR| BAND SP HD
+http://mjidiptv.com:1997/dikomag/12344321/75887
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| BAND TV GOIANIA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| BAND TV GOIANIA HD
+http://mjidiptv.com:1997/dikomag/12344321/75886
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CINEMAX HD" tvg-logo="" group-title="BRAZIL",VIP |BR| CINEMAX HD
+http://mjidiptv.com:1997/dikomag/12344321/75885
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| COMEDY CENTRAL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| COMEDY CENTRAL HD
+http://mjidiptv.com:1997/dikomag/12344321/75884
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| FOX HD" tvg-logo="" group-title="BRAZIL",VIP |BR| FOX HD
+http://mjidiptv.com:1997/dikomag/12344321/75883
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| FOX LIFE HD" tvg-logo="" group-title="BRAZIL",VIP |BR| FOX LIFE HD
+http://mjidiptv.com:1997/dikomag/12344321/75882
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| FX HD" tvg-logo="" group-title="BRAZIL",VIP |BR| FX HD
+http://mjidiptv.com:1997/dikomag/12344321/75881
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| MEGAPIX HD" tvg-logo="" group-title="BRAZIL",VIP |BR| MEGAPIX HD
+http://mjidiptv.com:1997/dikomag/12344321/75878
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| MULTISHOW HD" tvg-logo="" group-title="BRAZIL",VIP |BR| MULTISHOW HD
+http://mjidiptv.com:1997/dikomag/12344321/75877
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| OFF HD" tvg-logo="" group-title="BRAZIL",VIP |BR| OFF HD
+http://mjidiptv.com:1997/dikomag/12344321/75876
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| PARAMOUNT HD" tvg-logo="" group-title="BRAZIL",VIP |BR| PARAMOUNT HD
+http://mjidiptv.com:1997/dikomag/12344321/75875
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SONY CHANNEL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| SONY CHANNEL HD
+http://mjidiptv.com:1997/dikomag/12344321/75874
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SPACE HD" tvg-logo="" group-title="BRAZIL",VIP |BR| SPACE HD
+http://mjidiptv.com:1997/dikomag/12344321/75873
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| STUDIO UNIVERSAL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| STUDIO UNIVERSAL HD
+http://mjidiptv.com:1997/dikomag/12344321/75872
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SYFY HD" tvg-logo="" group-title="BRAZIL",VIP |BR| SYFY HD
+http://mjidiptv.com:1997/dikomag/12344321/75871
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TBS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TBS HD
+http://mjidiptv.com:1997/dikomag/12344321/75870
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TCM HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TCM HD
+http://mjidiptv.com:1997/dikomag/12344321/75869
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TLC HD" tvg-logo="" group-title="BRAZIL",VIP |BR| TLC HD
+http://mjidiptv.com:1997/dikomag/12344321/75868
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| UNIVERSAL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| UNIVERSAL HD
+http://mjidiptv.com:1997/dikomag/12344321/75867
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ZOOMOO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| ZOOMOO HD
+http://mjidiptv.com:1997/dikomag/12344321/75866
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| A&E HD" tvg-logo="" group-title="BRAZIL",VIP |BR| A&E HD
+http://mjidiptv.com:1997/dikomag/12344321/75865
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| EPTV SÃO CARLOS" tvg-logo="" group-title="BRAZIL",VIP |BR| EPTV SÃO CARLOS
+http://mjidiptv.com:1997/dikomag/12344321/75864
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| EPTV CAMPINAS" tvg-logo="" group-title="BRAZIL",VIP |BR| EPTV CAMPINAS
+http://mjidiptv.com:1997/dikomag/12344321/75863
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CINE MARVEL VS DC" tvg-logo="" group-title="BRAZIL",VIP |BR| CINE MARVEL VS DC
+http://mjidiptv.com:1997/dikomag/12344321/75862
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| TELECINE ACTION" tvg-logo="" group-title="BRAZIL",VIP |BR| TELECINE ACTION
+http://mjidiptv.com:1997/dikomag/12344321/75861
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CINE TERROR" tvg-logo="" group-title="BRAZIL",VIP |BR| CINE TERROR
+http://mjidiptv.com:1997/dikomag/12344321/75860
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CINE SKY HD 1" tvg-logo="" group-title="BRAZIL",VIP |BR| CINE SKY HD 1
+http://mjidiptv.com:1997/dikomag/12344321/75859
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CINE SKY HD 2" tvg-logo="" group-title="BRAZIL",VIP |BR| CINE SKY HD 2
+http://mjidiptv.com:1997/dikomag/12344321/75858
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CINE SKY HD 3" tvg-logo="" group-title="BRAZIL",VIP |BR| CINE SKY HD 3
+http://mjidiptv.com:1997/dikomag/12344321/75857
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| CINE SKY HD 7" tvg-logo="" group-title="BRAZIL",VIP |BR| CINE SKY HD 7
+http://mjidiptv.com:1997/dikomag/12344321/75853
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ✦✦●✦----VIP |BR| SPORTS VIP |BR|----✦●✦" tvg-logo="" group-title="BRAZIL",VIP |BR| ✦✦●✦----VIP |BR| SPORTS VIP |BR|----✦●✦
+http://mjidiptv.com:1997/dikomag/12344321/75849
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SPORTV 1 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| SPORTV 1 HD
+http://mjidiptv.com:1997/dikomag/12344321/75848
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SPORTV 2 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| SPORTV 2 HD
+http://mjidiptv.com:1997/dikomag/12344321/75847
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| SPORTV 3 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| SPORTV 3 HD
+http://mjidiptv.com:1997/dikomag/12344321/75846
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| FOX SPORTS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| FOX SPORTS HD
+http://mjidiptv.com:1997/dikomag/12344321/75845
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| FOX SPORTS 2 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| FOX SPORTS 2 HD
+http://mjidiptv.com:1997/dikomag/12344321/75844
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ESPN BRAZIL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| ESPN BRAZIL HD
+http://mjidiptv.com:1997/dikomag/12344321/75843
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ESPN EXTRA HD" tvg-logo="" group-title="BRAZIL",VIP |BR| ESPN EXTRA HD
+http://mjidiptv.com:1997/dikomag/12344321/75842
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ESPN 2 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| ESPN 2 HD
+http://mjidiptv.com:1997/dikomag/12344321/75841
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ESPN HD" tvg-logo="" group-title="BRAZIL",VIP |BR| ESPN HD
+http://mjidiptv.com:1997/dikomag/12344321/75840
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| COMBATE HD" tvg-logo="" group-title="BRAZIL",VIP |BR| COMBATE HD
+http://mjidiptv.com:1997/dikomag/12344321/75839
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| BAND SPORTS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| BAND SPORTS HD
+http://mjidiptv.com:1997/dikomag/12344321/75838
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| EI PLUS 1 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| EI PLUS 1 HD
+http://mjidiptv.com:1997/dikomag/12344321/75837
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ✦✦●✦----VIP |BR| MUSIC VIP |BR|----✦●✦" tvg-logo="" group-title="BRAZIL",VIP |BR| ✦✦●✦----VIP |BR| MUSIC VIP |BR|----✦●✦
+http://mjidiptv.com:1997/dikomag/12344321/75833
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| BIS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| BIS HD
+http://mjidiptv.com:1997/dikomag/12344321/75832
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| MTV BRAZIL HD" tvg-logo="" group-title="BRAZIL",VIP |BR| MTV BRAZIL HD
+http://mjidiptv.com:1997/dikomag/12344321/75831
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| MTV LIVE HD" tvg-logo="" group-title="BRAZIL",VIP |BR| MTV LIVE HD
+http://mjidiptv.com:1997/dikomag/12344321/75830
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ✦✦●✦----VIP |BR| DOCUMANTARY VIP |BR|----✦●✦" tvg-logo="" group-title="BRAZIL",VIP |BR| ✦✦●✦----VIP |BR| DOCUMANTARY VIP |BR|----✦●✦
+http://mjidiptv.com:1997/dikomag/12344321/75829
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| ANIMAL PLANET HD" tvg-logo="" group-title="BRAZIL",VIP |BR| ANIMAL PLANET HD
+http://mjidiptv.com:1997/dikomag/12344321/75828
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISCOVERY HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISCOVERY HD
+http://mjidiptv.com:1997/dikomag/12344321/75827
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISCOVERY HOME & HEALTH HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISCOVERY HOME & HEALTH HD
+http://mjidiptv.com:1997/dikomag/12344321/75826
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISCOVERY KIDS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISCOVERY KIDS HD
+http://mjidiptv.com:1997/dikomag/12344321/75825
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISCOVERY SCIENCE HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISCOVERY SCIENCE HD
+http://mjidiptv.com:1997/dikomag/12344321/75824
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISCOVERY THEATER HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISCOVERY THEATER HD
+http://mjidiptv.com:1997/dikomag/12344321/75823
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISCOVERY TURBO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISCOVERY TURBO HD
+http://mjidiptv.com:1997/dikomag/12344321/75822
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISCOVERY WORLD HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISCOVERY WORLD HD
+http://mjidiptv.com:1997/dikomag/12344321/75821
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HISTORY CH. HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HISTORY CH. HD
+http://mjidiptv.com:1997/dikomag/12344321/75820
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| H2 HD" tvg-logo="" group-title="BRAZIL",VIP |BR| H2 HD
+http://mjidiptv.com:1997/dikomag/12344321/75819
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| HGTV HD" tvg-logo="" group-title="BRAZIL",VIP |BR| HGTV HD
+http://mjidiptv.com:1997/dikomag/12344321/75818
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| DISCOVERY ID-INVESTIGACAO HD
+http://mjidiptv.com:1997/dikomag/12344321/75817
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| NAT GEO HD" tvg-logo="" group-title="BRAZIL",VIP |BR| NAT GEO HD
+http://mjidiptv.com:1997/dikomag/12344321/75816
+#EXTINF:-1 tvg-id="" tvg-name="VIP |BR| NAT GEO KIDS HD" tvg-logo="" group-title="BRAZIL",VIP |BR| NAT GEO KIDS HD
+http://mjidiptv.com:1997/dikomag/12344321/75815
